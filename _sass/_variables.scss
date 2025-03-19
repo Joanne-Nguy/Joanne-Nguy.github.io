@@ -6,31 +6,31 @@
 @use "sass:color";
 
 // Colors
-$red-color: #ff3636 !default;
-$red-color-dark: #b71c1c !default;
-$orange-color: #f29105 !default;
-$blue-color: #0076df !default;
-$blue-color-dark: #00369f !default;
-$cyan-color: #2698ba !default;
+$red-color: #bf616a !default;
+$red-color-dark: #962835 !default;
+$orange-color: #d08770 !default;
+$blue-color: #81a1c1 !default;
+$blue-color-dark: #5e81ac !default;
+$cyan-color: #88c0d0 !default;
 $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
-$green-color: #00ab37 !default;
-$green-color-lime: #b7d12a !default;
+$green-color: #8fbcbb !default;
+$green-color-lime: #a3be8c !default;
 $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
-$purple-color: #b509ac !default;
+$purple-color: #b48ead !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
-$yellow-color: #efcc00 !default;
+$yellow-color: #ebcb8b !default;
 
-$grey-color: #828282 !default;
+$grey-color: #e5e9f0 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
-$grey-color-dark: #1c1c1d;
+$grey-color-dark: #d8dee9;
 $grey-900: #212529;
 
 $white-color: #ffffff !default;
-$black-color: #000000 !default;
+$black-color: #2e3440 !default;
 
 // Theme colors
 
