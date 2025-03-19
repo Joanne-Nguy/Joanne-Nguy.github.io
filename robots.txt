@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://joanne-nguy.github.io/home//sitemap.xml
+Sitemap: https://joanne-nguy.github.io/sitemap.xml
