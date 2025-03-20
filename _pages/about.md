@@ -26,8 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! 
+I'm a molecular biologist by training after graduating with a Bachelors of Science from the University of Toronto in 2019. My passion is in process development and optimization both in the lab and through scripting.
 
-I'm a molecular biologist by training after graduating with a Bachelors of Science from the University of Toronto in 2019. My passion is in learning more about my field and process development.
-
-In my spare time, I love [baking](https://joanne-nguy.github.io/blog/) creative recipes (especially cookies!) and walks by the ocean🌊.
+In my spare time, I love baking creative [recipes](https://joanne-nguy.github.io/blog/) (especially cookies!) and walks by the ocean🌊.
