@@ -21,7 +21,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 - 2 Mixing bowls (preferably heat-proof)
 - Large sifter
 - Measuring cups/spoons
-- Cookie scoop
+- Cookie scoop (2 Tbsp)
 - Freezer bag
 - 2 Large baking sheets
 - Cooling rack
@@ -45,6 +45,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 |<input type="checkbox">|Optional: Heath Bar Bits O’ Brickle English Toffee|1/2 cup (75g)|None|
 |<input type="checkbox">|Optional: Flaky sea salt|1/2 Tsp|None|
 
+<br/>
 
 #### Procedure
 
@@ -69,22 +70,30 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 12. Cover mixing bowl and place in the fridge for 1-2 hours.
 13. Scoop cookies and place into a freezer bag. Let the dough rest for 24-48 hours.
 14. Bake at 350<sup>o</sup> for 12-14 mins until edges are golden brown.
-    1.  Time will depend on factors such as cookie scoop size and texture preference. Try 13 mins first, then adjust from there.
+    1.  Space cookies with 2" between each to allow room for spreading.
+    2.  Time will depend on factors such as cookie scoop size and texture preference. Try 13 mins first, then adjust from there.
 15. Allow cookies to cool on the baking sheet for 10-15 mins before moving to wire rack. Add flaky sea salt.
 16. Cookies stay fresh for 3 days on the counter or 1 week in the fridge.
     1.  Microwave for ~7s before enjoying.
-17. Extra dough can be stored in the freezer for up to 6 months. When baking, use 350<sup>o</sup> and add a minute to the bake time.
+17. Extra dough can be stored in the freezer for up to 6 months. When baking from frozen, use 350<sup>o</sup> and add a minute to the bake time.
 
 #### Discussion
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" size="400px" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" sizes="400px" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Brown butter chocolate chip cookies with flaky sea salt on top. Photo from Unsplash.
 </div>
 
+With so many cookie flavors and combinations out there, I find myself coming back to this classic recipe time and time again. If I happen to make too many, it's a crowd pleaser at gatherings and the platter is empty in no time. The best thing about this recipe is that it serves as a great foundation for ingredient substitutions!
+
+##### Chocolate Chips
+
+In this recipe I prefer extra-dark chocolate chips from [Guittard](https://www.guittard.com/our-chocolate/detail/extra-dark-chocolate-chips), but a great substitute from them are their [baking wafers](https://www.guittard.com/our-chocolate/detail/bake_bittersweet-chocolate-wafers) which allows for pools of chocolate throughout the cookie. Chopping them with a steak knife adds smaller shards of chocolate which polka dot the dough and really allows flavours to develop when chilling the dough in the fridge. The bitterness of the dark chocolate really balances the sweetness of the dough and toffee bits!
+
+Feel free to add more or less chocolate chips based on your preference. The current recipe aims for about 5 chocolate chips per cookie.
 
 
