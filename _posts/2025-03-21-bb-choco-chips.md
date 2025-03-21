@@ -26,7 +26,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 - 2 Large baking sheets
 - Cooling rack
 - Silicone cookie sheet
-- (Optional) Mixer
+- (Optional) Mixer with paddle attachment
 
 #### Reagents
 
@@ -62,7 +62,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 4. Immediately take off heat and pour browned butter including milk solids into heat-proof bowl with sugar.
 5. Chill bowl in ice bath or fridge for 15-20mins until solid but still soft to touch.
 6. While waiting, sift flour, baking soda and salt into a mixing bowl. Set aside.
-7. Whisk brown butter and sugar on medium until combined ~1 mins.
+7. Whisk brown butter and sugar on medium until combined ~1 min.
 8. Add vanilla and eggs.
 9. Whisk wet ingredients on high until fluffy ~2 mins.
 10. Whisk on low. Add half of dry ingredients until combined. Add the rest of the dry ingredients until combined. Scrape down the sides of the bowl.
@@ -81,7 +81,12 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" sizes="height:400px" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid 
+        loading="lazy" 
+        path="https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+        sizes = "400px" 
+        class="img-fluid rounded z-depth-1" 
+        avoid_scaling=true %}
     </div>
 </div>
 <div class="caption">
@@ -98,7 +103,7 @@ Feel free to add more or less chocolate chips based on your preference. The curr
 
 ##### Brown Butter
 
-Liquid gold in edible form! In this recipe we add more milk powder to the hot butter to yield even more nutty goodness. It's possible to make brown butter in advance, but the milk solids will sink, so be mindful of that when portioning!
+Liquid gold in edible form! In this recipe we add more milk powder to the hot butter to yield even more maillard reactions and nutty goodness. It's possible to make brown butter in advance, but the milk solids will sink, so be mindful of that when portioning!
 
 I've also been experimenting with adding other ingredients to the brown butter to enhance flavour. In an attempt to make peaty whiskey taste a little more palatable, I [fat-washed](https://distilleryway.com/articles/brown-butter-fat-washed-whisky-i-tried-it-and-its-incredible) it with brown butter. In short, whiskey and liquid brown butter are mixed together and left to sit on the counter to allow the water-soluble and fat-soluble parts of the butter mix with the whiskey. This allows certain flavours to be imparted to the butter, while achieving a smoother whiskey. Whiskey brown butter is a byproduct of this process and perfect for adding to cookies! Be mindful that not all the liquid will be filtered from the butter - my first batch of cookies using the whiskey brown butter ended up being way too gooey. For future batches without whiskey brown butter on hand, a shot of whiskey can be added straight to the wet ingredients in its stead.
 
