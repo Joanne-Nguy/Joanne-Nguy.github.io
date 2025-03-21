@@ -32,13 +32,13 @@ ninja.data = [{
           },
         },{id: "post-brown-butter-chocolate-chip-cookies",
       
-        title: "Brown butter chocolate chip cookies",
+        title: "brown butter chocolate chip cookies",
       
       description: "my popular brown butter chocolate chip cookies",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/choco-chips/";
+          window.location.href = "/blog/2025/bb-choco-chips/";
         
       },
     },{id: "books-the-godfather",
