@@ -76,12 +76,12 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 
 <table>
   <tr>
-    <th>Yield</th>
+    <th>Yield       </th>
     <td>20-24 if using a 2-Tbsp cookie scoop</td>
   </tr>
   <tr>
-    <th>Storage</th>
-    <td><li>Cookies stay fresh for 3 days on the counter or 1 week in the fridge. Microwave for ~7s before enjoying.</li><li>Extra dough can be stored in the freezer for up to 6 months. When baking from frozen, pre-heat the oven to 350<sup>o</sup> and add a minute to the bake time.</li></td>
+    <th>Storage     </th>
+    <td>Cookies stay fresh for 3 days on the counter or 1 week in the fridge. Microwave for ~7s before enjoying.</br>Extra dough can be stored in the freezer for up to 6 months. When baking from frozen, pre-heat the oven to 350<sup>o</sup> and add a minute to the bake time.</td>
   </tr>
 </table>
 
@@ -93,7 +93,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
         {% include figure.liquid 
         loading="lazy" 
         path="https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
-        sizes = "400px" 
+        sizes = "200px" 
         class="img-fluid rounded z-depth-1" 
         avoid_scaling=true %}
     </div>
