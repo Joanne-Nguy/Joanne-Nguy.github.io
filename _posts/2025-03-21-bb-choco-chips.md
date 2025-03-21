@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brown butter chocolate chip cookies
+title: brown butter chocolate chip cookies
 date: 2025-03-21
 description: my popular brown butter chocolate chip cookies
 tags: cookies, baking
@@ -76,6 +76,15 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 17. Extra dough can be stored in the freezer for up to 6 months. When baking, use 350<sup>o</sup> and add a minute to the bake time.
 
 #### Discussion
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" size="400px" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Brown butter chocolate chip cookies with flaky sea salt on top. Photo from Unsplash.
+</div>
 
 
 
