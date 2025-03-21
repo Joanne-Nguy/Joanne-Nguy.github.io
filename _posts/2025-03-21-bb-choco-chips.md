@@ -9,7 +9,7 @@ categories: recipes
 
 #### Abstract
 
-A recipe that I've perfected after dozens and dozens of batches - here's my take on the classic chocolate chip cookie!
+A recipe that I've perfected and have baked dozens and dozens of batches - here's my take on the classic chocolate chip cookie!
 
 Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-toffee-chocolate-chip-cookies/) recipe.
 
@@ -35,7 +35,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 |<input type="checkbox">|Unsalted Butter|1 cup (16 Tbsp; 226g)|Room temperature|
 |<input type="checkbox">|Packed light or dark brown sugar|1 cup (200g)|None|
 |<input type="checkbox">|Granulated sugar|1/2 cup (100g)|None|
-|<input type="checkbox">|Optional: (Malted) milk poweder|2 Tbsp|None|
+|<input type="checkbox">|Optional: (Malted) milk powder|2 Tbsp|None|
 |<input type="checkbox">|Large eggs|2|Room temperature|
 |<input type="checkbox">|Pure vanilla extract|2 Tsp|None|
 |<input type="checkbox">|All-purpose flour|2 and 1/2 cups (313g)|Spooned & leveled|
@@ -114,17 +114,11 @@ Feel free to add more or less chocolate chips based on your preference. The curr
 
 Liquid gold in edible form! In this recipe we add more milk powder to the hot butter to yield even more maillard reactions and nutty goodness. It's possible to make brown butter in advance, but the milk solids will sink, so be mindful of that when portioning!
 
-I've also been experimenting with adding other ingredients to the brown butter to enhance flavour. In an attempt to make peaty whiskey taste a little more palatable, I [fat-washed](https://distilleryway.com/articles/brown-butter-fat-washed-whisky-i-tried-it-and-its-incredible) it with brown butter. In short, whiskey and liquid brown butter are mixed together and left to sit on the counter to allow the water-soluble and fat-soluble parts of the butter mix with the whiskey. This allows certain flavours to be imparted to the butter, while achieving a smoother whiskey. Whiskey brown butter is a byproduct of this process and perfect for adding to cookies! Be mindful that not all the liquid will be filtered from the butter - my first batch of cookies using the whiskey brown butter ended up being way too gooey. For future batches without whiskey brown butter on hand, a shot of whiskey can be added straight to the wet ingredients in its stead.
+I've also been experimenting with adding other ingredients to the brown butter to enhance flavour. In an attempt to make peaty whiskey taste a little more palatable, I [fat-washed](https://distilleryway.com/articles/brown-butter-fat-washed-whisky-i-tried-it-and-its-incredible) it with brown butter. In short, whiskey and liquid brown butter were mixed together and left to sit on the counter to allow the water-soluble and fat-soluble parts of the butter mix with the whiskey. This allows certain flavours to be imparted to the butter, while achieving a smoother whiskey. Whiskey brown butter is a byproduct of this process and perfect for adding to cookies! Be mindful that not all the liquid will be filtered from the butter - my first batch of cookies using the whiskey brown butter ended up being way too gooey. For future batches without whiskey brown butter on hand, a shot of whiskey can be added straight to the wet ingredients in its stead.
 
 ##### Toffee Bits
 
 The most flexible ingredient slot in this recipe! The toffee bits add a bit of caramelly crunch to the otherwise soft texture of the cookies and really complements the flavour profile I'm going for. That said, the toffee bits can be substituted for anything you want - nuts, marshmellows, dried fruit, the possibilities are endless. However, it's important to understand how extra moisture will affect the spreading of the cookie dough.
-
-##### Chilling Time
-
-[Chilling](https://www.kingarthurbaking.com/blog/2015/05/17/chilling-cookie-dough) the cookie dough has multiple effects on the final cookie. The most obvious is spread - cold fats, and thus, cold dough will spread less in the oven, lending itself to a smaller and thicker cookie. This helps keep the center moist and gooey while the outside crisps up as it bakes. Conversely, if a thinner, crispy cookie is your aim, then baking cookies without chilling will help you achieve that.
-
-When leaving your cookie dough in the fridge for long periods of time, chemical reactions occur in the dough which help develop and deepen the flavors. The enzyme, amylase, that naturally occurs in the flour [break down](https://www.theperfectloaf.com/guides/how-to-autolyse/#h-how-to-autolyse) complex carbohydrates into simple sugars. The result is a sweeter, more complex tasting cookie dough. That's why I recommend chilling cookie dough for 24-48 hours for maximum impact. However, one can't help but bake a cookie after a short 1 hour chill to taste test.
 
 ##### Flour
 
@@ -133,3 +127,10 @@ Although a staple in the recipe, some or all of the all-purpose flour can be sub
 Other powdered flavour enhancers can be substituted in near equal parts with the flour removed. For example, for an espresso cookie, I substituted 20g of flour for 20g of freshly ground espresso powder, which resulted in a cookie with similar texture and a whole new flavor profile. Other powders to try are malted milk powder (the malt is key since it's not water soluble and will not affect the wet:dry ratio of the dough), cocoa powder, matcha powder and dehydrated fruit powders.
 
 An [Arthur chocolate chip recipe](https://www.kingarthurbaking.com/blog/2023/12/27/recipe-of-the-year-chocolate-chip-cookies) calls for the addition of a milk bread roux, Tangzhong. The roux is a combination of (whole) milk and flour cooked on the stove to create a pre-hydrated dough that lends itself to the chewiest texture I've ever experienced in a cookie. This is yet another time consuming process adding to an already long protocol, but definitely worth it if you have the time to spare!
+
+##### Chilling Time
+
+[Chilling](https://www.kingarthurbaking.com/blog/2015/05/17/chilling-cookie-dough) the cookie dough has multiple effects on the final cookie. The most obvious is spread - cold fats, and thus, cold dough will spread less in the oven, lending itself to a smaller and thicker cookie. This helps keep the center moist and gooey while the outside crisps up as it bakes. Conversely, if a thinner, crispy cookie is your aim, then baking cookies without chilling will help you achieve that.
+
+When leaving your cookie dough in the fridge for long periods of time, chemical reactions occur in the dough which help develop and deepen the flavors. The enzyme, amylase, that naturally occurs in the flour [break down](https://www.theperfectloaf.com/guides/how-to-autolyse/#h-how-to-autolyse) complex carbohydrates into simple sugars. The result is a sweeter, more complex tasting cookie dough. That's why I recommend chilling cookie dough for 24-48 hours for maximum impact. However, one can't help but bake a cookie after a short 1 hour chill to taste test.
+
