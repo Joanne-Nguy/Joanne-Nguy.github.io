@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-brown-butter-chocolate-chip-cookies",
+      
+        title: "Brown butter chocolate chip cookies",
+      
+      description: "my popular brown butter chocolate chip cookies",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/choco-chips/";
+        
+      },
+    },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
