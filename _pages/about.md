@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I'm a molecular biologist by training after graduating with a Bachelors of Science from the University of Toronto in 2019. My passion is in process development and optimization both in the lab and through scripting.
+I have a background in molecular biology and assay development. I specialize in process optimization and data analysis, ensuring high-quality and reproducible results in biotech research.
+
+Throughout my career, I’ve worked closely with R&D teams to develop robust assays, troubleshoot technical challenges, and streamline workflows. I’m passionate about innovation and continuously improving laboratory processes to drive impactful results.
 
 In my spare time, I love baking creative [recipes](https://joanne-nguy.github.io/blog/tags/baking) (especially cookies!) and walks by the ocean🌊.
