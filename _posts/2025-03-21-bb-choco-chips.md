@@ -50,7 +50,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 
 1. In a heat-proof bowl, add brown sugar and granulated sugar.
 2. (Optional) Place the heat-proof bowl in an ice bath.
-3. Brown the butter:</br>
+3. Brown the butter:
    1. Heat a light-colored pan to medium heat on the stove.
    2. Cut softened butter into small, equally-sized cubes.
    3. Once pan has heated up, add butter.
