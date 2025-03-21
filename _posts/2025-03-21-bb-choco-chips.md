@@ -7,6 +7,8 @@ tags: cookies, baking
 categories: recipes
 ---
 
+#### Abstract
+
 A recipe that I've perfected after dozens and dozens of batches - here's my take on the classic chocolate chip cookie!
 
 Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-toffee-chocolate-chip-cookies/) recipe.
@@ -43,6 +45,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 |<input type="checkbox">|Optional: Heath Bar Bits O’ Brickle English Toffee|1/2 cup (75g)|None|
 |<input type="checkbox">|Optional: Flaky sea salt|1/2 Tsp|None|
 
+
 #### Procedure
 
 1. In a heat-proof bowl, add brown sugar and granulated sugar.
@@ -69,8 +72,8 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
     1.  Time will depend on factors such as cookie scoop size and texture preference. Try 13 mins first, then adjust from there.
 15. Allow cookies to cool on the baking sheet for 10-15 mins before moving to wire rack. Add flaky sea salt.
 16. Cookies stay fresh for 3 days on the counter or 1 week in the fridge.
-17. Microwave for ~7s before enjoying.
-18. Extra dough can be stored in the freezer for up to 6 months. When baking, use 350<sup>o</sup> and add a minute to the bake time.
+    1.  Microwave for ~7s before enjoying.
+17. Extra dough can be stored in the freezer for up to 6 months. When baking, use 350<sup>o</sup> and add a minute to the bake time.
 
 #### Discussion
 
