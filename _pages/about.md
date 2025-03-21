@@ -28,4 +28,4 @@ latest_posts:
 ---
 I'm a molecular biologist by training after graduating with a Bachelors of Science from the University of Toronto in 2019. My passion is in process development and optimization both in the lab and through scripting.
 
-In my spare time, I love baking creative [recipes](https://joanne-nguy.github.io/blog/) (especially cookies!) and walks by the ocean🌊.
+In my spare time, I love baking creative [recipes](https://joanne-nguy.github.io/blog/tags/baking) (especially cookies!) and walks by the ocean🌊.
