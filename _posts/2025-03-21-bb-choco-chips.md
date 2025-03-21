@@ -69,19 +69,19 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 11. Add chocolate chips and toffee bits, if using. Mix with spatula until combined, ensuring bottom is well-mixed.
 12. Cover mixing bowl and place in the fridge for 1-2 hours.
 13. Scoop cookies and place into a freezer bag. Let the dough rest for 24-48 hours.
-14. Bake at 350<sup>o</sup> for 12-14 mins until edges are golden brown.
+14. Pre-heat the oven and bake at 350<sup>o</sup> for 12-14 mins until bottom edges are golden brown.
     1.  Space cookies with 2" between each to allow room for spreading.
     2.  Time will depend on factors such as cookie scoop size and texture preference. Try 13 mins first, then adjust from there.
 15. Allow cookies to cool on the baking sheet for 10-15 mins before moving to wire rack. Add flaky sea salt.
 16. Cookies stay fresh for 3 days on the counter or 1 week in the fridge.
     1.  Microwave for ~7s before enjoying.
-17. Extra dough can be stored in the freezer for up to 6 months. When baking from frozen, use 350<sup>o</sup> and add a minute to the bake time.
+17. Extra dough can be stored in the freezer for up to 6 months. When baking from frozen, pre-heat the oven to 350<sup>o</sup> and add a minute to the bake time.
 
 #### Discussion
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" sizes="400px" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" sizes="height:400px" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -94,6 +94,24 @@ With so many cookie flavors and combinations out there, I find myself coming bac
 
 In this recipe I prefer extra-dark chocolate chips from [Guittard](https://www.guittard.com/our-chocolate/detail/extra-dark-chocolate-chips), but a great substitute from them are their [baking wafers](https://www.guittard.com/our-chocolate/detail/bake_bittersweet-chocolate-wafers) which allows for pools of chocolate throughout the cookie. Chopping them with a steak knife adds smaller shards of chocolate which polka dot the dough and really allows flavours to develop when chilling the dough in the fridge. The bitterness of the dark chocolate really balances the sweetness of the dough and toffee bits!
 
-Feel free to add more or less chocolate chips based on your preference. The current recipe aims for about 5 chocolate chips per cookie.
+Feel free to add more or less chocolate chips based on your preference. The current recipe aims for about 5 chocolate chips per cookie. Of course, the shape and number of chips will affect cookie spread!
 
+##### Brown Butter
 
+Liquid gold in edible form! In this recipe we add more milk powder to the hot butter to yield even more nutty goodness. It's possible to make brown butter in advance, but the milk solids will sink, so be mindful of that when portioning!
+
+I've also been experimenting with adding other ingredients to the brown butter to enhance flavour. In an attempt to make peaty whiskey taste a little more palatable, I [fat-washed](https://distilleryway.com/articles/brown-butter-fat-washed-whisky-i-tried-it-and-its-incredible) it with brown butter. In short, whiskey and liquid brown butter are mixed together and left to sit on the counter to allow the water-soluble and fat-soluble parts of the butter mix with the whiskey. This allows certain flavours to be imparted to the butter, while achieving a smoother whiskey. Whiskey brown butter is a byproduct of this process and perfect for adding to cookies! Be mindful that not all the liquid will be filtered from the butter - my first batch of cookies using the whiskey brown butter ended up being way too gooey. For future batches without whiskey brown butter on hand, a shot of whiskey can be added straight to the wet ingredients in its stead.
+
+##### Toffee Bits
+
+The most flexible ingredient in this recipe! The toffee bits add a bit of caramelly crunch to the otherwise soft texture of the cookies and really complements the flavour profile I'm going for. That said, the toffee bits can be substituted for anything you want - nuts, marshmellows, dried fruit, the possibilities are endless. However, it's important to understand how extra moisture will affect the spreading of the cookie dough.
+
+##### Chilling Time
+
+[Chilling](https://www.kingarthurbaking.com/blog/2015/05/17/chilling-cookie-dough) the cookie dough has multiple effects on the final cookie. The most obvious is spread - cold fats, and thus, cold dough will spread less in the oven, lending itself to a smaller and thicker cookie. This helps keep the center moist and gooey while the outside crisps up as it bakes.
+
+When leaving your cookie dough in the fridge for long periods of time, chemical reactions occur in the dough which help develop and deepen the flavors. The result is a sweeter, more caramel tasting cookie dough. That's why I recommend chilling cookie dough for 24-48 hours for maximum impact.
+
+##### Tangzhong
+
+An [Arthur chocolate chip recipe](https://www.kingarthurbaking.com/blog/2023/12/27/recipe-of-the-year-chocolate-chip-cookies) calls for the addition of a milk bread roux, Tangzhong. The roux is a combination of (whole) milk and flour cooked on the stove to create a pre-hydrated dough that lends itself to the chewiest texture I've ever experienced in a cookie. This is yet another time consuming process adding to an already long protocol, but definitely worth it if you have the time to spare!
