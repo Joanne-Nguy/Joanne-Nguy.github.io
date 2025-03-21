@@ -21,7 +21,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 - 2 Mixing bowls (preferably heat-proof)
 - Large sifter
 - Measuring cups/spoons
-- Cookie scoop (2 Tbsp)
+- Cookie scoop (2 Tbsp or other)
 - Freezer bag
 - 2 Large baking sheets
 - Cooling rack
@@ -56,11 +56,11 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
    2. Cut softened butter into small, equally-sized cubes.
    3. Once pan has heated up, add butter.
    4. Continuously stir with silicone spatula until cubes have melted.
-   5. Listen for when the crackling subsides and foam starts to clear - milk solids (brown bits) will start collecting on the bottom of the pan.
+   5. Listen for when the crackling subsides and foam starts to clear - milk solids (brown bits) will start forming on the bottom of the pan.
    6. Lower heat.
-   7. Add milk powder and toast for 10s-20s until golden.
-4. Immediately take off heat and pour browned butter including milk solids into heat-proof bowl with sugar.
-5. Chill bowl in ice bath or fridge for 15-20mins until solid but still soft to touch.
+   7. Add milk powder and toast for 10s-20s until golden. Continuously stir with silicone spatula.
+4. Immediately take off heat and pour browned butter including milk solids into the heat-proof bowl with sugar.
+5. Chill the bowl in ice bath or fridge for 15-20mins until solid but still soft to touch.
 6. While waiting, sift flour, baking soda and salt into a mixing bowl. Set aside.
 7. Whisk brown butter and sugar on medium until combined ~1 min.
 8. Add vanilla and eggs.
@@ -73,9 +73,18 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
     1.  Space cookies with 2" between each to allow room for spreading.
     2.  Time will depend on factors such as cookie scoop size and texture preference. Try 13 mins first, then adjust from there.
 15. Allow cookies to cool on the baking sheet for 10-15 mins before moving to wire rack. Add flaky sea salt.
-16. Cookies stay fresh for 3 days on the counter or 1 week in the fridge.
-    1.  Microwave for ~7s before enjoying.
-17. Extra dough can be stored in the freezer for up to 6 months. When baking from frozen, pre-heat the oven to 350<sup>o</sup> and add a minute to the bake time.
+
+<table>
+  <tr>
+    <th>Yield</th>
+    <td>20-24 if using a 2-Tbsp cookie scoop</td>
+  </tr>
+  <tr>
+    <th>Storage</th>
+    <td><li>Cookies stay fresh for 3 days on the counter or 1 week in the fridge. Microwave for ~7s before enjoying.</li><li>Extra dough can be stored in the freezer for up to 6 months. When baking from frozen, pre-heat the oven to 350<sup>o</sup> and add a minute to the bake time.</li></td>
+  </tr>
+</table>
+
 
 #### Discussion
 
@@ -97,7 +106,7 @@ With so many cookie flavors and combinations out there, I find myself coming bac
 
 ##### Chocolate Chips
 
-In this recipe I prefer extra-dark chocolate chips from [Guittard](https://www.guittard.com/our-chocolate/detail/extra-dark-chocolate-chips), but a great substitute from them are their [baking wafers](https://www.guittard.com/our-chocolate/detail/bake_bittersweet-chocolate-wafers) which allows for pools of chocolate throughout the cookie. Chopping them with a steak knife adds smaller shards of chocolate which polka dot the dough and really allows flavours to develop when chilling the dough in the fridge. The bitterness of the dark chocolate really balances the sweetness of the dough and toffee bits!
+In this recipe, I prefer extra-dark chocolate chips from [Guittard](https://www.guittard.com/our-chocolate/detail/extra-dark-chocolate-chips), but a great substitute are their [baking wafers](https://www.guittard.com/our-chocolate/detail/bake_bittersweet-chocolate-wafers) which allows for pools of chocolate throughout the cookie. Chopping them with a steak knife adds smaller shards of chocolate which polka dot the dough and really allows flavours to develop when chilling the dough in the fridge. The bitterness of the dark chocolate really balances the sweetness of the dough and toffee bits!
 
 Feel free to add more or less chocolate chips based on your preference. The current recipe aims for about 5 chocolate chips per cookie. Of course, the shape and number of chips will affect cookie spread!
 
@@ -109,14 +118,18 @@ I've also been experimenting with adding other ingredients to the brown butter t
 
 ##### Toffee Bits
 
-The most flexible ingredient in this recipe! The toffee bits add a bit of caramelly crunch to the otherwise soft texture of the cookies and really complements the flavour profile I'm going for. That said, the toffee bits can be substituted for anything you want - nuts, marshmellows, dried fruit, the possibilities are endless. However, it's important to understand how extra moisture will affect the spreading of the cookie dough.
+The most flexible ingredient slot in this recipe! The toffee bits add a bit of caramelly crunch to the otherwise soft texture of the cookies and really complements the flavour profile I'm going for. That said, the toffee bits can be substituted for anything you want - nuts, marshmellows, dried fruit, the possibilities are endless. However, it's important to understand how extra moisture will affect the spreading of the cookie dough.
 
 ##### Chilling Time
 
-[Chilling](https://www.kingarthurbaking.com/blog/2015/05/17/chilling-cookie-dough) the cookie dough has multiple effects on the final cookie. The most obvious is spread - cold fats, and thus, cold dough will spread less in the oven, lending itself to a smaller and thicker cookie. This helps keep the center moist and gooey while the outside crisps up as it bakes.
+[Chilling](https://www.kingarthurbaking.com/blog/2015/05/17/chilling-cookie-dough) the cookie dough has multiple effects on the final cookie. The most obvious is spread - cold fats, and thus, cold dough will spread less in the oven, lending itself to a smaller and thicker cookie. This helps keep the center moist and gooey while the outside crisps up as it bakes. Conversely, if a thinner, crispy cookie is your aim, then baking cookies without chilling will help you achieve that.
 
-When leaving your cookie dough in the fridge for long periods of time, chemical reactions occur in the dough which help develop and deepen the flavors. The result is a sweeter, more caramel tasting cookie dough. That's why I recommend chilling cookie dough for 24-48 hours for maximum impact.
+When leaving your cookie dough in the fridge for long periods of time, chemical reactions occur in the dough which help develop and deepen the flavors. The enzyme, amylase, that naturally occurs in the flour [break down](https://www.theperfectloaf.com/guides/how-to-autolyse/#h-how-to-autolyse) complex carbohydrates into simple sugars. The result is a sweeter, more complex tasting cookie dough. That's why I recommend chilling cookie dough for 24-48 hours for maximum impact. However, one can't help but bake a cookie after a short 1 hour chill to taste test.
 
-##### Tangzhong
+##### Flour
+
+Although a staple in the recipe, some or all of the all-purpose flour can be substituted with other types of flour such as rye (for nuttier flavor), bread (for denser, chewier texture) or cake (for airy, light texture). I haven't experimented with other flours since I still have a Costco-sized bag to go through, but my goal is to try substitutions with rye and bread flours.
+
+Other powdered flavour enhancers can be substituted in near equal parts with the flour removed. For example, for an espresso cookie, I substituted 20g of flour for 20g of freshly ground espresso powder, which resulted in a cookie with similar texture and a whole new flavor profile. Other powders to try are malted milk powder (the malt is key since it's not water soluble and will not affect the wet:dry ratio of the dough), cocoa powder, matcha powder and dehydrated fruit powders.
 
 An [Arthur chocolate chip recipe](https://www.kingarthurbaking.com/blog/2023/12/27/recipe-of-the-year-chocolate-chip-cookies) calls for the addition of a milk bread roux, Tangzhong. The roux is a combination of (whole) milk and flour cooked on the stove to create a pre-hydrated dough that lends itself to the chewiest texture I've ever experienced in a cookie. This is yet another time consuming process adding to an already long protocol, but definitely worth it if you have the time to spare!
