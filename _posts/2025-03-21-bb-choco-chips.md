@@ -6,7 +6,7 @@ description: my popular brown butter chocolate chip cookies
 tags: cookies, baking
 categories: recipes
 toc: 
-  beginning: true
+  sidebar: left
 ---
 
 #### Abstract
