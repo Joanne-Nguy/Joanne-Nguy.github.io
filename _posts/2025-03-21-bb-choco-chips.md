@@ -45,7 +45,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 |<input type="checkbox">|Optional: Heath Bar Bits O’ Brickle English Toffee|1/2 cup (75g)|None|
 |<input type="checkbox">|Optional: Flaky sea salt|1/2 Tsp|None|
 
-<br/>
+<br>
 
 #### Procedure
 
@@ -76,12 +76,12 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 
 <table>
   <tr>
-    <th>Yield       </th>
+    <th>Yield</th>
     <td>20-24 if using a 2-Tbsp cookie scoop</td>
   </tr>
   <tr>
-    <th>Storage     </th>
-    <td>Cookies stay fresh for 3 days on the counter or 1 week in the fridge. Microwave for ~7s before enjoying.</br>Extra dough can be stored in the freezer for up to 6 months. When baking from frozen, pre-heat the oven to 350<sup>o</sup> and add a minute to the bake time.</td>
+    <th>Storage</th>
+    <td>Cookies stay fresh for 3 days on the counter or 1 week in the fridge. Microwave for ~7s before enjoying.<br>Extra dough can be stored in the freezer for up to 6 months. When baking from frozen, pre-heat the oven to 350<sup>o</sup> and add a minute to the bake time.</td>
   </tr>
 </table>
 
