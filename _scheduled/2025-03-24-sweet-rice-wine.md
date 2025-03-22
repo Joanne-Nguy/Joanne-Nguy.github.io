@@ -70,7 +70,7 @@ Serving
     <th>Storage</th>
     <td>Store rice wine in the fridge for 1-2 weeks or until smell changes.</td>
   </tr>
-</table>
+</table><br>
 
 
 #### Discussion
@@ -80,8 +80,8 @@ Serving
         {% include figure.liquid 
         loading="lazy" 
         path="https://images.unsplash.com/photo-1630056656591-0cba044ba94f?q=80&w=2576&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
-        height = "400px" 
-        class="img-fluid rounded z-depth-1" 
+        width="50%" 
+        class="img-fluid mx-auto d-block rounded z-depth-1" 
         avoid_scaling=true %}
     </div>
 </div>

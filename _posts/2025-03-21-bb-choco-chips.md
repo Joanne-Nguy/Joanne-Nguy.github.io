@@ -83,7 +83,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
     <th>Storage</th>
     <td>Cookies stay fresh for 3 days on the counter or 1 week in the fridge. Microwave for ~7s before enjoying.<br>Extra dough can be stored in the freezer for up to 6 months. When baking from frozen, pre-heat the oven to 350<sup>o</sup> and add a minute to the bake time.</td>
   </tr>
-</table>
+</table><br>
 
 
 #### Discussion
