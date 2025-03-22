@@ -93,8 +93,8 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
         {% include figure.liquid 
         loading="lazy" 
         path="https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
-        sizes = "200px" 
-        class="img-fluid rounded z-depth-1" 
+        width="50%"
+        class="img-fluid mx-auto d-block rounded z-depth-1" 
         avoid_scaling=true %}
     </div>
 </div>
