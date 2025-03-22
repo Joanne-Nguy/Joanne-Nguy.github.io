@@ -44,18 +44,17 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 |<input type="checkbox">|Extra-dark chocolate chips|1/2 cups (50g)|None|
 |<input type="checkbox">|Optional: Heath Bar Bits O’ Brickle English Toffee|1/2 cup (75g)|None|
 |<input type="checkbox">|Optional: Flaky sea salt|1/2 Tsp|None|
-<br>
 
+<br>
 
 #### Procedure
 
 Prepare Wet Ingredients
-
 1. In a heat-proof bowl, add brown sugar and granulated sugar.
 2. (Optional) Place the heat-proof bowl in an ice bath.
 3. Brown the butter:
    1. Heat a light-colored pan to medium heat on the stove.
-   2. Cut softened butter into small, equally-sized cubes.
+   2. Cut softened butter into small, equally-sized slices.
    3. Once pan has heated up, add butter.
    4. Continuously stir with silicone spatula until cubes have melted.
    5. Listen for when the crackling subsides and foam starts to clear - milk solids (brown bits) will start forming on the bottom of the pan.
@@ -65,11 +64,9 @@ Prepare Wet Ingredients
 5. Chill the bowl in ice bath or fridge for 15-20mins until solid but still soft to touch.
 
 Prepare Dry Ingredients
-
 6. While waiting, sift flour, baking soda and salt into a mixing bowl. Set aside.
 
 Combine Ingredients
-
 7. Whisk brown butter and sugar on medium until combined ~1 min.
 8. Add vanilla and eggs.
 9. Whisk wet ingredients on high until fluffy ~2 mins.
@@ -77,7 +74,6 @@ Combine Ingredients
 11. Add chocolate chips and toffee bits, if using. Mix with spatula until combined, ensuring bottom is well-mixed.
 
 Chill Dough
-
 12. Cover mixing bowl and place in the fridge for 1-2 hours.
 13. Scoop cookies and place into a freezer bag. Let the dough rest for 24-48 hours.
 
@@ -91,7 +87,7 @@ Bake
 <table>
   <tr>
     <th>Yield</th>
-    <td>20-24 if using a 2-Tbsp cookie scoop</td>
+    <td>20-24 using a 2-Tbsp cookie scoop</td>
   </tr>
   <tr>
     <th>Storage</th>
