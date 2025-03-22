@@ -94,34 +94,4 @@ layout: default
     {% include giscus.liquid %}
   {% endif %}
 
-  <article>
-    <div class="post">
-      <header class="post-header">
-        <h1 class="post-title">{{ page.title }}</h1>
-        {% if page.description %}
-          <p class="post-description">{{ page.description }}</p>
-        {% endif %}
-      </header>
-
-      {% if page.toc %}
-        <div class="toc">
-          <h2>Table of Contents</h2>
-          <ul>
-            {% assign headers = content | split: "\n" | where_exp: "line", "line contains '#' and line contains ' '" %}
-            {% for header in headers %}
-              {% assign level = header | regex_replace: "^.*?(#+).*$", "\1" | size %}
-              {% assign text = header | regex_replace: "^#+ ", "" %}
-              <li style="margin-left: {{ level | minus: 1 | times: 20 }}px;">
-                <a href="#{{ text | slugify }}">{{ text }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </div>
-      {% endif %}
-
-      <div class="content">
-        {{ content }}
-      </div>
-  </div>
-</article>
 </div>

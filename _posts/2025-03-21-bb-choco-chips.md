@@ -5,7 +5,8 @@ date: 2025-03-21
 description: my popular brown butter chocolate chip cookies
 tags: cookies, baking
 categories: recipes
-toc: true
+toc: 
+  beginning: true
 ---
 
 #### Abstract
