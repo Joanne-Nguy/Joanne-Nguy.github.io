@@ -93,4 +93,43 @@ layout: default
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}
+
+  <article>
+    <div class="cv">
+      {% for post in site.posts %}
+        {% if post %}
+          <a class="anchor" id="{{ post.title | slugify }}"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">{{ post.title | capitalize }}</h3>
+            <div>
+              {% if post.content %}
+                <div class="post-content">
+                  {{ post.content }}
+                </div>
+              {% endif %}
+              
+              {% if post.excerpt %}
+                <div class="post-excerpt">
+                  {{ post.excerpt }}
+                </div>
+              {% endif %}
+              
+              <!-- {% case post.category %}
+                {% when 'news' %}
+                  {% include post/news.liquid %}
+                {% when 'updates' %}
+                  {% include post/updates.liquid %}
+                {% when 'tech' %}
+                  {% include post/tech.liquid %}
+                {% when 'personal' %}
+                  {% include post/personal.liquid %}
+                {% else %}
+                  Default case if no specific category matches
+              {% endcase %} -->
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+</article>
 </div>

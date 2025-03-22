@@ -41,7 +41,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 |<input type="checkbox">|All-purpose flour|2 and 1/2 cups (313g)|Spooned & leveled|
 |<input type="checkbox">|Baking soda|1 Tsp|None|
 |<input type="checkbox">|Salt (non-iodized)|1/2 Tsp|None|
-|<input type="checkbox">|Extra-dark chocolate chips|1/2 cups (50g)|None|
+|<input type="checkbox">|Extra-dark chocolate chips|1/2 cup (50g)|None|
 |<input type="checkbox">|Optional: Heath Bar Bits O’ Brickle English Toffee|1/2 cup (75g)|None|
 |<input type="checkbox">|Optional: Flaky sea salt|1/2 Tsp|None|
 
