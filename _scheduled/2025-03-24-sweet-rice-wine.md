@@ -5,6 +5,8 @@ date: 2025-03-24
 description: a sweet rice dessert with low alcohol content
 tags: ferments
 categories: recipes
+toc: 
+  sidebar: left
 ---
 
 #### Abstract
