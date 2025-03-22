@@ -17,7 +17,7 @@ Heavily inspired by [Sonia's](http://nasilemaklover.blogspot.com/2015/11/homemad
 
 - Pan with steamer
 - Metal steaming bowl
-- 2 Sterilized clear glass jars
+- 2 Sterilized clear glass jars (A 26+ oz jar and a 3+ oz jar)
 - Sterilized (metal) spoon(s)
 - Mortar and Pestle or Food Processor
 
@@ -26,11 +26,11 @@ Heavily inspired by [Sonia's](http://nasilemaklover.blogspot.com/2015/11/homemad
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
 |<input type="checkbox">|Sweet glutinous rice or Black glutinous rice|1 cup|None|
-|<input type="checkbox">|Water|1 and 1/2 cup|Filtered (preferred)|
-|<input type="checkbox">|Chinese distiller's yeast balls|4 Tbsp (40g)|None|
-|<input type="checkbox">|Optional: Granulated Sugar|2 Tbsp|None|
-
+|<input type="checkbox">|Water|1 and 1/2 cup|Filtered (preferred) or tap|
+|<input type="checkbox">|[Chinese distiller's yeast balls](https://www.amazon.com/HanHeng-Taste-Shanghai-Yeast-Balls/dp/B01DHHD6BC)|4 Tbsp (40g)|None|
+|<input type="checkbox">|Optional: Granulated sugar|2 Tbsp|None|
 <br>
+
 
 #### Procedure
 
@@ -51,16 +51,15 @@ Heavily inspired by [Sonia's](http://nasilemaklover.blogspot.com/2015/11/homemad
 
 Fermenting
 1.  The distiller's yeast has an optimal operating temperature of 28<sup>o</sup>C. 
-    1.  I created a warm space by putting a bowl of hot water in the oven and replaced the water twice a day. Any warm, dark space will work.
+    1.  I created a warm space by putting a cloth over the jar and a bowl of hot water in the oven and replaced the water twice a day. Any warm, dark space will work.
 2.  Let the rice ferment for 48-72 hours depending on ambient temperature and wine flavor preference.
     1.  A cloudy liquid will pool in the jar and bubbles will rise to the top. This indicates that the rice is actively fermenting.
     2.  Sterilize a spoon and taste the wine. Place the jar in the fridge when the flavor is sweet and no longer like yeast.
 
 Serving
 1.  Using a sterilized spoon, scoop the rice and liquid into your serving bowl.
-2.  The rice wine may be enjoyed as is or topped with cooked mung bean.
+2.  The rice wine may be enjoyed as is. For a sweet chewiness, top with cooked mung bean; if it's too strong, dilute with water or yakult.
    
-
 <table>
   <tr>
     <th>Yield</th>
@@ -92,3 +91,5 @@ Serving
 This dessert comes from warm memories of the fragrance of rice wine. Everytime my mom made a big batch, all of it would be eaten by the end of the week. When I moved, I made many attempts to replicate this dessert, but there were many failures before I figured out the best way to maintain a warm environment suited for distiller yeast activity. I remember the dessert from my childhood was strong and oftentimes bitter - my mom's recipe used the dangerous addition of sugar, which gave the yeast an additional food source to turn into alcohol. I prefer my recipe without the added sugar, as the dessert ends up much sweeter this way, although with lower alcohol content - not a bad thing depending who you ask.
 
 This recipe uses sweet glutinous rice which is short-grain white rice. I've yet to attempt this recipe with my childhood preference of black glutinous rice. The resulting dessert is chewy, with the nuttiness of the grain complementing the light rice fragrance. In my memory it was a whole other dish in comparison to the light, sweet and bubbly dessert in this recipe.
+
+Sourcing the distiller's yeast balls may prove difficult. I found some at a local 99 Ranch with the help of a store associate who was just as surprised as me when we found it on the top shelf of the sugar section. In the reagents, I've listed a random Amazon store to show what it looks like but feel free to source from elsewhere.

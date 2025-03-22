@@ -44,8 +44,8 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 |<input type="checkbox">|Extra-dark chocolate chips|1/2 cups (50g)|None|
 |<input type="checkbox">|Optional: Heath Bar Bits O’ Brickle English Toffee|1/2 cup (75g)|None|
 |<input type="checkbox">|Optional: Flaky sea salt|1/2 Tsp|None|
-
 <br>
+
 
 #### Procedure
 
@@ -102,7 +102,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
     Brown butter chocolate chip cookies with flaky sea salt on top. Photo from Unsplash.
 </div>
 
-With so many cookie flavors and combinations out there, I find myself coming back to this classic recipe time and time again. If I happen to make too many, it's a crowd pleaser at gatherings and the platter is empty in no time. The best thing about this recipe is that it serves as a great foundation for ingredient substitutions!
+With so many cookie flavors and combinations out there, I find myself coming back to this classic recipe time and time again. If I happen to make too many, it's a crowd pleaser at gatherings and the platter is empty in no time. The best part about this recipe is that it serves as a great foundation for ingredient substitutions!
 
 ##### Chocolate Chips
 
