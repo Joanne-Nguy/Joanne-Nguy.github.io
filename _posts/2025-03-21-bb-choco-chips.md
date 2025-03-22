@@ -49,6 +49,8 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 
 #### Procedure
 
+Prepare Wet Ingredients
+
 1. In a heat-proof bowl, add brown sugar and granulated sugar.
 2. (Optional) Place the heat-proof bowl in an ice bath.
 3. Brown the butter:
@@ -61,14 +63,26 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
    7. Add milk powder and toast for 10s-20s until golden. Continuously stir with silicone spatula.
 4. Immediately take off heat and pour browned butter including milk solids into the heat-proof bowl with sugar.
 5. Chill the bowl in ice bath or fridge for 15-20mins until solid but still soft to touch.
+
+Prepare Dry Ingredients
+
 6. While waiting, sift flour, baking soda and salt into a mixing bowl. Set aside.
+
+Combine Ingredients
+
 7. Whisk brown butter and sugar on medium until combined ~1 min.
 8. Add vanilla and eggs.
 9. Whisk wet ingredients on high until fluffy ~2 mins.
 10. Whisk on low. Add half of dry ingredients until combined. Add the rest of the dry ingredients until combined. Scrape down the sides of the bowl.
 11. Add chocolate chips and toffee bits, if using. Mix with spatula until combined, ensuring bottom is well-mixed.
+
+Chill Dough
+
 12. Cover mixing bowl and place in the fridge for 1-2 hours.
 13. Scoop cookies and place into a freezer bag. Let the dough rest for 24-48 hours.
+
+Bake
+
 14. Pre-heat the oven and bake at 350<sup>o</sup> for 12-14 mins until bottom edges are golden brown.
     1.  Space cookies with 2" between each to allow room for spreading.
     2.  Time will depend on factors such as cookie scoop size and texture preference. Try 13 mins first, then adjust from there.
