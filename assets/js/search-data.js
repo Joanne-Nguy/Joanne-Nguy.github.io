@@ -68,11 +68,11 @@ ninja.data = [{
           window.open("https://www.researchgate.net/profile/Joanne-Nguyen-2267615484/", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-resume_request',
+        title: 'Resume_request',
         section: 'Socials',
         handler: () => {
-          window.open("https://forms.office.com/r/HUzs0nYYLN", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
