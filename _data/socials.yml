@@ -46,6 +46,6 @@ research_gate_profile: Joanne-Nguyen-2267615484
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: fa-solid fa-file-pdf # can be png, svg, jpg
+  logo: assets/img/file-pdf-solid.svg # can be png, svg, jpg
   title: Resume Request Form
   url: https://forms.office.com/r/HUzs0nYYLN
