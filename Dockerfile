@@ -58,7 +58,7 @@ ADD Gemfile.lock /srv/jekyll
 ADD Gemfile /srv/jekyll
 
 # set the working directory
-WORKDIR /srv/jekyll
+WORKDIR /home/vscode/Joanne-Nguy.github.io/Joanne-Nguy.github.io/Dockerfile
 
 # install jekyll and dependencies
 RUN gem install --no-document jekyll bundler
