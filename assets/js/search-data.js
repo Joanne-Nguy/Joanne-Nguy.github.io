@@ -61,6 +61,20 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/-joanne-n/", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Joanne-Nguyen-2267615484/", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://forms.office.com/r/HUzs0nYYLN", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
