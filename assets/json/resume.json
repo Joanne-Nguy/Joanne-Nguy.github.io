@@ -12,7 +12,7 @@
       "name": "Mission Bio",
       "position": "Research Associate II, Pharma Assay Development",
       "url": "",
-      "startDate": "2022-01",
+      "startDate": "2022-02",
       "endDate": "2024-10",
       "summary": "Optimized single-cell data capture through Tapestri multiomics and improved NGS library workflows, resulting in higher-quality data collection, leading to more reliable outcomes in client projects targeting cancer therapeutics"
     },
@@ -20,16 +20,16 @@
       "name": "Lifelabs Genetics",
       "position": "Site Lead",
       "url": "",
-      "startDate": "2021-014",
+      "startDate": "2021-04",
       "endDate": "2022-01",
       "summary": "Promoted within 7 months for demonstrating strong leadership in training and mentoring a 35-member team on high-complexity molecular assays, data analysis, and instrumentation for COVID clinical diagnostic analysis"
     },
     {
       "name": "Lifelabs Genetics",
-      "position": "Medical Laboratory Techinician",
+      "position": "Medical Laboratory Technician",
       "url": "",
-      "startDate": "2021-04",
-      "endDate": "2020-09",
+      "startDate": "2020-09",
+      "endDate": "2021-04",
       "summary": "Ensured efficiency in high-throughput COVID RNA extraction, qPCR, mass spectrometry and analysis"
     },
     {
@@ -38,7 +38,7 @@
       "url": "",
       "startDate": "2019-05",
       "endDate": "2019-09",
-      "summary": "Standardized and collected qualitative data to determine evolutionary resistance of agricultural herbicide"
+      "summary": "Collaborated with lab members to support genomics research in the mechanisms of plant fertilization"
     },
     {
       "name": "University of Toronto | Stinchcombe Lab",
@@ -46,7 +46,7 @@
       "url": "",
       "startDate": "2019-08",
       "endDate": "2019-11",
-      "summary": "Collaborated with lab members to support genomics research in the mechanisms of plant fertilization"
+      "summary": "Standardized and collected qualitative data to determine evolutionary resistance of agricultural herbicide"
     }
   ],
   "education": [
@@ -56,22 +56,26 @@
       "url": "",
       "area": "Major program in Human Biology in Health and Disease, Minor Programs in Physiology and Biology",
       "studyType": "BSc",
-      "endDate": "2019-11"
+      "endDate": "2019"
     }
   ],
   "certificates": [
     {
       "name": "Introduction to Computer Science and Programming in Python Certificate",
-      "date": "2020-07",
+      "date": "2020",
       "issuer": "MITx Courses",
-      "url": "",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "CAP Inspection Team Member",
-      "date": "2021-09",
+      "date": "2021",
       "issuer": "College of American Pathologists (CAP)",
-      "url": "",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Transportation of Dangerous Goods",
+      "date": "2021",
+      "issuer": "LifeLabs Medical Laboratory Services",
       "icon": "fa-solid fa-location-dot"
     }
   ],
@@ -105,6 +109,12 @@
       "publisher": "Clinical Lymphoma, Myeloma and Leukemia",
       "releaseDate": "2023-09",
       "url": "http://dx.doi.org/10.1016/S2152-2650(23)01987-0"
+    },
+    {
+      "name": "Myxotrichum chartarum",
+      "publisher": "Wikipedia",
+      "releaseDate": "2018-10",
+      "url": "https://en.wikipedia.org/w/index.php?title=Myxotrichum_chartarum&oldid=870269853"
     }
   ]
 }
