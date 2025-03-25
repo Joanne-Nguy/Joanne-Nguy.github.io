@@ -1090,13 +1090,23 @@ nav[data-toggle="toc"] {
   }
 }
 
+#toc-sidebar {
+  width: 150px; /* You can adjust this value for a narrower sidebar */
+}
+
+/* large screens */
+@media (min-width: 576px) {
+  .col-sm-3 {
+    max-width: 20%;
+  }
+}
+
 /* small screens */
 @media (max-width: 576px) {
   /* override stickyness so that the navigation does not follow scrolling */
   nav[data-toggle="toc"] {
-    visibility: hidden;
-    height: 0;
-    top: 0;
+    margin-bottom: 20px;
+    position: static;
   }
 }
 
