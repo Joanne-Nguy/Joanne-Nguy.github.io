@@ -34,7 +34,7 @@ ninja.data = [{
       
         title: "sweet rice wine",
       
-      description: "a sweet rice dessert with low alcohol content",
+      description: "a sweet glutinous rice dessert with low alcohol content",
       section: "Posts",
       handler: () => {
         
