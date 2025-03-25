@@ -2,7 +2,7 @@
 layout: post
 title: sweet rice wine
 date: 2025-03-24
-description: a sweet rice dessert with low alcohol content
+description: a sweet glutinous rice dessert with low alcohol content
 tags: ferments
 categories: recipes
 toc: 
@@ -38,7 +38,7 @@ Heavily inspired by [Sonia's](http://nasilemaklover.blogspot.com/2015/11/homemad
 
 Glutinous Rice Preparation
 1. Wash and rinse glutinous rice with cold water in the metal steaming bowl.
-2. Soak rice with 1/2" of (distilled) water for 1 hour.
+2. Soak rice with 1/2" of cool (filtered) water for 1 hour.
 3. While waiting, prepare the yeast balls by grinding into fine powder. Seal in a dry, sterile jar.
 4. Fill the pan with water without allowing any into the steaming basket. Boil water on medium heat.
 5. Once the steaming basket is boiling, set heat to medium-low and place soaked rice with water in the steaming basking. Steam for 30-40 mins, mixing rice with a sterile spoon halfway through.
