@@ -3,7 +3,7 @@ layout: post
 title: sweet rice wine
 date: 2025-03-24
 description: a sweet glutinous rice dessert with low alcohol content
-tags: ferments
+tags: ferments, sweet
 categories: recipes
 toc: 
   sidebar: left
@@ -27,8 +27,8 @@ Heavily inspired by [Sonia's](http://nasilemaklover.blogspot.com/2015/11/homemad
 
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
-|<input type="checkbox">|Sweet glutinous rice or Black glutinous rice|1 cup|None|
-|<input type="checkbox">|Water|1 and 1/2 cup|Filtered (preferred) or tap|
+|<input type="checkbox">|Sweet or Black glutinous rice|1 cup|None|
+|<input type="checkbox">|Water|<ul><li>1 and 1/2 cup for steaming</li><li>More for rinsing</li></ul>|Filtered (preferred) or tap|
 |<input type="checkbox">|[Chinese distiller's yeast balls](https://www.amazon.com/HanHeng-Taste-Shanghai-Yeast-Balls/dp/B01DHHD6BC)|4 Tbsp (40g)|None|
 |<input type="checkbox">|Optional: Granulated sugar|2 Tbsp|None|
 
@@ -42,8 +42,8 @@ Glutinous Rice Preparation
 3. While waiting, prepare the yeast balls by grinding into fine powder. Seal in a dry, sterile jar.
 4. Fill the pan with water without allowing any into the steaming basket. Boil water on medium heat.
 5. Once the steaming basket is boiling, set heat to medium-low and place soaked rice with water in the steaming basking. Steam for 30-40 mins, mixing rice with a sterile spoon halfway through.
-   1. Try not to break any rice grains when mixing.
-   2. Rice is done cooking when there is no liquid visible and rice appears evenly soft and translucent.
+- Try not to break any rice grains when mixing.
+- Rice is done cooking when there is no liquid visible and rice appears evenly soft and translucent.
 6. Remove metal bowl with steamed rice from the steamer basket and allow to cool completely at room temperature, approximately 1 hour.
 7. Wash hands with soap thoroughly.
 8. Using your hands, form flat discs with the glutinous rice. Using a sterile spoon, lightly dust the rice with powdered yeast. Flip the rice disc and dust with more powdered yeast.
@@ -53,15 +53,15 @@ Glutinous Rice Preparation
 12. Lightly screw on jar lid to allow gases to escape and place in a warm, dark area.
 
 Fermenting
-1.  The distiller's yeast has an optimal operating temperature of 28<sup>o</sup>C. 
-    1.  I created a warm space by putting a cloth over the jar and a bowl of hot water in the oven and replaced the water twice a day. Any warm, dark space will work.
-2.  Let the rice ferment for 48-72 hours depending on ambient temperature and wine flavor preference.
-    1.  A cloudy liquid will pool in the jar and bubbles will rise to the top. This indicates that the rice is actively fermenting.
-    2.  Sterilize a spoon and taste the wine. Place the jar in the fridge when the flavor is sweet and no longer like yeast.
+13.  The distiller's yeast has an optimal operating temperature of 28<sup>o</sup>C. 
+- I created a warm space by putting a cloth over the jar and a bowl of hot water in the oven and replaced the water twice a day. Any warm, dark space will work.
+1.   Let the rice ferment for 48-72 hours depending on ambient temperature and wine flavor preference.
+- A cloudy liquid will pool in the jar and bubbles will rise to the top. This indicates that the rice is actively fermenting.
+- Sterilize a spoon and taste the wine. Place the jar in the fridge when the flavor is sweet and no longer like yeast.
 
 Serving
-1.  Using a sterilized spoon, scoop the rice and liquid into your serving bowl.
-2.  The rice wine may be enjoyed as is. For a sweet chewiness, top with cooked mung bean; if it's too strong, dilute with water or yakult.
+15.  Using a sterilized spoon, scoop the rice and liquid into your serving bowl.
+16.  The rice wine may be enjoyed as is. For a sweet chewiness, top with cooked mung bean; if it's too strong, dilute with water or yakult.
    
 <table>
   <tr>
@@ -70,7 +70,7 @@ Serving
   </tr>
   <tr>
     <th>Storage</th>
-    <td>Store rice wine in the fridge for 1-2 weeks or until smell changes.</td>
+    <td>Store rice wine in the fridge for 1-2 weeks or until smell or flavor changes.</td>
   </tr>
 </table><br>
 

@@ -3,7 +3,7 @@ layout: post
 title: brown butter chocolate chip cookies
 date: 2025-03-21
 description: my popular brown butter chocolate chip cookies
-tags: cookies, baking
+tags: cookies, baking, sweet
 categories: recipes
 toc: 
   sidebar: left
@@ -82,8 +82,8 @@ Chill Dough
 Bake
 
 14. Pre-heat the oven and bake at 350<sup>o</sup> for 12-14 mins until bottom edges are golden brown.
-    1.  Space cookies with 2" between each to allow room for spreading.
-    2.  Time will depend on factors such as cookie scoop size and texture preference. Try 13 mins first, then adjust from there.
+- Space cookies with 2" between each to allow room for spreading.
+- Time will depend on factors such as cookie scoop size and texture preference. Try 13 mins first, then adjust from there.
 15. Allow cookies to cool on the baking sheet for 10-15 mins before moving to wire rack. Add flaky sea salt.
 
 <table>
