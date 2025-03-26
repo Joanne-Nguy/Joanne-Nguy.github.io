@@ -30,4 +30,4 @@ I have a background in molecular biology and assay development. I specialize in 
 
 Throughout my career, I’ve worked closely with R&D teams to develop robust assays, troubleshoot technical challenges, and streamline workflows. I’m passionate about innovation and continuously improving laboratory processes to drive impactful results.
 
-In my spare time, I love baking creative [recipes](https://joanne-nguy.github.io/blog/tag/baking) (especially cookies!) and walks by the ocean🌊.
+In my spare time, I love baking creative [recipes](https://joanne-nguy.github.io/blog/category/recipes/) (especially cookies!) and walks by the ocean🌊.
