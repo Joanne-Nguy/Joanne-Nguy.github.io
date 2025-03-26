@@ -1,8 +1,8 @@
 ---
 layout: post
 title: tofu in ginger syrup
-date: 2025-03-31
-description: a simple vietnamese dessert 
+date: 2025-04-07
+description: a simple tofu-based Vietnamese dessert 
 tags: sweet
 categories: recipes
 toc: 
@@ -11,7 +11,7 @@ toc:
 
 #### Abstract
 
-A recipe with a spicy, gingery syrup and delicate soft tofu topped with coconut cream. 
+A recipe with a spicy, gingery syrup and delicate, soft tofu topped with coconut cream. 
 
 #### Materials
 
@@ -73,4 +73,8 @@ Serve Tofu
     Silken tofu in ginger syrup. Photo from [FMT](https://www.freemalaysiatoday.com/category/leisure/2019/11/17/home-made-sweet-and-silky-taufu-fa/).
 </div>
 
-Ginger syrup is a staple in a lot of Vietnamese dishes, so any leftover syrup can be stored and used for another recipe.  
+This recipe is a love letter to Vietnamese chè, or sweet soup. The spiciness of the ginger syrup complements the delicate nuttiness of the silken tofu and the creaminess of the coconut cream. A personal favorite dessert that takes no time at all to prepare and easy to store any leftovers. This dessert is unpsurprisingly vegan, as most traditional chè are, featuring differing combinations of recurring simple ingredients.
+
+##### Ginger Syrup
+
+Ginger syrup is a staple in a lot of Vietnamese chè, so any leftover syrup may be stored in the fridge and used for another recipe. The unique flavor profile of the ginger syrup can be used in drinks such as lattes and cocktails to add a sweet, gingery note.

@@ -21,14 +21,14 @@ Heavily inspired by [Sonia's](http://nasilemaklover.blogspot.com/2015/11/homemad
 - Metal steaming bowl
 - 2 Sterilized clear glass jars (A 26+ oz jar and a 3+ oz jar)
 - Sterilized (metal) spoon(s)
-- Mortar and Pestle or Food Processor
+- Food Processor or Mortar and Pestle
 
 #### Reagents
 
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
 |<input type="checkbox">|Sweet or Black glutinous rice|1 cup|None|
-|<input type="checkbox">|Water|<ul><li>1 and 1/2 cup for steaming</li><li>More for rinsing</li></ul>|Filtered (preferred) or tap|
+|<input type="checkbox">|Water|1 and 1/2 cup for steaming<br>More for rinsing|Filtered (preferred) or tap|
 |<input type="checkbox">|[Chinese distiller's yeast balls](https://www.amazon.com/HanHeng-Taste-Shanghai-Yeast-Balls/dp/B01DHHD6BC)|4 Tbsp (40g)|None|
 |<input type="checkbox">|Optional: Granulated sugar|2 Tbsp|None|
 
@@ -39,7 +39,7 @@ Heavily inspired by [Sonia's](http://nasilemaklover.blogspot.com/2015/11/homemad
 Glutinous Rice Preparation
 1. Wash and rinse glutinous rice with cold water in the metal steaming bowl.
 2. Soak rice with 1/2" of cool (filtered) water for 1 hour.
-3. While waiting, prepare the yeast balls by grinding into fine powder. Seal in a dry, sterile jar.
+3. While waiting, prepare the yeast balls by grinding into fine powder using a food processor. Seal in a dry, sterile jar.
 4. Fill the pan with water without allowing any into the steaming basket. Boil water on medium heat.
 5. Once the steaming basket is boiling, set heat to medium-low and place soaked rice with water in the steaming basking. Steam for 30-40 mins, mixing rice with a sterile spoon halfway through.
 - Try not to break any rice grains when mixing.
@@ -55,13 +55,14 @@ Glutinous Rice Preparation
 Fermenting
 13.  The distiller's yeast has an optimal operating temperature of 28<sup>o</sup>C. 
 - I created a warm space by putting a cloth over the jar and a bowl of hot water in the oven and replaced the water twice a day. Any warm, dark space will work.
-1.   Let the rice ferment for 48-72 hours depending on ambient temperature and wine flavor preference.
+14.   Let the rice ferment for 48-72 hours depending on ambient temperature and wine flavor preference.
 - A cloudy liquid will pool in the jar and bubbles will rise to the top. This indicates that the rice is actively fermenting.
+- Warmer ambient temperature will ferment the rice wine faster, while cooler temperatures will ferment it slower.
 - Sterilize a spoon and taste the wine. Place the jar in the fridge when the flavor is sweet and no longer like yeast.
 
 Serving
 15.  Using a sterilized spoon, scoop the rice and liquid into your serving bowl.
-16.  The rice wine may be enjoyed as is. For a sweet chewiness, top with cooked mung bean; if it's too strong, dilute with water or yakult.
+16.  The rice wine may be enjoyed as is. If it's too strong, dilute with water or yakult.
    
 <table>
   <tr>
@@ -70,7 +71,7 @@ Serving
   </tr>
   <tr>
     <th>Storage</th>
-    <td>Store rice wine in the fridge for 1-2 weeks or until smell or flavor changes.</td>
+    <td>Store rice wine in the fridge for 1-2 weeks or until smell or flavor changes.<br>Store leftover whole or ground yeast balls in an airtight sterile jar for up to 3 years.</td>
   </tr>
 </table><br>
 
@@ -93,6 +94,16 @@ Serving
 
 This dessert comes from warm memories of the fragrance of rice wine. Everytime my mom made a big batch, all of it would be eaten by the end of the week. When I moved, I made many attempts to replicate this dessert, but there were many failures before I figured out the best way to maintain a warm environment suited for distiller yeast activity. I remember the dessert from my childhood was strong and oftentimes bitter - my mom's recipe used the dangerous addition of sugar, which gave the yeast an additional food source to turn into alcohol. I prefer my recipe without the added sugar, as the dessert ends up much sweeter this way, although with lower alcohol content - not a bad thing depending who you ask.
 
+##### Variations
+
 This recipe uses sweet glutinous rice which is short-grain white rice. I've yet to attempt this recipe with my childhood preference of black glutinous rice. The resulting dessert is chewy, with the nuttiness of the grain complementing the light rice fragrance. In my memory it was a whole other dish in comparison to the light, sweet and bubbly dessert in this recipe.
+
+##### Toppings
+
+Some classic toppings are cooked mung bean or glutinous rice balls to add some chewiness to an otherwise soft, watery dessert. The flavor of the wine can be changed with additional water or yakult.
+
+##### Distiller's Yeast
+
+The [distiller's yeast](https://en.wikipedia.org/wiki/Jiuqu) contains a specific combination of yeasts, bacteria and molds (Aspergillus and Rhizopus). The enzymes produced by the yeast and bacteria allow the starches and sugars in the glutinous rice to break down into simple carbohydrates and alcohol.
 
 Sourcing the distiller's yeast balls may prove difficult. I found some at a local 99 Ranch with the help of a store associate who was just as surprised as me when we found it on the top shelf of the sugar section. In the reagents, I've listed a random Amazon store to show what it looks like but feel free to source from elsewhere.

@@ -34,7 +34,7 @@ Heavily inspired by [NYT's](https://cooking.nytimes.com/recipes/9039-vanilla-cre
 |<input type="checkbox">|Heavy cream|2 cups|None|
 |<input type="checkbox">|Vanilla extract|2 Tsp|None|
 |<input type="checkbox">|Wagh Bakri (Indian loose-leaf black tea)|1 Tbsp|None|
-|<input type="checkbox">|Ginger|1" root|Skin peeled, cut into thin strips|
+|<input type="checkbox">|Ginger|1" root|Skin peeled, cut into matchsticks|
 |<input type="checkbox">|Optional: Green cardamom pod|1-3 pods|Lightly crushed|
 |<input type="checkbox">|Salt|1/4 Tsp|None|
 |<input type="checkbox">|Egg yolks|5|Room temperature|
@@ -50,11 +50,11 @@ Optional: Cream Cold Infusion
 2. Add tea bag and vanilla to heavy cream carton and allow to infuse in the fridge for 4-24 hours.
 
 Prepare Custard
-3. If using cold infused cream, add infused cream and salt to saucepan. Optionally remove bag containing spices. If using fresh cream, add spices and salt.
-4. Cook over low heat until hot and runny. Let cool for 5 mins.
-5. In a large bowl, beat yolks and sugar together until light.
-6. Slowly stream 1/4 of the cream into the large bowl while mixing.
-7. Add the tempered egg mixture into the saucepot and mix.
+1. If using cold infused cream, add infused cream and salt to saucepan. Optionally remove bag containing spices. If using fresh cream, add tea leaves, ginger, cardamom, if using, and salt.
+2. Cook over low heat until hot and runny. Let cool for 5 mins.
+3. In a large bowl, beat yolks and sugar together until light.
+4. Slowly stream 1/4 of the cream into the large bowl while mixing.
+5. Add the tempered egg mixture into the saucepot and mix.
 
 Prepare Ramekins
 8. Place ramekins into a casserole dish or big pot. Fill dish or pot with boiling water halfway up the sides of the ramekins.

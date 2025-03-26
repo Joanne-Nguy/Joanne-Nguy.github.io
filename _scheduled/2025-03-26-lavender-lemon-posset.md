@@ -1,7 +1,7 @@
 ---
 layout: post
 title: lavender lemon posset brulee
-date: 2025-03-31
+date: 2025-03-26
 description: a floral lemon dessert perfect for spring
 tags: sweet
 categories: recipes
@@ -17,7 +17,8 @@ Heavily inspired by [Kate's](https://cookieandkate.com/lemon-posset-recipe/) rec
 
 #### Materials
 
-- (Optional) Blender
+- (Optional) Blender or lemon juicer
+- Microplane or cheese grater
 - Saucepan
 - Large bowl
 - Silicone spatula
@@ -34,7 +35,7 @@ Heavily inspired by [Kate's](https://cookieandkate.com/lemon-posset-recipe/) rec
 |<input type="checkbox">|Heavy cream|2 cups|None|
 |<input type="checkbox">|Granulated sugar|1/2 cup|None|
 |<input type="checkbox">|Vanilla extract|2 Tsp|None|
-|<input type="checkbox">|Lemon|3 medium lemons|Make 1 1/2 tsp lemon zest and set aside|
+|<input type="checkbox">|Lemon|3 medium lemons|Roll between palms to release juices|
 |<input type="checkbox">|Lavender|2-4 sprigs|Washed and dried|
 |<input type="checkbox">|Granulated sugar for torching|~4 tsp|None|
 
@@ -47,6 +48,7 @@ Optional: Cream Cold Infusion
 1. Add lavender and vanilla to heavy cream carton and allow to infuse in the fridge for 4-24 hours.
 
 Prepare Lemon Juice
+1. Take softened lemons and make 1 1/2 tsp lemon zest using microplane. Set zest aside.
 2. Halve the zested lemons from top to bottom and scoop flesh into a bowl.
 3. Optionally blench lemon and strain. Or, squeeze lemon flesh over a strainer. Collect 1/3 cup of lemon juice. Set aside.
 4. Keep lemon peel halves to use as bowls. 
