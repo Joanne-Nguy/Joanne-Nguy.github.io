@@ -52,17 +52,17 @@ Prepare Lemon Juice
 2. Halve the zested lemons from top to bottom and scoop flesh into a bowl.
 3. Optionally blench lemon and strain. Or, squeeze lemon flesh over a strainer. Collect 1/3 cup of lemon juice. Set aside.
 4. Keep lemon peel halves to use as bowls. 
-- The bottoms can be sliced with a knife so lemon halves can sit flat against a surface.
+- Optional: make a shallow slice on the bottoms with a knife so lemon halves can sit flat against a surface.
 
 Prepare Pudding
-5. Add sugar and lemon zest into a large bowl. Using your hands, rub the lemon zest and sugar together to extract the citron oils from the peel.
-6. If using cold infused cream, add infused cream, sugar-zest mixture and salt to saucepan. If using fresh cream, add lavender and salt.
-7. Cook over medium heat until simmering. Cook for 15-20 mins or until thickened.
-8. Remove the mixture from heat.
-9. Stir in prepared lemon juice and vanilla extract.
-10.  Let the pudding sit for 20 mins.
-11.  Pour the pudding through a strainer into lemon halves or ramekins evenly.
-12.  Refrigerate covered for at least 3 hours.
+1. Add sugar and lemon zest into a large bowl. Using your hands, rub the lemon zest and sugar together to extract the citron oils from the peel.
+2. If using cold infused cream, add infused cream, sugar-zest mixture and salt to saucepan. If using fresh cream, add lavender and salt.
+3. Cook over medium heat until simmering. Cook for 15-20 mins or until thickened.
+4. Remove the mixture from heat.
+5. Stir in prepared lemon juice and vanilla extract.
+6.   Let the pudding sit for 20 mins.
+7.   Pour the pudding through a strainer into lemon halves or ramekins evenly.
+8.   Refrigerate covered for at least 3 hours.
 
 Serve Lemon Posset
 13. Add a thin layer of sugar to the top of each lemon half or ramekin.
