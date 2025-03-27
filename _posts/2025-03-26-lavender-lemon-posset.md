@@ -97,7 +97,7 @@ Serve Lemon Posset
     Lemon posset topped with lemon peels and raspberries. Photo from <a href="https://commons.wikimedia.org/wiki/File:Vegan_Lemon_Curd_(48839115308).jpg">Wikimedia</a>.
 </div>
 
-A simple recipe that tastes of spring - the perfect refreshing dessert with notes of lemon, lavender and carmelized sugar. Pouring the pudding into lemon cups adds to the playful, sunny aesthetic and garnishing with a lavender sprig allows tasters to be able to connect the floral notes to to the herb it comes from. Cracking the sugar layer is reminiscent of plants sprouting from soil warmed by the spring sun.
+A simple recipe that tastes of spring - the perfect refreshing dessert with notes of lemon, lavender and carmelized sugar. Pouring the pudding into lemon cups adds to the playful, sunny aesthetic and garnishing with a lavender sprig allows tasters to be able to connect the floral notes to the herb it comes from. Cracking the sugar layer is reminiscent of plants sprouting from soil warmed by the spring sun.
 
 ##### Variations
 
