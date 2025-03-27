@@ -11,7 +11,7 @@ toc:
 
 #### Abstract
 
-A recipe inspired by the floral, zesty flavors of spring. A brulee'd sugar surface is my take on this trendy dessert.
+A recipe inspired by the floral, zesty flavors of spring. A brulee'd sugar surface is my take on this trendy no-bake dessert.
 
 Heavily inspired by [Kate's](https://cookieandkate.com/lemon-posset-recipe/) recipe.
 
