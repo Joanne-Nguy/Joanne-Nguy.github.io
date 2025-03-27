@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-sweet-rice-wine",
+        },{id: "post-lavender-lemon-posset-brulee",
+      
+        title: "lavender lemon posset brulee",
+      
+      description: "a floral lemon dessert perfect for spring",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/lavender-lemon-posset/";
+        
+      },
+    },{id: "post-sweet-rice-wine",
       
         title: "sweet rice wine",
       
