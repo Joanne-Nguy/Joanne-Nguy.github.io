@@ -70,7 +70,7 @@ Serve Tofu
     </div>
 </div>
 <div class="caption">
-    Silken tofu in ginger syrup. Photo from [FMT](https://www.freemalaysiatoday.com/category/leisure/2019/11/17/home-made-sweet-and-silky-taufu-fa/).
+    Silken tofu in ginger syrup. Photo from <a href="https://www.freemalaysiatoday.com/category/leisure/2019/11/17/home-made-sweet-and-silky-taufu-fa/">FMT</a>.
 </div>
 
 This recipe is a love letter to Vietnamese chè, or sweet soup. The spiciness of the ginger syrup complements the delicate nuttiness of the silken tofu and the creaminess of the coconut cream. A personal favorite dessert that takes no time at all to prepare and easy to store any leftovers. This dessert is unpsurprisingly vegan, as most traditional chè are, featuring differing combinations of recurring simple ingredients.

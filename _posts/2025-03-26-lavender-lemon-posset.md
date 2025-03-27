@@ -35,7 +35,7 @@ Heavily inspired by [Kate's](https://cookieandkate.com/lemon-posset-recipe/) rec
 |<input type="checkbox">|Heavy cream|2 cups|None|
 |<input type="checkbox">|Granulated sugar|1/2 cup|None|
 |<input type="checkbox">|Vanilla extract|2 Tsp|None|
-|<input type="checkbox">|Lemon|3 medium lemons|Roll between palms to release juices|
+|<input type="checkbox">|Lemon|3 medium lemons|Wash and roll between palms to release juices|
 |<input type="checkbox">|Lavender|2-4 sprigs|Washed and dried|
 |<input type="checkbox">|Granulated sugar for torching|~4 tsp|None|
 
@@ -94,7 +94,7 @@ Serve Lemon Posset
     </div>
 </div>
 <div class="caption">
-    Lemon posset topped with lemon peels and raspberries. Photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Vegan_Lemon_Curd_(48839115308).jpg).
+    Lemon posset topped with lemon peels and raspberries. Photo from <a href="https://commons.wikimedia.org/wiki/File:Vegan_Lemon_Curd_(48839115308).jpg">Wikimedia</a>.
 </div>
 
 A simple recipe that tastes of spring - the perfect refreshing dessert with notes of lemon, lavender and carmelized sugar. Pouring the pudding into lemon cups adds to the playful, sunny aesthetic and garnishing with a lavender sprig allows tasters to be able to connect the floral notes to to the herb it comes from. Cracking the sugar layer is reminiscent of plants sprouting from soil warmed by the spring sun.
