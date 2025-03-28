@@ -81,6 +81,12 @@
   ],
   "publications": [
     {
+      "name": "Precise measurement of CRISPR genome editing outcomes through single-cell DNA sequencing",
+      "publisher": "Molecular Therapy Methods & Clinical Development",
+      "releaseDate": "2025-06",
+      "url": "https://doi.org/10.1016/j.omtm.2025.101449"
+    },
+    {
       "name": "Using Single Cell Multi-Omic Clonal Tracking in SMM to Identify Clones That Progress to MM and Harbor Treatment Resistance Features",
       "publisher": "Blood",
       "releaseDate": "2024-11",
