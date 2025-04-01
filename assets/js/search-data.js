@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-lavender-lemon-posset-brulee",
+        },{id: "post-chai-creme-brulee",
+      
+        title: "chai creme brulee",
+      
+      description: "a gingery, milky custard dessert with crackly sugar crust",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/chai-creme-brulee/";
+        
+      },
+    },{id: "post-lavender-lemon-posset-brulee",
       
         title: "lavender lemon posset brulee",
       
