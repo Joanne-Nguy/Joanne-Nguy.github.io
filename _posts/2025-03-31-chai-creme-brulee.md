@@ -58,7 +58,7 @@ Prepare Custard
 
 Prepare Ramekins
 8. Place ramekins into a casserole dish or big pot. Fill dish or pot with boiling water halfway up the sides of the ramekins.
-9. Pour creme mixture over a strainer into each ramekin evenly. Discard strainer contents
+9. Pour custard mixture over a strainer into each ramekin evenly. Discard strainer contents
 10. Gently tap the pot to allow bubbles to surface. Use the butane torch to quickly pop bubbles.
     
 Bake Custard

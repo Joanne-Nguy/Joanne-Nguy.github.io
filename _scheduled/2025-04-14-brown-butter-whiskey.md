@@ -84,7 +84,9 @@ Separate Infused Butter
     Brown butter-washed whiskey. Photo from Unsplash.
 </div>
 
-In an attempt to make a peaty whiskey more palatable, I fat-washed it with brown butter. The resulting drink was a bit less peaty without the signature kick of spiciness. Overall, the drink was more pleasant to sip and though I'm not a whiskey drinker, the process is worth it alone for the infused butter! The butter was not completely removed from the whiskey when filtered with only 2 cheesecloths, which caused some white precipitation to settle on the bottom of the jar. When disturbed it would create swirls in the amber liquid and it was noted that the buttery mouthfeel degraded the drinking experience. If a coffee filter is on hand, then use it after filtering with cheesecloth to remove particles that were initially able to flow through.
+In an attempt to make a peaty whiskey more palatable, I fat-washed it with brown butter. The resulting drink was a bit less peaty without the signature kick of spiciness. Overall, the drink was more pleasant to sip and though I'm not a whiskey drinker, the process is worth it alone for the infused butter! The butter was not completely removed from the whiskey when filtered with only 2 cheesecloths, which caused some white precipitation to settle on the bottom of the jar. When disturbed it would create swirls in the amber liquid and it was noted that the buttery mouthfeel degraded the drinking experience. If a coffee filter is on hand, then it is recommended to use the coffee filter after filtering with cheesecloth to remove particles that were initially able to flow through.
+
+On the side, I had another experiment, where I took half the browned butter and added that to an already palatable Canadian maple syrup whiskey. The result was a sweet and buttery whiskey, a dangerous combination which I had to taste over and over to confirm that it was true! If you happen to find a bottle of Canadian maple syrup whiskey, do try this recipe.
 
 ##### Variations
 
