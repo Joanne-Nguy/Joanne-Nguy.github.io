@@ -11,7 +11,7 @@ toc:
 
 #### Abstract
 
-A recipe of an Indian tea inspired creme brulee. [Adrak chai](https://ikimbala.com/blogs/chai-101/types-of-chai) is a North Indian variant that is ginger forward and is the tea this recipe is based on.
+A recipe of an Indian tea inspired creme brulee. [Adrak chai](https://ikimbala.com/blogs/chai-101/types-of-chai) is a North Indian variant that is ginger forward and is the chai this recipe is based on.
 
 Heavily inspired by [NYT's](https://cooking.nytimes.com/recipes/9039-vanilla-creme-brulee) recipe.
 
@@ -101,7 +101,7 @@ Serve Creme Brulee
     Creme brulee. Photo from Unsplash.
 </div>
 
-Patience is another key ingredient in this recipe. If the custard does not have adequate time to bake or set, the center will be liquidy rather than the desired thick, creamy custard. If the process is not rushed, the reward is well earned, boasting a satisfying melted sugar crust and a gingery spiced custard.
+Patience is another key ingredient in this recipe. If the custard does not have adequate time to bake or set, the center will be liquidy rather than the desired thick, creamy custard. For the patient baker, the reward is well earned, boasting a satisfying melted sugar crust and a gingery spiced custard.
 
 ##### Variations
 
@@ -113,7 +113,7 @@ For other flavor profiles, other herbs and fruits can be added to the cream eith
 
 Tempering Egg Yolks
 
-Warm cream is added to the egg yolks to slowly increase the temperature of the egg yolks. When temperature is added too quickly, the egg yolks cook and curdle. Cooked bits are strained out in case any clumps form.
+Warm cream is added to the egg yolks to slowly increase the temperature of the egg yolks. When temperature is increased too quickly, the egg yolks will cook and curdle. Cooked bits are strained out in case any clumps form.
 
 [Bain Marie](https://en.wikipedia.org/wiki/Bain-marie#:~:text=Baked%20custard%20desserts%20such%20as%20custard%20tarts,custard%20before%20the%20interior%20is%20fully%20cooked.&text=Bains%2Dmarie%20can%20be%20used%20in%20place%20of,hot%20plates%20are%20inconvenient%20or%20too%20powerful.)
 
