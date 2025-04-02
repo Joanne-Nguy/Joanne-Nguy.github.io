@@ -67,7 +67,7 @@ ninja.data = [{
       
         title: "brown butter chocolate chip cookies",
       
-      description: "my popular brown butter chocolate chip cookies",
+      description: "a take on classic brown butter chocolate chip cookies",
       section: "Posts",
       handler: () => {
         
