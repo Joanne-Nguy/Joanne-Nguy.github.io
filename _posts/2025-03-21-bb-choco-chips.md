@@ -2,7 +2,7 @@
 layout: post
 title: brown butter chocolate chip cookies
 date: 2025-03-21
-description: my popular brown butter chocolate chip cookies
+description: a take on classic brown butter chocolate chip cookies
 tags: cookies, baking, sweet
 categories: recipes
 toc: 

@@ -7,5 +7,6 @@ TODO:
 - matcha butter cookies
 - summer rolls + peanut sauce
 - garlic confit (mojo de ajo)
+
+DONE:
 - cinnamon strawberry swirl cake
-- 

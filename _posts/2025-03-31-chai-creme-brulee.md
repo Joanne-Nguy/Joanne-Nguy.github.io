@@ -11,7 +11,7 @@ toc:
 
 #### Abstract
 
-A recipe of an Indian tea inspired creme brulee. [Adrak chai](https://ikimbala.com/blogs/chai-101/types-of-chai) is a North Indian variant that is ginger forward and is the chai this recipe is based on.
+A recipe for an Indian tea inspired creme brulee. [Adrak chai](https://ikimbala.com/blogs/chai-101/types-of-chai) is a North Indian variant that is ginger forward and is the chai this recipe is based on.
 
 Heavily inspired by [NYT's](https://cooking.nytimes.com/recipes/9039-vanilla-creme-brulee) recipe.
 
