@@ -31,7 +31,7 @@ Heavily inspired by [Katie's](https://www.aforkstale.com/make-homemade-hot-peppe
 |<input type="checkbox">|Distilled vinegar|1/2 Cup|None|
 |<input type="checkbox">|Yuzu extract|2 Tbsp|None|
 |<input type="checkbox">|Pectin (Optional: sugar-free)|1 oz|None|
-|<input type="checkbox">|Granulated Sugar|2 Cups|None|
+|<input type="checkbox">|Granulated Sugar|2 Cups or follow instructions on the pectin box|None|
 
 
 <br>

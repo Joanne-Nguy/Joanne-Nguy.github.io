@@ -72,7 +72,7 @@ Separate Infused Butter
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid 
         loading="lazy" 
-        path="https://flic.kr/p/8Anfz3" 
+        path="https://live.staticflickr.com/4149/4983404604_0b50c69674_h.jpg" 
         width="50%" 
         class="img-fluid mx-auto d-block rounded z-depth-1" 
         avoid_scaling=true %}
