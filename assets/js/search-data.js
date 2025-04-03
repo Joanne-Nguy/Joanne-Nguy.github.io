@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-chai-creme-brulee",
+        },{id: "post-homemade-paneer",
+      
+        title: "homemade paneer",
+      
+      description: "a savory indian cheese made with 3 simple ingredients",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/paneer/";
+        
+      },
+    },{id: "post-chai-creme-brulee",
       
         title: "chai creme brulee",
       
