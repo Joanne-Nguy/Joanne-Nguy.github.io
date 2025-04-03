@@ -41,6 +41,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/paneer/";
         
       },
+    },{id: "post-yuzu-habanero-pepper-jelly",
+      
+        title: "yuzu habanero pepper jelly",
+      
+      description: "a sweet and spicy jelly preserve",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/habanero-jelly/";
+        
+      },
     },{id: "post-chai-creme-brulee",
       
         title: "chai creme brulee",
