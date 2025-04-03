@@ -1,7 +1,6 @@
 TODO:
 - do chua
 - lavender bitters
-- yuzu habanero jelly
 - fermented habanero hot honey
 - lemon crinkle cookies
 - matcha butter cookies
@@ -11,3 +10,4 @@ TODO:
 DONE:
 - cinnamon strawberry swirl cake
 - garlic confit (mojo de ajo)
+- yuzu habanero jelly
