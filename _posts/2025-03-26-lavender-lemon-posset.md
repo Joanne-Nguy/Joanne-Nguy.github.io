@@ -44,17 +44,17 @@ Heavily inspired by [Kate's](https://cookieandkate.com/lemon-posset-recipe/) rec
 
 #### Procedure
 
-Optional: Cream Cold Infusion
+##### Optional: Cream Cold Infusion
 1. Add lavender and vanilla to heavy cream carton and allow to infuse in the fridge for 4-24 hours.
 
-Prepare Lemon Juice
+##### Prepare Lemon Juice
 1. Take softened lemons and make 1 1/2 tsp lemon zest using microplane. Set zest aside.
 2. Halve the zested lemons from top to bottom and scoop flesh into a bowl.
 3. Optionally blench lemon and strain. Or, squeeze lemon flesh over a strainer. Collect 1/3 cup of lemon juice. Set aside.
 4. Keep lemon peel halves to use as bowls. 
 - Optional: make a shallow slice on the bottoms with a knife so lemon halves can sit flat against a surface.
 
-Prepare Pudding
+##### Prepare Pudding
 1. Add sugar and lemon zest into a large bowl. Using your hands, rub the lemon zest and sugar together to extract the citron oils from the peel.
 2. If using cold infused cream, add infused cream, sugar-zest mixture and salt to saucepan. If using fresh cream, add lavender and salt.
 3. Cook over medium heat until simmering. Cook for 15-20 mins or until thickened.
@@ -64,7 +64,7 @@ Prepare Pudding
 7.   Pour the pudding through a strainer into lemon halves or ramekins evenly.
 8.   Refrigerate covered for at least 3 hours.
 
-Serve Lemon Posset
+##### Serve Lemon Posset
 13. Add a thin layer of sugar to the top of each lemon half or ramekin.
 14. Using a butane torch, melt the sugar in small areas, moving the torch slowly and allowing the sugar to bubble and crystallize before moving to the next area.
 15. Garnish with lavender sprigs and serve within 30 mins before sugar layer becomes soft.

@@ -36,7 +36,7 @@ Heavily inspired by [Sonia's](http://nasilemaklover.blogspot.com/2015/11/homemad
 
 #### Procedure
 
-Glutinous Rice Preparation
+##### Glutinous Rice Preparation
 1. Wash and rinse glutinous rice with cold water in the metal steaming bowl.
 2. Soak rice with 1/2" of cool (filtered) water for 1 hour.
 3. While waiting, prepare the yeast balls by grinding into fine powder using a food processor. Seal in a dry, sterile jar.
@@ -52,7 +52,7 @@ Glutinous Rice Preparation
 11. Repeat steps 8-9 with the remaining rice.
 12. Lightly screw on jar lid to allow gases to escape and place in a warm, dark area.
 
-Fermenting
+##### Fermenting
 13.  The distiller's yeast has an optimal operating temperature of 28<sup>o</sup>C. 
 - I created a warm space by putting a cloth over the jar and a bowl of hot water in the oven and replaced the water twice a day. Any warm, dark space will work.
 14.   Let the rice ferment for 48-72 hours depending on ambient temperature and wine flavor preference.
@@ -60,7 +60,7 @@ Fermenting
 - Warmer ambient temperature will ferment the rice wine faster, while cooler temperatures will ferment it slower.
 - Sterilize a spoon and taste the wine. Place the jar in the fridge when the flavor is sweet and no longer like yeast.
 
-Serving
+##### Serving
 15.  Using a sterilized spoon, scoop the rice and liquid into your serving bowl.
 16.  The rice wine may be enjoyed as is. If it's too strong, dilute with water or yakult.
    

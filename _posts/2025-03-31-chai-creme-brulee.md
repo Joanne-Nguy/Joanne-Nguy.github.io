@@ -45,29 +45,29 @@ Heavily inspired by [NYT's](https://cooking.nytimes.com/recipes/9039-vanilla-cre
 
 #### Procedure
 
-Optional: Cream Cold Infusion
+##### Optional: Cream Cold Infusion
 1. Add tea, ginger and cardamom, if using, to a tea bag and tie tightly.
 2. Add tea bag and vanilla to heavy cream carton and allow to infuse in the fridge for 4-24 hours.
 
-Prepare Custard
+##### Prepare Custard
 1. If using cold infused cream, add infused cream and salt to saucepan. Optionally remove bag containing spices. If using fresh cream, add tea leaves, ginger, cardamom, if using, and salt.
 2. Cook over low heat until hot and runny. Let cool for 5 mins.
 3. In a large bowl, beat yolks and sugar together until light.
 4. Slowly stream 1/4 of the cream into the large bowl while mixing.
 5. Add the tempered egg mixture into the saucepot and mix.
 
-Prepare Ramekins
+##### Prepare Ramekins
 8. Place ramekins into a casserole dish or big pot. Fill dish or pot with boiling water halfway up the sides of the ramekins.
 9. Pour custard mixture over a strainer into each ramekin evenly. Discard strainer contents
 10. Gently tap the pot to allow bubbles to surface. Use the butane torch to quickly pop bubbles.
     
-Bake Custard
+##### Bake Custard
 11. Pre-heat over to 325<sup>o</sup>C. Bake for 30-40 mins or until center slightly jiggles when tapped.
 - If center wobbles when tapped, creme is undercooked. Bake for additional time.
 12. Cool at room temperature for 30-60 mins.
 13. Cover and refrigerate for 4-48 hours.
     
-Serve Creme Brulee
+##### Serve Creme Brulee
 14. Add a thin layer of sugar to the top of each ramekin.
 15. If using a butane torch, melt the sugar in small areas, moving the torch slowly and allowing the sugar to bubble and crystallize before moving to the next area.
 16. If a butane torch is unavailable, broil the top of the ramekin for 5 mins.

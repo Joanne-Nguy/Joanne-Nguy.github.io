@@ -38,7 +38,7 @@ A recipe for spreadable liquid gold - garlic confit. The confit process, or low-
 
 #### Procedure
 
-Confit the Garlic
+##### Confit the Garlic
 1. Preheat oven to 300<sup>o</sup>F.
 2. Add garlic cloves to the pan in a single layer. 
 3. Add toppings if using.
@@ -46,7 +46,7 @@ Confit the Garlic
 5. Bake at 300<sup>o</sup>F for 1-1.5h or until garlic is golden brown.
 6. Serve the fresh garlic confit and oil spread over toast or proteins.
 
-Make the Garlic Sauce
+##### Make the Garlic Sauce
 1. Add the garlic, your acid, salt and any toppings to a blender. Mixture will be thick.
 2. Stream in the reserved olive oil until desired consistency.
 - Excess oil may be stored in an air-tight container in the fridge for up to 1 month

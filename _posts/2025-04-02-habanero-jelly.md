@@ -38,7 +38,7 @@ Heavily inspired by [Katie's](https://www.aforkstale.com/make-homemade-hot-peppe
 
 #### Procedure
 
-Prepare Jelly
+##### Prepare Jelly
 1. In a saucepan on high heat, add habanero and bell peppers.
 2. In a small bowl, mix yuzu extract and pectin together. Mixture will be thick like cornstarch and water.
 3. Add the pectin mixture to the saucepan and stir continuously. Bring to a boil and remove from heat.
@@ -46,7 +46,7 @@ Prepare Jelly
 5. Remove from heat and skim off any foam
 6. Add to sterilized jar.
 
-Preserve Jelly
+##### Preserve Jelly
 1. Add jar to a pot and completely submerge with hot water. Boil for 5-10 mins depending on altitude.
 2. Remove from heat.
 3. Test seal by pressing the center of the lid. If lid springs back, repeat boiling process.
@@ -56,7 +56,7 @@ Preserve Jelly
 1. Store jar upside down so that peppers are floating to the bottom of the jar.
 2. After 2 days, store jar right side up. Peppers in the jelly will be distributed evenly instead of floating to the top.
 
-Serve Jelly
+##### Serve Jelly
 1. Unseal the jar. You should hear a pop which indicates that the seal is still effective.
 2. Serve on toast or with crackers and cheese.
 
@@ -103,7 +103,8 @@ The acid in the jelly can be substituted as well. I used a combination of distil
 
 I chose habaneros, a pepper with a rating of 100-350k Scoville Heat Units (SCU) which is on the spicier side since it was readily available to me for free at a farmer's market. The resulting heat in the jelly was surprisingly bearable (coming from someone with a mild spice tolerance). Cooking down the peppers will reduce the heat, so the time cooked may be adjusted based on desired spice level. Yes, my tongue and mouth still burned, but it was nothing like the heat I felt after slicing the habaneros, washing my hands (3 times!) and touching my face - please be careful when handling peppers! 
 
-In comparison, here are the [SCUs](https://en.wikipedia.org/wiki/Scoville_scale) of some commonly eaten peppers:
+For comparison, here are the [SCUs](https://en.wikipedia.org/wiki/Scoville_scale) of some commonly eaten peppers:
+
 |Pepper|Spiciness (SCU)|
 |:---|:---|
 |Bell pepper|0|
