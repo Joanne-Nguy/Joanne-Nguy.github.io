@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-homemade-paneer",
+        },{id: "post-tofu-in-ginger-syrup",
+      
+        title: "tofu in ginger syrup",
+      
+      description: "a simple tofu-based Vietnamese dessert",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/tofu-ginger-syrup/";
+        
+      },
+    },{id: "post-homemade-paneer",
       
         title: "homemade paneer",
       
