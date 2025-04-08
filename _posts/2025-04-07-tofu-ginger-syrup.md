@@ -43,7 +43,7 @@ A recipe with a spicy, gingery syrup and delicate, soft tofu topped with coconut
 3. Using a spoon, take thin slices of the tofu and place in serving bowl.
 4. Pour ginger syrup until tofu is barely submerged. Add ginger slices as well.
 5. Top with a tablespoon of coconut cream.
-6. Serve cold with ice or serve hot after microwaving for ~30s.
+6. Serve cold with ice or serve hot after microwaving for ~30s. Optionally, top with sesame seeds.
    
 <table>
   <tr>
@@ -73,8 +73,12 @@ A recipe with a spicy, gingery syrup and delicate, soft tofu topped with coconut
     Silken tofu in ginger syrup. Photo from <a href="https://www.freemalaysiatoday.com/category/leisure/2019/11/17/home-made-sweet-and-silky-taufu-fa/">FMT</a>.
 </div>
 
-This recipe is a love letter to Vietnamese chè, or sweet soup. The spiciness of the ginger syrup complements the delicate nuttiness of the silken tofu and the creaminess of the coconut cream. A personal favorite dessert that takes no time at all to prepare and easy to store any leftovers. This dessert is unpsurprisingly vegan, as most traditional chè are, featuring differing combinations of recurring simple ingredients.
+This recipe is a love letter to Vietnamese chè, or sweet soup. The spiciness of the ginger syrup complements the delicate texture of the silken tofu and the nuttiness of the coconut cream. A personal favorite dessert that takes no time at all to prepare and easy to store any leftovers. This dessert is unpsurprisingly vegan, as most traditional chè are, featuring differing combinations of recurring simple ingredients.
 
 ##### Ginger Syrup
 
 Ginger syrup is a staple in a lot of Vietnamese chè, so any leftover syrup may be stored in the fridge and used for another recipe. The unique flavor profile of the ginger syrup can be used in drinks such as lattes and cocktails to add a sweet, gingery note.
+
+##### Variations
+
+The simplicity of this tofu dessert brings back memories of savoring this dish warm from the stovetop. Other traditional toppings typically served with this dessert are glutinous rice balls with or without filling. These glutinous rice balls add a bit of chewiness to an otherwise soft texture. The filling can be sweet when filled with red bean or mung bean; or it can be savory when filled with black sesame or crushed peanuts. More modern variations of this dessert include tapioca balls, sago and chewy jellies.
