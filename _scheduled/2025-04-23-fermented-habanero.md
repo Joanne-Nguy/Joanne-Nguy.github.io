@@ -46,26 +46,26 @@ A recipe for fermented habanero-based hot sauce with a tart plum addition.
 
 #### Procedure
 
-Prepare Habaneros
+##### Prepare Habaneros
 1. Don gloves, wash gloves with soap.
 2. Using a knife and cutting board, slice habaneros in half. Remove seeds and stem.
 3. Slice habaneros into thin strips. The thinner the strips, the quicker the habanero will ferment.
 4. Set aside in a small bowl. Discard gloves.
 
-Prepare Pickling Brine
+##### Prepare Pickling Brine
 1. Add salt to the water to make a 3% brine.
 2. In a jar, add carrot matchsticks, diced shallots and sliced garlic. Using a spoon, add the sliced habaneros to the jar.
 3. Fill jar with with brine covering the vegetables.
 4. Add the pickling weight or cabbage leaf to prevent veggies from floating.
 5. Fill rest of the jar with the brine. Add sauerkraut pickling juice if using.
 
-Ferment
+##### Ferment
 1. Place jar in a cool, dark spot over a plate with a rim.
 2. Close the lid partway to allow fermentation gases to escape. Ferment for 7-60 days.
 - Bubbles should start to form a day after fermenting if using sauerkraut pickling juice as a starter or within 3 days.
 - Longer fermentation will mild the spice in the habaneros. 
 
-Blend Sauce
+##### Blend Sauce
 1. Strain the fermented vegetables over a bowl to reserve the pickling liquid.
 2. Add the fermented vegetables minus the cabbage to a food processor or blender. Add 1/4 to 1 cup of pickling liquid to the food processor depending on preferred thickness of the sauce.
 3. Add any additional toppings and salt to taste.
@@ -114,3 +114,17 @@ The bacteria that are found on the peels of root vegetables like carrots and pot
 The usual habanero pairing is mango or strawberry, a sweet, tart fruit to contrast the burning spice of habanero. I had plums on hand and found the flesh to be refreshing and slightly tart. Feel free to use the fruit you have on hand! Other pairings are kiwi, pineapple and pomegranate.
 
 In addition to the fruit added after fermentation, we added carrots to the pickle to help jump start the fermentation with the bacteria usually found on carrot skin. The mildness of carrots will also balance the spiciness of the habanero. Other neutral vegetables can be used in place of carrot such as bell peppers.
+
+##### Spice Level
+
+I chose habaneros, a pepper with a rating of 100-350k Scoville Heat Units (SCU) which is on the spicier side, since it was readily available to me for free at a farmer’s market. The resulting heat in the jelly was surprisingly bearable (coming from someone with a mild spice tolerance). Fermenting the peppers will reduce the heat, so the fermenting time may be adjusted based on desired spice level. Yes, my tongue and mouth still burned, but it was nothing like the heat I felt after slicing the habaneros, washing my hands (3 times!) and touching my face - please be careful when handling peppers!
+
+For comparison, here are the [SCUs](https://en.wikipedia.org/wiki/Scoville_scale) of some commonly eaten peppers:
+
+|Pepper|Spiciness (SCU)|
+|:---|:---|
+|Bell pepper|0|
+|Jalapeno pepper|2.5-10k|
+|Cayenne pepper|25-50K|
+|Thai chilies|50-100k|
+|Habanero pepper|100k-350K|

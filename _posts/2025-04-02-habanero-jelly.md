@@ -17,6 +17,7 @@ Heavily inspired by [Katie's](https://www.aforkstale.com/make-homemade-hot-peppe
 
 #### Materials
 
+- Recommended: food-safe powder-free gloves
 - Saucepan
 - Small bowl
 - Sterilized spoon
@@ -26,7 +27,7 @@ Heavily inspired by [Katie's](https://www.aforkstale.com/make-homemade-hot-peppe
 
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
-|<input type="checkbox">|Habanero|1/4 Cup|Finely chopped and deseeded|
+|<input type="checkbox">|Habanero|1/4 Cup|Washed|
 |<input type="checkbox">|Bell pepper|1 Cup|Finely chopped and deseeded|
 |<input type="checkbox">|Distilled vinegar|1/2 Cup|None|
 |<input type="checkbox">|Yuzu extract|2 Tbsp|None|
@@ -38,6 +39,12 @@ Heavily inspired by [Katie's](https://www.aforkstale.com/make-homemade-hot-peppe
 
 #### Procedure
 
+##### Prepare Habaneros
+1. Don gloves, wash gloves with soap.
+2. Using a knife and cutting board, slice habaneros in half. Remove seeds and stem.
+3. Finely chop habaneros. The smaller the strips, the quicker the habanero will cook.
+4. Set aside in a small bowl. Discard gloves.
+  
 ##### Prepare Jelly
 1. In a saucepan on high heat, add habanero and bell peppers.
 2. In a small bowl, mix yuzu extract and pectin together. Mixture will be thick like cornstarch and water.
@@ -101,7 +108,7 @@ The acid in the jelly can be substituted as well. I used a combination of distil
 
 ##### Spice Level
 
-I chose habaneros, a pepper with a rating of 100-350k Scoville Heat Units (SCU) which is on the spicier side since it was readily available to me for free at a farmer's market. The resulting heat in the jelly was surprisingly bearable (coming from someone with a mild spice tolerance). Cooking down the peppers will reduce the heat, so the time cooked may be adjusted based on desired spice level. Yes, my tongue and mouth still burned, but it was nothing like the heat I felt after slicing the habaneros, washing my hands (3 times!) and touching my face - please be careful when handling peppers! 
+I chose habaneros, a pepper with a rating of 100-350k Scoville Heat Units (SCU) which is on the spicier side, since it was readily available to me for free at a farmer's market. The resulting heat in the jelly was surprisingly bearable (coming from someone with a mild spice tolerance). Cooking down the peppers will reduce the heat, so the time cooked may be adjusted based on desired spice level. Yes, my tongue and mouth still burned, but it was nothing like the heat I felt after slicing the habaneros, washing my hands (3 times!) and touching my face - please be careful when handling peppers! 
 
 For comparison, here are the [SCUs](https://en.wikipedia.org/wiki/Scoville_scale) of some commonly eaten peppers:
 
