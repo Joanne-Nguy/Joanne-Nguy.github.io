@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-tofu-in-ginger-syrup",
+        },{id: "post-fermented-fries",
+      
+        title: "fermented fries",
+      
+      description: "a tangy spin on the classic french fries",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/fermented-fries/";
+        
+      },
+    },{id: "post-tofu-in-ginger-syrup",
       
         title: "tofu in ginger syrup",
       
