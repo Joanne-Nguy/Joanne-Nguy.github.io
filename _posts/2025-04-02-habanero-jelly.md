@@ -56,7 +56,7 @@ Heavily inspired by [Katie's](https://www.aforkstale.com/make-homemade-hot-peppe
 6. Add to sterilized jar.
 
 ##### Preserve Jelly
-**Hands-on**: 10 mins| **Incubation**: 2+ days
+**Hands-on**: 10 mins | **Incubation**: 2+ days
 1. Add jar to a pot and completely submerge with hot water. Boil for 5-10 mins depending on altitude.
 2. Remove from heat.
 3. Test seal by pressing the center of the lid. If lid springs back, repeat boiling process.

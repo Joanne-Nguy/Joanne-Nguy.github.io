@@ -42,7 +42,7 @@ A recipe for a brown butter infusion with whiskey to be used for baking or cooki
 7. Immediately take off heat.
 
 ##### Prepare Infusion
-**Hands-on**: 5 mins| **Incubation**: 24 h
+**Hands-on**: 5 mins | **Incubation**: 24 h
 1. Add whiskey and hot brown butter to a glass jar. Use a funnel if needed.
 2. Swirl contents to mix.
 3. Leave on the counter for up to 12 h to allow contents to infuse. Swirl contents every hour or so to mix.

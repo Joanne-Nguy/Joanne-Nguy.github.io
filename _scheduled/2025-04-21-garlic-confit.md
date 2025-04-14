@@ -39,7 +39,7 @@ A recipe for spreadable liquid gold - garlic confit. The confit process, or low-
 #### Procedure
 
 ##### Confit the Garlic
-**Hands-on**: 10 mins| **Incubation**: 1-1.5 h
+**Hands-on**: 10 mins | **Incubation**: 1-1.5 h
 1. Preheat oven to 300<sup>o</sup>F.
 2. Add garlic cloves to the pan in a single layer. 
 3. Add toppings if using.
@@ -87,10 +87,10 @@ The sauce is a perfect addition to toast or any strongly-flavored protein dish. 
 
 ##### Safety
 
-This recipe is a way of preserving large amounts of garlic cloves for long-term storage (thank you Costco-sized bag of peeled garlic). Garlic stored in oil has a short shelf life due to the anaerobic, low-acid environment which is ideal for [Clostridium botulinum](https://en.wikipedia.org/wiki/Botulism) to reproduce. I adapt the Brazilian mojo de ajo recipe with its use of an acid to prevent the ideal environment for C. botulinum. This adds a bright splash of flavor to complement the carmelized garlic flavor of the confit. Feel free to use any citrus on hand - I personally love the combination of orange juice and yuzu extract. The prepared garlic sauce has a long shelf-life in the refrigerator, though it will disappear very quickly!
+This recipe is a way of preserving large amounts of garlic cloves for long-term storage (thank you Costco-sized bag of peeled garlic). Garlic stored in oil has a short shelf life due to the anaerobic, low-acid environment which is ideal for [Clostridium botulinum](https://en.wikipedia.org/wiki/Botulism) to reproduce. I adapt the Brazilian mojo de ajo recipe with its use of an acid to prevent the ideal environment for C. botulinum. This adds a bright splash of flavor to complement the caramelized garlic flavor of the confit. Feel free to use any citrus on hand - I personally love the combination of orange juice and yuzu extract. The prepared garlic sauce has a long shelf-life in the refrigerator, though it will disappear very quickly!
 
 ##### Variations
 
-Garlic is an ingredient that it used in dishes worldwide. The toppings added to the oil help develop more flavor as it confits and that flavor profile can be changed to suit your dish. I opted for a bright and herbal sauce that works well with a variety of dishes - my personal favorites being sandwiches and steaks. The sauce can be made spicier with the additon of chili flakes, ginger and cinnamon. Or another variation could be more suitable for pastas with the addition of fresh oregano and basil.
+Garlic is an ingredient that it used in dishes worldwide. The toppings added to the oil help develop more flavor as it confits and that flavor profile can be changed to suit your dish. I opted for a bright and herbal sauce that works well with a variety of dishes - my personal favorites being sandwiches and steaks. The sauce can be made spicier with the addition of chili flakes, ginger and cinnamon. Or another variation could be more suitable for pastas with the addition of fresh oregano and basil.
 
 Olive oil is used to impart a light profile, but heavier animal fats can be used as well to create a smokier oil. I have tried this recipe using leftover fat from frying Chinese sausage, lap cheong, and adding the rest of the volume in olive oil to submerge the garlic cloves. This produced a sauce with complex layers of flavor which can't be achieved using olive oil alone.

@@ -35,7 +35,7 @@ A recipe with a spicy, gingery syrup and delicate, soft tofu topped with coconut
 #### Procedure
 
 ##### Prepare Ginger Syrup
-**Hands-on**: 10 mins| **Incubation**: 30 mins
+**Hands-on**: 10 mins | **Incubation**: 30 mins
 1. Heat water, brown sugar and ginger in a saucepot over medium-low heat. Stir with spatula until sugar is dissolved and syrup slightly thickens, approximately 5 mins.
 2. Take off heat and allow to cool for 30 mins.
 - Ginger syrup can be stored and further infused until ready to serve.
