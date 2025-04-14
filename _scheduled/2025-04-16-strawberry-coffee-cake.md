@@ -22,7 +22,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/blackberry-cream
 - Colander
 - Recommended: Stand mixer with paddle attachment
 - Silicone spatula
-- Optional: Angled spatula
+- **Optional**: Angled spatula
 - 9" Round springform pan
 - 9" Round parchment paper
 - Aluminum foil to cover 9" springform pan
@@ -64,41 +64,46 @@ Cake
 #### Procedure
 
 ##### Prepare Crumb Topping
+**Hands-on**: 5 mins
 1. In a large bowl, combine brown sugar, flour and cinnamon.
 2. Add the cold butter and press between fingers to create small flat disks of butter. Continue pressing the butter until pea-sized crumbs remain.
 3. Cover the bowl and place in fridge to chill.
 
 ##### Prepare Cheese Topping
+**Hands-on**: 5 mins
 1. In a large bowl, add the softened cheese and salt.
 2. Whisk until combined. The cheese will be thick.
 
 ##### Prepare Berries
+**Hands-on**: 5 mins
 1. If using fresh berries, wash in a colander and briefly dry.
 2. Cut the berries into 1/2 x 1/2" cubes.
 - The size does not need to be precise. At this size, strawberries will stil have a slight crunch after baking.
 3. Set prepared berries aside.
 
 ##### Prepare Batter
-1. Pre-heat oven at 350<sup>o</sup>F and grease 9" springform pan.
-2. In a large bowl, sift flour, baking powder, baking soda and salt. Briefly mix with a silicone spatula. Set dry ingredients aside.
-3. In a stand mixer, ddd butter and granulated sugar. Mix on high until creamy, about 2 mins.
-4. Add 1 egg at a time, mixing until fully incorporated.
-5. Add vanilla extract and greek yogurt, mixing briefly.
-6. Scrape down the sides of the bowl.
-7. On low, add half of the dry ingredients until incoporated. Add the other half of the dry ingredients. Mix until incorporated.
-8. Add prepared berries and fold in with silicone spatula.
+**Hands-on**: 10 mins
+1. In a large bowl, sift flour, baking powder, baking soda and salt. Briefly mix with a silicone spatula. Set dry ingredients aside.
+2. In a stand mixer, ddd butter and granulated sugar. Mix on high until creamy, about 2 mins.
+3. Add 1 egg at a time, mixing until fully incorporated.
+4. Add vanilla extract and greek yogurt, mixing briefly.
+5. Scrape down the sides of the bowl.
+6. On low, add half of the dry ingredients until incoporated. Add the other half of the dry ingredients. Mix until incorporated.
+7. Add prepared berries and fold in with silicone spatula.
 
 ##### Bake Cake
-1. In the greased springform pan, spread about 1/2 to 2/3 of the cake batter to cover the bottom of the pan with the angled spatula, if using.
-2. Sprinkle half the crumb on top of the batter
-3. Spread the rest of the cake batter. 
+**Hands-on**: 10 mins| **Incubation**: 1.5 h
+1. Pre-heat oven at 350<sup>o</sup>F and grease 9" springform pan.
+2. In the greased springform pan, spread about 1/2 to 2/3 of the cake batter to cover the bottom of the pan with the angled spatula, if using.
+3. Sprinkle half the crumb on top of the batter
+4. Spread the rest of the cake batter. 
 - Batter will be thick and difficult to spread, but when baked, it will spread to form a complete layer.
-4. Spread cheese topping. Again, cheese will be thick, but will spread with heat.
-5. Sprinkle the rest of the crumb layer over the cheese topping.
-6. Bake cake at 350<sup>o</sup>F for 60-65 mins or until center no longer jiggles. Halfway through bake time, lightly wrap aluminum foil over the springform pan. 
+5. Spread cheese topping. Again, cheese will be thick, but will spread with heat.
+6. Sprinkle the rest of the crumb layer over the cheese topping.
+7. Bake cake at 350<sup>o</sup>F for 60-65 mins or until center no longer jiggles. Halfway through bake time, lightly wrap aluminum foil over the springform pan. 
 - Test cake doneness with a BBQ skewer through the center of the cake -- it should come out mostly clean.
-7. Cool cake for at least 30 mins at room temperature before removing the springform pan.
-8. Serve generous slices with tea or coffee.
+8. Cool cake for at least 30 mins at room temperature before removing the springform pan.
+9. Serve generous slices with tea or coffee.
 
 <table>
   <tr>

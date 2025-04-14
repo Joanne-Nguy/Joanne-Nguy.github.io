@@ -17,7 +17,7 @@ A recipe for a brown butter infusion with whiskey to be used for baking or cooki
 
 - Light-colored pan
 - Silicone spatula
-- (Optional) Funnel
+- **Optional**: Funnel
 - 2 Glass Jars
 - 2 Cheesecloths
 
@@ -32,6 +32,7 @@ A recipe for a brown butter infusion with whiskey to be used for baking or cooki
 #### Procedure
 
 ##### Prepare Brown Butter
+**Hands-on**: 15 mins
 1. Heat a light-colored pan to medium heat on the stove.
 2. Cut softened butter into small, equally-sized slices.
 3. Once pan has heated up, add butter.
@@ -41,12 +42,14 @@ A recipe for a brown butter infusion with whiskey to be used for baking or cooki
 7. Immediately take off heat.
 
 ##### Prepare Infusion
+**Hands-on**: 5 mins| **Incubation**: 24 h
 1. Add whiskey and hot brown butter to a glass jar. Use a funnel if needed.
 2. Swirl contents to mix.
-3. Leave on the counter for up to 24 h to allow contents to infuse. Swirl contents every hour or so to mix.
-4. Solid butter will separate from the whiskey. Allow contents to separate further by placing the jar in the freezer for over 4 h.
+3. Leave on the counter for up to 12 h to allow contents to infuse. Swirl contents every hour or so to mix.
+4. Solid butter will separate from the whiskey. Allow contents to separate further by placing the jar in the freezer for at least 4 h.
 
 ##### Separate Infused Butter
+**Hands-on**: 15 mins
 1. Take jar out of the freezer and allow butter to soften, about 15 mins.
 2. Place a funnel over a new jar. Line the funnel with 2 layers of cheesecloth.
 3. Pour the infusion through the funnel. Butter solids will be filtered by the cheesecloth.

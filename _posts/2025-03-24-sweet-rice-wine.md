@@ -18,9 +18,9 @@ Heavily inspired by [Sonia's](http://nasilemaklover.blogspot.com/2015/11/homemad
 #### Materials
 
 - Pan with steamer
-- Metal steaming bowl
-- 2 Sterilized clear glass jars (A 26+ oz jar and a 3+ oz jar)
-- Sterilized (metal) spoon(s)
+- Metal steamer bowl
+- 2 Sterilized clear glass jars (a 26+ oz jar and a 3+ oz jar)
+- Sterilized spoons
 - Food Processor or Mortar and Pestle
 
 #### Reagents
@@ -28,34 +28,36 @@ Heavily inspired by [Sonia's](http://nasilemaklover.blogspot.com/2015/11/homemad
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
 |<input type="checkbox">|Sweet or Black glutinous rice|1 cup|None|
-|<input type="checkbox">|Water|1 and 1/2 cup for steaming<br>More for rinsing|Filtered (preferred) or tap|
+|<input type="checkbox">|Water|1 and 1/2 cup for steaming<br>More for rinsing|**Filtered** (preferred) or tap|
 |<input type="checkbox">|[Chinese distiller's yeast balls](https://www.amazon.com/HanHeng-Taste-Shanghai-Yeast-Balls/dp/B01DHHD6BC)|4 Tbsp (40g)|None|
-|<input type="checkbox">|Optional: Granulated sugar|2 Tbsp|None|
+|<input type="checkbox">|**Optional**: Granulated sugar|2 Tbsp|None|
 
 <br>
 
 #### Procedure
 
-##### Glutinous Rice Preparation
-1. Wash and rinse glutinous rice with cold water in the metal steaming bowl.
+##### Glutinous Rice Preparation 
+(**Hands-on**: 15 min | **Incubation**: 1.5 
+1. Wash and rinse glutinous rice with cold water in the metal steamer bowl.
 2. Soak rice with 1/2" of cool (filtered) water for 1 hour.
-3. While waiting, prepare the yeast balls by grinding into fine powder using a food processor. Seal in a dry, sterile jar.
-4. Fill the pan with water without allowing any into the steaming basket. Boil water on medium heat.
-5. Once the steaming basket is boiling, set heat to medium-low and place soaked rice with water in the steaming basking. Steam for 30-40 mins, mixing rice with a sterile spoon halfway through.
+3. While waiting, prepare the yeast balls by grinding into fine powder using a food processor. Seal in a dry, sterilized jar.
+4. Fill the pan with water without allowing any into the steamer basket. Boil water on medium heat.
+5. Once the steamer basket is boiling, set heat to medium-low and place soaked rice with water in the steamer basket. Steam for 30-40 mins, mixing rice with a sterilized spoon halfway through.
 - Try not to break any rice grains when mixing.
-- Rice is done cooking when there is no liquid visible and rice appears evenly soft and translucent.
-6. Remove metal bowl with steamed rice from the steamer basket and allow to cool completely at room temperature, approximately 1 hour.
-7. Wash hands with soap thoroughly.
-8. Using your hands, form flat discs with the glutinous rice. Using a sterile spoon, lightly dust the rice with powdered yeast. Flip the rice disc and dust with more powdered yeast.
-9.  Add the yeast-covered disc to a sterilized jar.
-10. (Optional) For a stronger wine, lightly dust the rice with granulated sugar.
-11. Repeat steps 8-9 with the remaining rice.
-12. Lightly screw on jar lid to allow gases to escape and place in a warm, dark area.
+- Rice is done when no liquid remains and the grains are soft and translucent.
+1. Remove metal bowl with steamed rice from the steamer basket and allow to cool completely at room temperature, approximately 1 hour.
+2. Wash hands with soap thoroughly.
+3. Using your hands, form flat discs with the glutinous rice. Using a sterilized spoon, lightly dust the rice with powdered yeast. Flip the rice disc and dust with more powdered yeast.
+4.  Add the yeast-covered disc to a sterilized jar.
+5.  **Optional**: For a stronger wine, lightly dust the rice with granulated sugar.
+6.  Repeat steps 8-10 with the remaining rice.
+7.  Lightly screw on jar lid to allow gases to escape and place in a warm, dark area.
 
-##### Fermenting
+##### Fermenting 
+**Incubation**: 2 - 3 days
 13.  The distiller's yeast has an optimal operating temperature of 28<sup>o</sup>C. 
 - I created a warm space by putting a cloth over the jar and a bowl of hot water in the oven and replaced the water twice a day. Any warm, dark space will work.
-14.   Let the rice ferment for 48-72 hours depending on ambient temperature and wine flavor preference.
+14.  Let the rice ferment for 48-72 hours depending on ambient temperature and wine flavor preference.
 - A cloudy liquid will pool in the jar and bubbles will rise to the top. This indicates that the rice is actively fermenting.
 - Warmer ambient temperature will ferment the rice wine faster, while cooler temperatures will ferment it slower.
 - Sterilize a spoon and taste the wine. Place the jar in the fridge when the flavor is sweet and no longer like yeast.
@@ -71,7 +73,7 @@ Heavily inspired by [Sonia's](http://nasilemaklover.blogspot.com/2015/11/homemad
   </tr>
   <tr>
     <th>Storage</th>
-    <td>Store rice wine in the fridge for 1-2 weeks or until smell or flavor changes.<br>Store leftover whole or ground yeast balls in an airtight sterile jar for up to 3 years.</td>
+    <td>Store rice wine in the fridge for 1-2 weeks or until smell or flavor changes.<br>Store leftover whole or ground yeast balls in an airtight sterilized jar for up to 3 years.</td>
   </tr>
 </table><br>
 
@@ -92,7 +94,7 @@ Heavily inspired by [Sonia's](http://nasilemaklover.blogspot.com/2015/11/homemad
     Rice wine dessert. Photo from Unsplash.
 </div>
 
-This dessert comes from warm memories of the fragrance of rice wine. Everytime my mom made a big batch, all of it would be eaten by the end of the week. When I moved, I made many attempts to replicate this dessert, but there were many failures before I figured out the best way to maintain a warm environment suited for distiller yeast activity. I remember the dessert from my childhood was strong and oftentimes bitter - my mom's recipe used the dangerous addition of sugar, which gave the yeast an additional food source to turn into alcohol. I prefer my recipe without the added sugar, as the dessert ends up much sweeter this way, although with lower alcohol content - not a bad thing depending who you ask.
+This dessert comes from warm memories of the fragrance of rice wine. Every time my mom made a big batch, all of it would be eaten by the end of the week. When I moved, I made many attempts to replicate this dessert, but there were many failures before I figured out the best way to maintain a warm environment suited for distiller yeast activity. I remember the dessert from my childhood was strong and oftentimes bitter - my mom's recipe used the dangerous addition of sugar, which gave the yeast an additional food source to turn into alcohol. I prefer my recipe without the added sugar, as the dessert ends up much sweeter this way, although with lower alcohol content - not a bad thing depending who you ask.
 
 ##### Variations
 

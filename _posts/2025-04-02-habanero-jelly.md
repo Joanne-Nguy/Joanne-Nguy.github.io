@@ -31,7 +31,7 @@ Heavily inspired by [Katie's](https://www.aforkstale.com/make-homemade-hot-peppe
 |<input type="checkbox">|Bell pepper|1 Cup|Finely chopped and deseeded|
 |<input type="checkbox">|Distilled vinegar|1/2 Cup|None|
 |<input type="checkbox">|Yuzu extract|2 Tbsp|None|
-|<input type="checkbox">|Pectin (Optional: sugar-free)|1 oz|None|
+|<input type="checkbox">|Pectin (**Optional**: sugar-free)|1 oz|None|
 |<input type="checkbox">|Granulated Sugar|2 Cups or follow instructions on the pectin box|None|
 
 
@@ -40,12 +40,14 @@ Heavily inspired by [Katie's](https://www.aforkstale.com/make-homemade-hot-peppe
 #### Procedure
 
 ##### Prepare Habaneros
+**Hands-on**: 5 mins
 1. Don gloves, wash gloves with soap.
 2. Using a knife and cutting board, slice habaneros in half. Remove seeds and stem.
 3. Finely chop habaneros. The smaller the strips, the quicker the habanero will cook.
 4. Set aside in a small bowl. Discard gloves.
   
 ##### Prepare Jelly
+**Hands-on**: 15 mins
 1. In a saucepan on high heat, add habanero and bell peppers.
 2. In a small bowl, mix yuzu extract and pectin together. Mixture will be thick like cornstarch and water.
 3. Add the pectin mixture to the saucepan and stir continuously. Bring to a boil and remove from heat.
@@ -54,6 +56,7 @@ Heavily inspired by [Katie's](https://www.aforkstale.com/make-homemade-hot-peppe
 6. Add to sterilized jar.
 
 ##### Preserve Jelly
+**Hands-on**: 10 mins| **Incubation**: 2+ days
 1. Add jar to a pot and completely submerge with hot water. Boil for 5-10 mins depending on altitude.
 2. Remove from heat.
 3. Test seal by pressing the center of the lid. If lid springs back, repeat boiling process.

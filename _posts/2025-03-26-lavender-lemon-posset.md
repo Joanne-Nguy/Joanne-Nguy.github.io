@@ -26,7 +26,7 @@ Heavily inspired by [Kate's](https://cookieandkate.com/lemon-posset-recipe/) rec
 - 1 Ceramic 4"-ramekins
 - Fitted lid for ramekin 
 - Plastic wrap
-- Recommended: Butane torch & food-safe butane gas cannister
+- Recommended: Butane torch & food-safe butane gas canister
 
 #### Reagents
 
@@ -44,17 +44,20 @@ Heavily inspired by [Kate's](https://cookieandkate.com/lemon-posset-recipe/) rec
 
 #### Procedure
 
-##### Optional: Cream Cold Infusion
+##### **Optional**: Cream Cold Infusion
+**Incubation**: 4-24 h
 1. Add lavender and vanilla to heavy cream carton and allow to infuse in the fridge for 4-24 hours.
 
 ##### Prepare Lemon Juice
+**Hands-on**: 5 mins
 1. Take softened lemons and make 1 1/2 tsp lemon zest using microplane. Set zest aside.
 2. Halve the zested lemons from top to bottom and scoop flesh into a bowl.
 3. Optionally blench lemon and strain. Or, squeeze lemon flesh over a strainer. Collect 1/3 cup of lemon juice. Set aside.
 4. Keep lemon peel halves to use as bowls. 
-- Optional: make a shallow slice on the bottoms with a knife so lemon halves can sit flat against a surface.
+- **Optional**: make a shallow slice on the bottoms with a knife so lemon halves can sit flat against a surface.
 
 ##### Prepare Pudding
+**Hands-on**: 20 mins | **Incubation**: 3 h 20 mins mins
 1. Add sugar and lemon zest into a large bowl. Using your hands, rub the lemon zest and sugar together to extract the citron oils from the peel.
 2. If using cold infused cream, add infused cream, sugar-zest mixture and salt to saucepan. If using fresh cream, add lavender and salt.
 3. Cook over medium heat until simmering. Cook for 15-20 mins or until thickened.
@@ -65,6 +68,7 @@ Heavily inspired by [Kate's](https://cookieandkate.com/lemon-posset-recipe/) rec
 8.   Refrigerate covered for at least 3 hours.
 
 ##### Serve Lemon Posset
+**Hands-on**: 5 mins
 13. Add a thin layer of sugar to the top of each lemon half or ramekin.
 14. Using a butane torch, melt the sugar in small areas, moving the torch slowly and allowing the sugar to bubble and crystallize before moving to the next area.
 15. Garnish with lavender sprigs and serve within 30 mins before sugar layer becomes soft.
@@ -97,7 +101,7 @@ Heavily inspired by [Kate's](https://cookieandkate.com/lemon-posset-recipe/) rec
     Lemon posset topped with lemon peels and raspberries. Photo from <a href="https://commons.wikimedia.org/wiki/File:Vegan_Lemon_Curd_(48839115308).jpg">Wikimedia</a>.
 </div>
 
-A simple recipe that tastes of spring - the perfect refreshing dessert with notes of lemon, lavender and carmelized sugar. Pouring the pudding into lemon cups adds to the playful, sunny aesthetic and garnishing with a lavender sprig allows tasters to be able to connect the floral notes to the herb it comes from. Cracking the sugar layer is reminiscent of plants sprouting from soil warmed by the spring sun.
+A simple recipe that tastes of spring - the perfect refreshing dessert with notes of lemon, lavender and caramelized sugar. Pouring the pudding into lemon cups adds to the playful, sunny aesthetic and garnishing with a lavender sprig allows tasters to be able to connect the floral notes to the herb it comes from. Cracking the sugar layer is reminiscent of plants sprouting from soil warmed by the spring sun.
 
 ##### Variations
 

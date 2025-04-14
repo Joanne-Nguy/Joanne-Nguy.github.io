@@ -37,23 +37,24 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 |<input type="checkbox">|Unsalted Butter|1 cup (16 Tbsp; 226g)|Room temperature|
 |<input type="checkbox">|Packed light or dark brown sugar|1 cup (200g)|None|
 |<input type="checkbox">|Granulated sugar|1/2 cup (100g)|None|
-|<input type="checkbox">|Optional: (Malted) milk powder|2 Tbsp|None|
+|<input type="checkbox">|**Optional**: (Malted) milk powder|2 Tbsp|None|
 |<input type="checkbox">|Large eggs|2|Room temperature|
 |<input type="checkbox">|Pure vanilla extract|2 Tsp|None|
 |<input type="checkbox">|All-purpose flour|2 and 1/2 cups (313g)|Spooned & leveled|
 |<input type="checkbox">|Baking soda|1 Tsp|None|
-|<input type="checkbox">|Salt (non-iodized)|1/2 Tsp|None|
+|<input type="checkbox">|Kosher salt|1/2 Tsp|None|
 |<input type="checkbox">|Extra-dark chocolate chips|1/2 cup (50g)|None|
-|<input type="checkbox">|Optional: Heath Bar Bits O’ Brickle English Toffee|1/2 cup (75g)|None|
-|<input type="checkbox">|Optional: Flaky sea salt|1/2 Tsp|None|
+|<input type="checkbox">|**Optional**: Heath Bar Bits O’ Brickle English Toffee|1/2 cup (75g)|None|
+|<input type="checkbox">|**Optional**: Flaky sea salt|1/2 Tsp|None|
 
 <br>
 
 #### Procedure
 
 ##### Prepare Wet Ingredients
+**Hands on**: 15 mins | **Incubation**: 15-20 mins
 1. In a heat-proof bowl, add brown sugar and granulated sugar.
-2. (Optional) Place the heat-proof bowl in an ice bath.
+2. **Optional**: Place the heat-proof bowl in an ice bath.
 3. Brown the butter:
    1. Heat a light-colored pan to medium heat on the stove.
    2. Cut softened butter into small, equally-sized slices.
@@ -66,9 +67,11 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 5. Chill the bowl in ice bath or fridge for 15-20mins until solid but still soft to touch.
 
 ##### Prepare Dry Ingredients
+**Hands on**: 2 mins
 6. While waiting, sift flour, baking soda and salt into a mixing bowl. Set aside.
 
 ##### Combine Ingredients
+**Hands on**: 5 mins
 7. Whisk brown butter and sugar on medium until combined ~1 min.
 8. Add vanilla and eggs.
 9. Whisk wet ingredients on high until fluffy ~2 mins.
@@ -76,14 +79,17 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
 11. Add chocolate chips and toffee bits, if using. Mix with spatula until combined, ensuring bottom is well-mixed.
 
 ##### Chill Dough
+**Hands-on**: 10 mins | **Incubation**: 4-48 h
 12. Cover mixing bowl and place in the fridge for 1-2 hours.
 13. Scoop cookies and place into a freezer bag. Let the dough rest for 24-48 hours.
 
 ##### Bake
-14. Pre-heat the oven and bake at 350<sup>o</sup> for 12-14 mins until bottom edges are golden brown.
+**Incubation**: 22-29 mins
+14. Pre-heat the oven and bake at 350<sup>o</sup>F for 12-14 mins until bottom edges are golden brown.
 - Space cookies with 2" between each to allow room for spreading.
 - Time will depend on factors such as cookie scoop size and texture preference. Try 13 mins first, then adjust from there.
 15. Allow cookies to cool on the baking sheet for 10-15 mins before moving to wire rack. Add flaky sea salt.
+16. Serve warm!
 
 <table>
   <tr>
@@ -92,7 +98,7 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/brown-butter-tof
   </tr>
   <tr>
     <th>Storage</th>
-    <td>Cookies stay fresh for 3 days on the counter or 1 week in the fridge. Microwave for ~7s before enjoying.<br>Extra dough can be stored in the freezer for up to 6 months. When baking from frozen, pre-heat the oven to 350<sup>o</sup> and add a minute to the bake time.</td>
+    <td>Cookies stay fresh for 3 days on the counter or 1 week in the fridge. Microwave for ~7s before enjoying.<br>Extra dough can be stored in the freezer for up to 6 months. When baking from frozen, pre-heat the oven to 350<sup>o</sup>F and add a minute to the bake time.</td>
   </tr>
 </table><br>
 

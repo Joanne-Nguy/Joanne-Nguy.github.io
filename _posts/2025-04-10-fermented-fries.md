@@ -17,7 +17,7 @@ A recipe for fries with a fermented tang, reminiscent of vinegar and salt fries.
 
 - Large bowl
 - Fermentation container for fries (preferably glass)
-- Recommended: Kitchen scale
+- **Recommended**: Kitchen scale
 - Kitchen Towel
 - Air fryer
 
@@ -29,11 +29,11 @@ A recipe for fries with a fermented tang, reminiscent of vinegar and salt fries.
 |<input type="checkbox">|White vinegar or sauerkraut pickling juice|2 Tbsp|None|
 |<input type="checkbox">|Water, preferably filtered|500 mL|None|
 |<input type="checkbox">|Salt|15 g|None|
-|<input type="checkbox">|Optional: Garlic powder|1 Tbsp|None|
-|<input type="checkbox">|Optional: Chili powder|1/2 Tbsp|None|
-|<input type="checkbox">|Optional: Black pepper|1/2 Tbsp|None|
-|<input type="checkbox">|Optional: Sage|4 leaves|Washed|
-|<input type="checkbox">|Optional: Cabbage|1 leaf|Washed|
+|<input type="checkbox">|**Optional**: Garlic powder|1 Tbsp|None|
+|<input type="checkbox">|**Optional**: Chili powder|1/2 Tbsp|None|
+|<input type="checkbox">|**Optional**: Black pepper|1/2 Tbsp|None|
+|<input type="checkbox">|**Optional**: Sage|4 leaves|Washed|
+|<input type="checkbox">|**Optional**: Cabbage|1 leaf|Washed|
 |<input type="checkbox">|Cooking oil spray|2 Tbsp|None|
 
 <br>
@@ -41,6 +41,7 @@ A recipe for fries with a fermented tang, reminiscent of vinegar and salt fries.
 #### Procedure
 
 ##### Prepare Potato Sticks
+**Hands-on**: 5 mins
 1. Cut potato into even matchsticks about 1/2 x 1/2" and place into a large bowl.
 - Cut potatoes as evenly as possible to ensure even cooking.
 - Potatoes may be cut thicker or thinner, cooking time will need to be adjusted accordingly.
@@ -48,11 +49,13 @@ A recipe for fries with a fermented tang, reminiscent of vinegar and salt fries.
 3. Pour out the starchy water and soak sticks in fresh water. Set aside.
 
 ##### Prepare Fermenting Brine
+**Hands-on**: 5 mins
 1. In a clean container, measure and pour 500 mL or 500 g of water.
 2. Add 2 Tbsp of white vinegar or sauerkraut pickling juice.
 3. Add 15 g of salt to make 3% brine. Add additional spices like garlic powder, chili powder, black pepper and sage to taste.
 
 ##### Ferment Potato Fries
+**Incubation**: 3-7 days
 1. Add soaked potato sticks and fermenting brine to the fermenting container. Ensure sticks are completely submerged.
 2. Optional: Add a cabbage leaf to the fermenting container to prevent sticks from floating.
 3. Put the lid on loosely to allow gases to escape. Leave fermenting container in a cool, dark place for 3-7 days.
@@ -61,12 +64,13 @@ A recipe for fries with a fermented tang, reminiscent of vinegar and salt fries.
 - Potato sticks may be left to ferment longer, which will develop a stronger funkiness.
 
 ##### Frying Fermented Fries
+**Incubation**: 20-30 mins + Optional 20 mins
 1. Preheat the air fryer to 375<sup>o</sup>F.
-2. Drain the brining liquid and dry the potsto sticks with a towel.
+2. Drain the brining liquid and dry the potato sticks with a towel.
 - Brine may be stored in the fridge for up to 1 month to be used as fermentation starter for future batches.
 3. Add the sticks to the pre-heated air fryer and spray with cooking oil.
 4. Cook for 20-30 mins or until golden brown. Shake the basket and spray with more oil every 10 mins.
-5. Optional: After cooking, let the fries cool either in the fridge or freezer for 15 mins. Bake again at 400<sup>o</sup>F for 5 mins.
+5. **Optional**: After cooking, let the fries cool either in the fridge or freezer for 15 mins. Bake again at 400<sup>o</sup>F for 5 mins.
 - This step allows the fries to crisp up even more.
 
 ##### Serve Fermented Fries

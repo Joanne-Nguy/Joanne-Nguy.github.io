@@ -25,13 +25,13 @@ A recipe for spreadable liquid gold - garlic confit. The confit process, or low-
 |:---|:---|:---|:---|
 |<input type="checkbox">|Garlic|50 cloves, about 4 heads, or enough to cover the bottom of the pan|Peeled|
 |<input type="checkbox">|Olive oil|1-2 Cups, or enough to cover the garlic cloves|None|
-|<input type="checkbox">|Optional: Fresh Rosemary|3-5 Sprigs|Washed and dried|
-|<input type="checkbox">|Optional: Fresh Thyme|3-5 Sprigs|Washed and dried|
-|<input type="checkbox">|Optional: Black peppercorn|3-5 Peppercorns|None|
-|<input type="checkbox">|Optional: Chili flakes|1 Tbsp|None|
+|<input type="checkbox">|**Optional**: Fresh Rosemary|3-5 Sprigs|Washed and dried|
+|<input type="checkbox">|**Optional**: Fresh Thyme|3-5 Sprigs|Washed and dried|
+|<input type="checkbox">|**Optional**: Black peppercorn|3-5 Peppercorns|None|
+|<input type="checkbox">|**Optional**: Chili flakes|1 Tbsp|None|
 |<input type="checkbox">|An acid (lemon juice, orange juice or vinegar)|1/2 cup|None|
 |<input type="checkbox">|Salt|1/2 Tbsp|None|
-|<input type="checkbox">|Optional: Fresh Cilantro|1 Cup|Washed and dried|
+|<input type="checkbox">|**Optional**: Fresh Cilantro|1 Cup|Washed and dried|
 
 
 <br>
@@ -39,6 +39,7 @@ A recipe for spreadable liquid gold - garlic confit. The confit process, or low-
 #### Procedure
 
 ##### Confit the Garlic
+**Hands-on**: 10 mins| **Incubation**: 1-1.5 h
 1. Preheat oven to 300<sup>o</sup>F.
 2. Add garlic cloves to the pan in a single layer. 
 3. Add toppings if using.
@@ -47,6 +48,7 @@ A recipe for spreadable liquid gold - garlic confit. The confit process, or low-
 6. Serve the fresh garlic confit and oil spread over toast or proteins.
 
 ##### Make the Garlic Sauce
+**Hands-on**: 5 mins
 1. Add the garlic, your acid, salt and any toppings to a blender. Mixture will be thick.
 2. Stream in the reserved olive oil until desired consistency.
 - Excess oil may be stored in an air-tight container in the fridge for up to 1 month
