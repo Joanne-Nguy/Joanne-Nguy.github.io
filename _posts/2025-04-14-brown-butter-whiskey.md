@@ -28,6 +28,7 @@ A recipe for a whiskey fat-washed with brown butter for sipping on the rocks.
 |:---|:---|:---|:---|
 |<input type="checkbox">|Butter|1 Cup|Room temperature|
 |<input type="checkbox">|Whiskey|500 mL|None|
+
 <br>
 
 #### Procedure

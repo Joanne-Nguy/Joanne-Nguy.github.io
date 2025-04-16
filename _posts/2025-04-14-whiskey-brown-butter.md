@@ -27,6 +27,7 @@ A recipe for a brown butter infusion with whiskey to be used for baking or cooki
 |:---|:---|:---|:---|
 |<input type="checkbox">|Butter|1 Cup|Room temperature|
 |<input type="checkbox">|Whiskey|500 mL|None|
+
 <br>
 
 #### Procedure
