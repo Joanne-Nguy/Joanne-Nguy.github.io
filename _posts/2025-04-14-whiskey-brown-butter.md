@@ -83,7 +83,7 @@ A recipe for a brown butter infusion with whiskey to be used for baking or cooki
     </div>
 </div>
 <div class="caption">
-    Brown butter. Photo from [Flikr](https://www.flickr.com/photos/shutterbean/4983404604).
+    Brown butter. Photo from <a href="https://www.flickr.com/photos/shutterbean/4983404604">Flikr</a>.
 </div>
 
 Brown butter, the precious liquid gold, can be further elevated by infusing different flavors ito it. In this case, we are using whiskey (which was frankly too peaty for my taste) which will impart smokey and woody notes based on how it was stored. Alcohol has parts of it that are liquid soluble, and others that are fat soluble. This allows some flavors from the butter to dissolve in the whiskey, while others are captured by freezing the butter. A by-product of this process is a fat-washed whiskey which can be more flavorful and have an interesting mouthfeel.
