@@ -5,6 +5,7 @@ date: 2025-04-07
 description: a simple tofu-based Vietnamese dessert 
 tags: sweet
 categories: recipes
+thumbnail: "https://media.freemalaysiatoday.com/wp-content/uploads/2019/11/tau-fu-fa-lifestyle-161119-1.jpg"
 toc: 
   sidebar: left
 ---

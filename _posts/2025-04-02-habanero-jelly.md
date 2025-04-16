@@ -5,6 +5,7 @@ date: 2025-04-02
 description: a sweet and spicy jelly preserve
 tags: cooking, sweet
 categories: recipes
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/5/54/Red_Pepper_Jelly_%281962318754%29_%28cropped%29.jpg"
 toc: 
   sidebar: left
 ---

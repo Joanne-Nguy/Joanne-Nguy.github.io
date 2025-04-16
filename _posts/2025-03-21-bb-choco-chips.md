@@ -2,9 +2,10 @@
 layout: post
 title: brown butter chocolate chip cookies
 date: 2025-03-21
-description: a take on classic brown butter chocolate chip cookies
+description: a delicious take on brown butter chocolate chip cookies
 tags: cookies, baking, sweet
 categories: recipes
+thumbnail: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 toc: 
   sidebar: left
 ---

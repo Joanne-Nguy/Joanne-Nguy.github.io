@@ -5,6 +5,7 @@ date: 2025-03-31
 description: a gingery, milky custard dessert with crackly sugar crust
 tags: baking, sweet
 categories: recipes
+thumbnail: "https://images.unsplash.com/photo-1615234435691-3b7bae98085e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 toc: 
   sidebar: left
 ---

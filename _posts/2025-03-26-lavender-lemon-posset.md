@@ -5,6 +5,7 @@ date: 2025-03-26
 description: a floral lemon dessert perfect for spring
 tags: sweet
 categories: recipes
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Vegan_Lemon_Curd_%2848839115308%29.jpg"
 toc: 
   sidebar: left
 ---

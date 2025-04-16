@@ -5,6 +5,7 @@ date: 2025-04-14
 description: a butter infusion with a smoky flavor
 tags: baking
 categories: recipes
+thumbnail: "https://live.staticflickr.com/4149/4983404604_0b50c69674_h.jpg"
 toc: 
   sidebar: left
 ---

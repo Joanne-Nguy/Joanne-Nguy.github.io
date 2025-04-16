@@ -5,6 +5,7 @@ date: 2025-04-16
 description: a dense, moist cake with cinnamon, fruit and cheese toppings
 tags: baking, sweet
 categories: recipes
+thumbnail: "https://images.unsplash.com/photo-1559735614-e35ef860a156?q=80&w=1298&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 toc: 
   sidebar: left
 ---

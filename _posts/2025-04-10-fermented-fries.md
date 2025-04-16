@@ -5,6 +5,7 @@ date: 2025-04-10
 description: a tangy spin on the classic french fries
 tags: ferments, savory, cooking
 categories: recipes
+thumbnail: "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 toc: 
   sidebar: left
 ---

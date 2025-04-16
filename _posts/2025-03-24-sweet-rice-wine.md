@@ -5,6 +5,7 @@ date: 2025-03-24
 description: a sweet glutinous rice dessert with low alcohol content
 tags: ferments, sweet
 categories: recipes
+thumbnail: "https://images.unsplash.com/photo-1630056656591-0cba044ba94f?q=80&w=2576&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 toc: 
   sidebar: left
 ---
