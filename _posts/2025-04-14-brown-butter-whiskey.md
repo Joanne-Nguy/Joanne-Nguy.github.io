@@ -96,4 +96,4 @@ On the side, I had another experiment, where I took half the browned butter and 
 
 Though this is only one variation of fat-washed alcohol, there are so many options to explore! Many different alcohols can be used, such as tequila, bourbon and vodka. Other fats such as animal fat or cooking oils can be substituted, though none will compare to the water content of butter. Infusion will be the same, though separation may need some adjusting for the time needed to solidify the fat.
 
-Uses of these infusions can range wildly and will enhance your dishes or drinks!
+Uses of these infusions can range wildly and will enhance your dishes or drinks! Check out my recipe for [Whiskey Brown Butter](https://joanne-nguy.github.io/blog/2025/whiskey-brown-butter/)!

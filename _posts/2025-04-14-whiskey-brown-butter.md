@@ -90,7 +90,7 @@ Brown butter, the precious liquid gold, can be further elevated by infusing diff
 
 ##### Applications
 
-The resulting whikey-infused brown butter will contain more liquid than if we browned butter by itself. As such, recipes that are sensitive to changes in the ratio of wet to dry ingredients will need to account for this difference. For example, I made my classic [brown butter chocolate chip cookies](https://joanne-nguy.github.io/blog/2025/bb-choco-chips/) using whiskey butter and found that baking at 12 mins, which usually yields a soft, chewy cookie ended up being undercooked due to the additional liquid content from the whiskey. An adjustment to baking for 14 mins yielded the perfect texture. Other uses in baking includes buttercream frosting, cupcakes and pancakes.
+The resulting whiskey-infused brown butter will contain more liquid than if we browned butter by itself. As such, recipes that are sensitive to changes in the ratio of wet to dry ingredients will need to account for this difference. For example, I made my classic [brown butter chocolate chip cookies](https://joanne-nguy.github.io/blog/2025/bb-choco-chips/) using whiskey butter and found that baking at 12 mins, which usually yields a soft, chewy cookie ended up being undercooked due to the additional liquid content from the whiskey. An adjustment to baking for 14 mins yielded the perfect texture. Other uses in baking includes buttercream frosting, cupcakes and pancakes.
 
 Cooking with this butter will be a bit delicate since the toasted milk solids will continue to cook, then burn. The alcohol content will evaporate with high heat, though [not completely](https://www.isu.edu/news/2019-fall/no-worries-the-alcohol-burns-off-during-cookingbut-does-it-really.html), as a function of the temperature and length of cooking. I'd recommend adding the whiskey-infused brown butter at the end of cooking to impart the nutty, smoky flavors rather than frying with it.
 
@@ -98,4 +98,4 @@ Cooking with this butter will be a bit delicate since the toasted milk solids wi
 
 Though this is only one variation of alcohol-infused fat, there are so many options to explore! Many different alcohols can be used, such as tequila, bourbon and vodka. Other fats such as animal fat or cooking oils can be substituted, though none will compare to the water content of butter. Infusion will be the same, though separation may need some adjusting for the time needed to solidify the fat.
 
-Uses of these infusions can range wildly and will enhance your dishes!
+Uses of these infusions can range wildly and will enhance your dishes! Check out my recipe for [Brown Butter Whiskey](https://joanne-nguy.github.io/blog/2025/brown-butter-whiskey/)!
