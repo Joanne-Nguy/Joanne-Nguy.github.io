@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-fermented-fries",
+        },{id: "post-whiskey-brown-butter",
+      
+        title: "whiskey brown butter",
+      
+      description: "a butter infusion with a smoky flavor",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/whiskey-brown-butter/";
+        
+      },
+    },{id: "post-brown-butter-whiskey",
+      
+        title: "brown butter whiskey",
+      
+      description: "a smooth fat-washed whiskey with nutty notes",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/brown-butter-whiskey/";
+        
+      },
+    },{id: "post-fermented-fries",
       
         title: "fermented fries",
       
