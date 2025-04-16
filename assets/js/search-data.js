@@ -78,7 +78,7 @@ ninja.data = [{
       
         title: "homemade paneer",
       
-      description: "a savory indian cheese made with 3 simple ingredients",
+      description: "a savory Indian cheese made with 3 simple ingredients",
       section: "Posts",
       handler: () => {
         
@@ -133,7 +133,7 @@ ninja.data = [{
       
         title: "brown butter chocolate chip cookies",
       
-      description: "a take on classic brown butter chocolate chip cookies",
+      description: "a delicious take on brown butter chocolate chip cookies",
       section: "Posts",
       handler: () => {
         
