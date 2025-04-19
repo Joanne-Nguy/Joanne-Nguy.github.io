@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-whiskey-brown-butter",
+        },{id: "post-strawberry-cinnamon-coffee-cake",
+      
+        title: "strawberry cinnamon coffee cake",
+      
+      description: "a dense, moist cake with cinnamon, fruit and cheese toppings",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/strawberry-coffee-cake/";
+        
+      },
+    },{id: "post-whiskey-brown-butter",
       
         title: "whiskey brown butter",
       
