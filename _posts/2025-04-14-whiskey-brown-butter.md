@@ -62,7 +62,7 @@ A recipe for a brown butter infusion with whiskey to be used for baking or cooki
 <table>
   <tr>
     <th>Yield</th>
-    <td>1 serving.</td>
+    <td>A little over 1 cup of butter.</td>
   </tr>
   <tr>
     <th>Storage</th>
