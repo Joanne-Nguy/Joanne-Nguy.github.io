@@ -39,11 +39,15 @@ Cinnamon crumb
 |<input type="checkbox">|All purpose flour|1/2 cup or 63 g|Spooned and leveled|
 |<input type="checkbox">|Butter|3 Tbsp or 43 g|Cold, cut into small cubes|
 
+<br>
+
 Cheese topping
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
 |<input type="checkbox">|Mascarpone cheese (may substitute with cream cheese)|8 oz or 226 g|Softened at room temperature|
 |<input type="checkbox">|Kosher salt|1/4 Tsp|None|
+
+<br>
 
 Cake
 ||Ingredient|Amount|Preparation|
@@ -58,7 +62,6 @@ Cake
 |<input type="checkbox">|Vanilla Extract|2 Tsp|None|
 |<input type="checkbox">|Greek yogurt (non-fat or full-fat)|1/2 cup or 120 g|Room temperature|
 |<input type="checkbox">|Strawberries (may substitute with other berries)|1 Cup|Fresh or frozen|
-
 
 <br>
 
