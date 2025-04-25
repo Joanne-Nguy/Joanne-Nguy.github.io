@@ -5,7 +5,7 @@ date:
 description: a 
 tags: cooking, savory, baking, sweet, ferments
 categories: recipes
-thumbnail: 
+thumbnail: ""
 toc: 
   sidebar: left
 ---

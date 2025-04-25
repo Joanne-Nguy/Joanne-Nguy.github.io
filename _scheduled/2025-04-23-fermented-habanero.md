@@ -1,7 +1,7 @@
 ---
 layout: post
 title: fermented habanero sauce
-date: 04/23/25
+date: 04-23-25
 description: a spicy, tangy hot sauce
 tags: ferments
 categories: recipes
