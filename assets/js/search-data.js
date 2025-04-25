@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-strawberry-cinnamon-coffee-cake",
+        },{id: "post-fermented-habanero-sauce",
+      
+        title: "fermented habanero sauce",
+      
+      description: "a spicy, tangy hot sauce",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/fermented-habanero/";
+        
+      },
+    },{id: "post-garlic-confit-sauce-mojo-de-ajo",
+      
+        title: "garlic confit sauce (mojo de ajo)",
+      
+      description: "a Brazliain-inspired take on garlic confit",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/garlic-confit/";
+        
+      },
+    },{id: "post-strawberry-cinnamon-coffee-cake",
       
         title: "strawberry cinnamon coffee cake",
       
