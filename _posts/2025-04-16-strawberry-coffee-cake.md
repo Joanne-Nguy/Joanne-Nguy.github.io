@@ -31,7 +31,8 @@ Heavily inspired by [Sally's](https://sallysbakingaddiction.com/blackberry-cream
 
 #### Reagents
 
-Cinnamon crumb
+
+##### Cinnamon crumb
 
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
@@ -40,16 +41,16 @@ Cinnamon crumb
 |<input type="checkbox">|All purpose flour|1/2 cup or 63 g|Spooned and leveled|
 |<input type="checkbox">|Butter|3 Tbsp or 43 g|Cold, cut into small cubes|
 
-
-Cheese topping
+<br>
+##### Cheese topping
 
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
 |<input type="checkbox">|Mascarpone cheese (may substitute with cream cheese)|8 oz or 226 g|Softened at room temperature|
 |<input type="checkbox">|Kosher salt|1/4 Tsp|None|
 
-
-Cake
+<br>
+##### Cake batter
 
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
