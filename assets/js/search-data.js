@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-fermented-habanero-sauce",
+        },{id: "post-summer-rolls-with-pork",
+      
+        title: "summer rolls with pork",
+      
+      description: "a simple rice paper roll served with creamy peanut sauce",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/summer-rolls/";
+        
+      },
+    },{id: "post-do-chua-vietnamese-pickled-carrots-amp-daikon",
+      
+        title: "do chua (vietnamese pickled carrots &amp; daikon)",
+      
+      description: "a",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/do-chua/";
+        
+      },
+    },{id: "post-fermented-habanero-sauce",
       
         title: "fermented habanero sauce",
       
