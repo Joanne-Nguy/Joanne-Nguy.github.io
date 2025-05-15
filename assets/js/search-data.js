@@ -45,7 +45,7 @@ ninja.data = [{
       
         title: "do chua (vietnamese pickled carrots &amp; daikon)",
       
-      description: "a",
+      description: "a classic tangy viet pickle",
       section: "Posts",
       handler: () => {
         
@@ -67,7 +67,7 @@ ninja.data = [{
       
         title: "garlic confit sauce (mojo de ajo)",
       
-      description: "a Brazliain-inspired take on garlic confit",
+      description: "a Brazilian-inspired take on garlic confit",
       section: "Posts",
       handler: () => {
         
