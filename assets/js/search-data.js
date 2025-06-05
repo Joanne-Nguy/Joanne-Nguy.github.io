@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-summer-rolls-with-pork",
+        },{id: "post-habanero-hot-honey",
+      
+        title: "habanero hot honey",
+      
+      description: "a fermented hot honey with a spicy habanero kick",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/hot-honey/";
+        
+      },
+    },{id: "post-indian-lemonade-cookie",
+      
+        title: "indian lemonade cookie",
+      
+      description: "a savory, spiced Indian-inspired lemon cookie recipe",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Indian-lemonade-cookies/";
+        
+      },
+    },{id: "post-summer-rolls-with-pork",
       
         title: "summer rolls with pork",
       
