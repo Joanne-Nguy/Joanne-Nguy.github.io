@@ -38,7 +38,7 @@ A recipe for deliciously simple rice paper rolls with versatile topping choices 
 |<input type="checkbox">|Pork neck or loin|2 lbs|Thinly sliced, fresh or frozen|
 
 <br>
-##### Fresh toppings
+##### Dipping Sauce
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
 |<input type="checkbox">|Crunchy peanut butter|1/2 cup|May be substituted with regular peanut butter and coarsely chopped peanuts|
