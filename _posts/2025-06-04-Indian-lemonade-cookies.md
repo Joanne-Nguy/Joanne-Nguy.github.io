@@ -5,7 +5,7 @@ date: 2025-06-04
 description: a savory, spiced Indian-inspired lemon cookie recipe
 tags: cookies, baking, sweet
 categories: recipes
-thumbnail: "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+thumbnail: "https://images.unsplash.com/photo-1641557309674-771c5ec8dee5?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 toc: 
   sidebar: left
 ---

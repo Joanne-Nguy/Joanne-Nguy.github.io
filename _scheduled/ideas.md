@@ -1,13 +1,14 @@
 TODO:
 - lavender bitters
-- fermented habanero hot honey
 - lemon crinkle cookies
 - matcha butter cookies
 - overnight oats
+- ginger bug + flavors
 
 
 DONE:
 - cinnamon strawberry swirl cake
+- fermented habanero hot honey
 - garlic confit (mojo de ajo)
 - yuzu habanero jelly
 - do chua
