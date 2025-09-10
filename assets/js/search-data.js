@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-habanero-hot-honey",
+        },{id: "post-sun-dried-tomato-sourdough-focaccia",
+      
+        title: "sun-dried tomato sourdough focaccia",
+      
+      description: "a savory pizza-inspired sourdough focaccia bread",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/sundried-focaccia/";
+        
+      },
+    },{id: "post-habanero-hot-honey",
       
         title: "habanero hot honey",
       
