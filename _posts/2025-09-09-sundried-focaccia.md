@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sun-dried tomato sourdough focaccia
-date: 2025-09-
+date: 2025-09-09
 description: a savory pizza-inspired sourdough focaccia bread
 tags: savory, baking, ferments
 categories: recipes
@@ -90,7 +90,7 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 - The duration of bulk fermentation depends on the ambient temperature.
 - The dough is ready after bulk fermentation if the dough rises ~50% or when a thumbprint is poked into the dough and it springs back slowly.
 5. Pre-heat the oven to 425<sup>o</sup>F
-6. Evenly add sundried tomatoes with the olive oil marinade, oregano, chili flakes, garlic powder and flaky sea salt. 
+6. Evenly add sun-dried tomatoes with the olive oil marinade, oregano, chili flakes, garlic powder and flaky sea salt. 
 7. Using all ten fingers, dimple the dough all the way down to the pan. 
 - This will help air bubbles migrate to the top of the bread without popping them.
 8. Bake at 425<sup>o</sup>F for 30-35 mins or until the crust is browned.
@@ -125,15 +125,15 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
     </div>
 </div>
 <div class="caption">
-    Sundried tomato focaccia bread. Photo from Unsplash.
+    Sun-dried tomato focaccia bread. Photo from Unsplash.
 </div>
 
-After recently coming into the posession of a sourdough starter, I've been making the basic rosemary focaccia recipe and wanted to change it up with a pizza-inpired focaccia with acidic sundried tomatoes as the star ingredient, with support from dried oregano, garlic powder and chili flakes. I was instantly transported to my favorite corner pizza shop. With a flour hydration of 78%, this recipe produces a focaccia that has a lovely airy and open crumb that seems to melt in your mouth following the satisfying crunch of an olive oil-toasted crust.
+After recently coming into the possession of a sourdough starter, I've been making the basic rosemary focaccia recipe and wanted to change it up with a pizza-inspired focaccia with acidic sun-dried tomatoes as the star ingredient, with support from dried oregano, garlic powder and chili flakes. I was instantly transported to my favorite corner pizza shop. With a flour hydration of 78%, this recipe produces a focaccia that has a lovely airy and open crumb that seems to melt in your mouth following the satisfying crunch of an olive oil-toasted crust.
 
-Focaccia is a forgiving recipe that will continue to give you consistent results even with inconsistent preparations. Since starting this journey, I have been experimenting with getting to know how my starter behaves in my specific kitchen conditions. Not everyone will have the same ambient environment and that can wildly affect how a recipe will behave in your kitchen. This focaccia was made in a kitchen that is around 72-75<sup>o</sup>F with humidity consistently 60%+. Since my kitchen is on the cooler side, I have been placing my starter and dough in the warm cabinet under my sink for the autolysis step and on trivets rather than the cold counters for the bulk fermentation. Even humidity in the air will affect how the dough will hydrate--although I have been using the standard hydration percentage just fine.
+Focaccia is a forgiving recipe that will continue to give you consistent results even with inconsistent preparations. Since starting this journey, I have been experimenting with getting to know how my starter behaves in my specific kitchen conditions. Not everyone will have the same ambient environment and that can wildly affect how a recipe will behave in your kitchen. This focaccia was made in a kitchen that is around 72-75<sup>o</sup>F with humidity consistently 60%+. Since my kitchen is on the cooler side, I have been placing my starter and dough in the warm cabinet under my sink for the autolysis step and on trivets rather than the cold counters for the bulk fermentation. Even humidity in the air will affect how the dough will hydrate--although I have been using the standard hydration percentage just fine, I will cold ferment the dough covered only by a cheesecloth, which allows moisture to be wicked from the top of the dough.
 
 ##### Topping Substitutions
 
-For this recipe, I wanted to recreate how eating a pizza feels but without the mess of the sauce--plus I had sundried tomatoes sitting in my pantry for who knows how long, that were itching to be used. I've procured some fresh mozzerella and will be using that in my next batch of focaccia for a creamier, stretchy cheesiness that this recipe was frankly missing. The toppings as is are sufficient, but the addition of mozzarella should elevate it from pizza-inspired to to pizza-competitor.
+For this recipe, I wanted to recreate how eating a pizza feels but without the mess of the sauce--plus I had sun-dried tomatoes sitting in my pantry for who knows how long, that were itching to be used. I've procured some fresh mozzarella and will be using that in my next batch of focaccia for a creamier, stretchy cheesiness that this recipe was frankly missing. The toppings as is are sufficient, but the addition of mozzarella should elevate it from pizza-inspired to to pizza-competitor.
 
 The toppings chosen for a focaccia recipe can vary greatly, starting from anything readily-available in your herb garden or pantry, to more gourmet grocery store offerings. Since focaccia is a light tasting bread with tanginess from the sourdough and earthy, fruitiness of the olive oil, toppings that offer a bit of saltiness or umami wil greatly pair with it.

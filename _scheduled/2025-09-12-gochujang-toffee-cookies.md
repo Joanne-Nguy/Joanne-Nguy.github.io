@@ -1,7 +1,7 @@
 ---
 layout: post
 title: gochujang toffee cookies
-date: 2025-09-10
+date: 2025-09-12
 description: revisiting the classic NYT gochujang cookie recipe with a toffee spin
 tags: cookies, baking, sweet
 categories: recipes
@@ -13,6 +13,8 @@ toc:
 #### Abstract
 
 An experimental take on New York Time's popular [gochujang caramel cookies](https://cooking.nytimes.com/recipes/1023675-gochujang-caramel-cookies) using crunchy toffee bits and sourdough discard for a thicker cookie.
+
+This recipe is a work in progress where I'll document my findings here.
 
 #### Materials
 
@@ -34,15 +36,15 @@ An experimental take on New York Time's popular [gochujang caramel cookies](http
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
 |<input type="checkbox">|Unsalted Butter|1 cup (16 Tbsp; 226g)|Room temperature|
-|<input type="checkbox">|Packed light or dark brown sugar|1 cup (250g)|None|
+|<input type="checkbox">|Packed light or dark brown sugar|1 and 1/4 cup (275g)|None|
 |<input type="checkbox">|**Recommended**: (Malted) milk powder|3 Tbsp|None|
 |<input type="checkbox">|Large eggs|2|Room temperature|
 |<input type="checkbox">|Pure vanilla extract|2 Tsp|None|
-|<input type="checkbox">|All-purpose flour|2 and 1/8 cups (263g)|Spooned & leveled|
+|<input type="checkbox">|All-purpose flour|2 and 1/3 cups (288g)|Spooned & leveled|
 |<input type="checkbox">|Baking soda|1 Tsp|None|
 |<input type="checkbox">|Kosher salt|1 Tsp|None|
-|<input type="checkbox">|Sourdough discard|1/3-1/2 cups (100g)|Room temperature; recently discarded/fed sourdough preferred|
-|<input type="checkbox">|**Recommended**: Heath Bar Bits O’ Brickle English Toffee|1/2 cup (75g)|None|
+|<input type="checkbox">|Sourdough discard|1/4 cups (50g)|Room temperature; recently discarded/fed sourdough preferred|
+|<input type="checkbox">|**Recommended**: Heath Bar Bits O’ Brickle English Toffee|3/4 cup (100g)|None|
 |<input type="checkbox">|Gochujang|3 Tbsp (90g)|None|
 
 <br>
@@ -89,6 +91,7 @@ An experimental take on New York Time's popular [gochujang caramel cookies](http
 **Incubation**: 22-29 mins
 16. Pre-heat the oven and bake at 350<sup>o</sup>F for 12-14 mins until bottom edges are golden brown.
 - Space cookies with 2" between each to allow room for spreading.
+- Pre-flatten the cookies for a dense cookie or bake cookie balls for a taller, fluffier cookie
 - Time will depend on factors such as cookie scoop size and texture preference. Try 13 mins first, then adjust from there.
 17. Allow cookies to cool on the baking sheet for 10-15 mins before moving to wire rack. Add flaky sea salt.
 18. Serve warm!
@@ -147,7 +150,7 @@ My classic cookie dough uses more flour than sugar by weight (313 flour vs 250 s
   <tbody>
     <tr>
       <td>156.5</td>
-      <td>115</td>
+      <td>116</td>
       <td>80</td>
       <td>185</td>
       <td>122</td>
@@ -160,13 +163,13 @@ Using baker's math, I calculated %fat and %liquid of the dough. In this example,
 
 $$
 \% fat = \frac{weight_{fat} }{weight_{flour}} \times 100\%\\
-\% fat = \frac{226g}{156.5g} \times 100\%\\
-\% fat = 115%
+\% fat = \frac{226g \times 80\%} {156.5g} \times 100\%\\
+\% fat = 116%
 $$
 
 Overall, my cookie recipe uses less fat and less liquid content (sugar), relying on the structure of the flour to hold the cookie together in a thicker cookie.
 
-Interestingly, NYT's recipe called for a minimal chill time of 15-20mins, which in my experience--and very red kitchen counters, it was quite the task to handle the wet, sticky dough. My preference is to chill the dough for at least 2h, but even with my changes in the dough composition, it was not long enough to counteract the liquid content of the gochujang. I had to stop after scooping half my dough and continued after another 30 min chill.  Of course, the overnight chill cannot be ommitted for the best flavor development--and I'm excited to observe the changes the sourdough starter will create!
+Interestingly, NYT's recipe called for a minimal chill time of 15-20mins, which in my experience--and very red kitchen counters, was quite the task to handle the wet, sticky dough. My preference is to chill the dough for at least 2h, but even with my changes in the dough composition, it was not long enough to counteract the liquid content of the gochujang and sourdough starter. I had to stop after scooping half my dough and continued after another 30 min chill.  Of course, the overnight chill cannot be ommitted for the best flavor development--and I'm excited to observe the changes the sourdough starter will create!
 
 ##### Sourdough Background
 
@@ -182,4 +185,4 @@ I regularly keep my sourdough starter at 4C since I bake bread weekly and don't 
 
 Theoretically, since the flour in the starter is hydrated with water, the enzymes will be more active than in a cookie dough that does not use a water-based liquid (which is most recipes). So, my hypothesis is that with an overnight rest, this recipe will produce a cookie with more complex flavor (from hydrated flour) and deeper color (from the sugars being broken down) than a recipe without starter.
 
-Indeed the sourdough added complexity in the cookie dough, but what I did not expect was the dramatic change in structure. With my classic recipe, the cookies I expect to see out of the oven will be crispy on the outside and gooey on the inside. The initial crunch was the same, but to my surprise, the inside of this cookie had an open crumb that was light and similar to a cake. Overall, I would definitely experiment more with adding sourdough starter to cookies and 100g may have been too much but now we have better insight on the upper boundary.
+Indeed the sourdough added complexity in the cookie dough, but what I did not expect was the dramatic change in structure. With my classic recipe, the cookies I expect to see out of the oven will be crispy on the outside and gooey on the inside. The initial crunch was the same, but to my surprise, the inside of this cookie had an open crumb that was light and springy, similar to a cake. Overall, I would definitely experiment more with adding sourdough starter to cookies and 100g may have been too much but now we have better insight on the upper boundary.
