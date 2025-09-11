@@ -3,7 +3,7 @@ layout: post
 title: gochujang toffee cookies
 date: 2025-09-12
 description: revisiting the classic NYT gochujang cookie recipe with a toffee spin
-tags: cookies, baking, sweet
+tags: cookies, baking, sweet, ferments
 categories: recipes
 thumbnail: "https://static01.nyt.com/images/2022/11/30/dining/EK-gochujang-caramel-COOKIEWEEK/merlin_216839688_df3bb75c-2c49-41e6-99dd-55f46d45826f-master768.jpg"
 toc: 

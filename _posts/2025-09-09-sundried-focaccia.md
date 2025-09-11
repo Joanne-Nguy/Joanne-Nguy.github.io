@@ -99,7 +99,7 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 <table>
   <tr>
     <th>Yield</th>
-    <td>4 servings.</td>
+    <td>A single 9x13" loaf about 1.5" in height.</td>
   </tr>
   <tr>
     <th>Storage</th>
