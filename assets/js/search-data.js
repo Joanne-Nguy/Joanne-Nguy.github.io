@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-sun-dried-tomato-sourdough-focaccia",
+        },{id: "post-gochujang-toffee-cookies",
+      
+        title: "gochujang toffee cookies",
+      
+      description: "revisiting the classic NYT gochujang cookie recipe with a toffee spin",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/gochujang-toffee-cookies/";
+        
+      },
+    },{id: "post-sun-dried-tomato-sourdough-focaccia",
       
         title: "sun-dried tomato sourdough focaccia",
       
