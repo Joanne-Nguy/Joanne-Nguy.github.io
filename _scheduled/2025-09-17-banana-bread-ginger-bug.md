@@ -1,0 +1,125 @@
+---
+layout: post
+title: banana bread ginger soda
+date: 2025-09-17
+description: a soda reminiscent of fresh banana bread
+tags: sweet, ferments
+categories: recipes
+thumbnail: "https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-94b8-622f-a873-4a1b0d75a3ec/raw?se=2025-09-11T22%3A14%3A53Z&sp=r&sv=2024-08-04&sr=b&scid=a60cc69c-07b4-5d21-b132-cbdca99125ec&skoid=a3412ad4-1a13-47ce-91a5-c07730964f35&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-10T22%3A19%3A30Z&ske=2025-09-11T22%3A19%3A30Z&sks=b&skv=2024-08-04&sig=amJklcbzKPtBf1xh50kjhh/4vSjJ3Lb5iNWL99lS54s%3D"
+toc: 
+  sidebar: left
+---
+
+#### Abstract
+
+A recipe for a homemade banana bread syrup for a spiced ginger bug soda.
+
+#### Materials
+
+- Food processor or knife
+- 3 Wide-mouth jars (2 32oz and 2 8oz)
+- Spoons
+- Cheesecloth
+- 16oz Swing-top bottle or 2 8oz Swing-top bottles
+- Funnel
+- Strainer
+
+#### Reagents
+
+##### Ginger Bug
+
+||Ingredient|Amount|Preparation|
+|:---|:---|:---|:---|
+|<input type="checkbox">|Ginger|3 roots|**Required**: Organic with skins on; gently rinsed and dried|
+|<input type="checkbox">|Water|500mL|Room temperature; filtered or bottled|
+|<input type="checkbox">|Granulated Sugar|1Tbsp x 5|None|
+
+##### Banana Bread Syrup
+
+||Ingredient|Amount|Preparation|
+|:---|:---|:---|:---|
+|<input type="checkbox">|Banana Peel|1 banana (~65g)|Rinsed and dried|
+|<input type="checkbox">|Brown sugar|Equal in weight with banana peel (~65g)|None|
+|<input type="checkbox">|Ground cinnamon|2 Tsp|None|
+|<input type="checkbox">|Water|300mL and as needed|Room temperature; filtered or bottled|
+
+<br>
+
+#### Procedure
+
+##### Prepare Ginger Bug Starter
+**Hands-on**: 15 mins | **Incubation**: 5 days
+1.  Using a food processor or knife, finely chop the ginger and add to an 8oz jar.
+2. In a clean 32oz jar, add filtered water, 1 Tbsp sugar and 1 Tbsp of the chopped ginger. This will become the ginger bug.
+3. Stir jar contents until sugar is dissolved.
+4. The jar containing ginger may be stored in the fridge for up to 1 month.
+5. Cover the ginger bug jar loosely with a cheesecloth and leave to ferment in a warm, dark area.
+6. Each day for 4 more days, add 1 Tbsp of sugar and 1 Tbsp of chopped ginger.
+- By day 3, given sufficient heat, the starter will be bubbly and smell slightly yeasty.
+7. The starter is now mature enough to be used for sodas and may be kept loosely covered with a lid in the refrigerator indefinitely.
+- In the fridge, the ginger bug will need to be fed 1 Tbsp of sugar weekly and 1 Tbsp of chopped ginger monthly for maintenance or both before each use.
+
+##### Prepare Ginger Bug For Soda Making
+**Hands-on**: 5 mins | **Incubation**: 8-12h
+1. A day before using the ginger bug to make soda, take the ginger bug out of the refrigerator, feed 1 Tbsp sugar and 1 Tbsp chopped ginger.
+2. Cover loosely and leave the jar in a warm, dark space for 8-12hh.
+- Ginger bug starter will become bubbly within the day and ready to use.
+
+##### Prepare Banana Bread Syrup
+**Hands-on**: 5 mins | **Incubation**: 8-12h
+1. Coarsely chop banana peel into 0.5x0.5" portions.
+2. Add chopped banana peel to a clean 8oz jar.
+3. Add brown sugar and gently mix to coat banana peels in the brown sugar.
+4. Cover loosely and leave the jar in a warm, dark space for 8-12h.
+- The brown sugar will draw the liquid out from the banana peels and produce a thick, brown syrup.
+5. Add cinnamon and gently mix.
+
+##### Make Banana Bread Ginger Bug Soda
+**Hands-on**: 5 mins | **Incubation**: 3-5
+1. In a clean 32oz jar, add filtered water and banana bread syrup including the solids.
+2. Mix thoroughly until the syrup is dissolved.
+3. Add 100mL of the bubbly ginger bug and mix.
+4. Lightly cover the soda with a cheesecloth and place in a warm, dark area for about 1 day.
+- Soda will ferment and become bubbly. Incubation time will depend on the ambient temperature, where warmer temperatures will have a shorter incubation and cooler temperatures will need a longer incubation.
+5. Over a swing-top bottle, place a funnel and strainer.
+6. Strain the contents of the fermented soda into the bottle, pressing the banana peels to collect all the liquid.
+7. If needed, top the bottle up using filtered water so that there is 1-2" of head room in the bottle.
+8. Seal the bottle and place in a warm, dark area for 2-4 days.
+- In this time, carbon dioxide from the fermentation process will build up in the bottle and pressurize its contents.
+- The duration of the fermentation will be dependent on ambient temperature and targeted flavor profile.
+9. Serve over ice or chilled from the refrigerator!
+
+
+<table>
+  <tr>
+    <th>Yield</th>
+    <td>1 16 oz bottle of soda.</td>
+  </tr>
+  <tr>
+    <th>Storage</th>
+    <td>Store in the fridge for up to 3 months.</td>
+  </tr>
+</table><br>
+
+
+#### Discussion
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid 
+        loading="lazy" 
+        path="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-94b8-622f-a873-4a1b0d75a3ec/raw?se=2025-09-11T22%3A14%3A53Z&sp=r&sv=2024-08-04&sr=b&scid=a60cc69c-07b4-5d21-b132-cbdca99125ec&skoid=a3412ad4-1a13-47ce-91a5-c07730964f35&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-10T22%3A19%3A30Z&ske=2025-09-11T22%3A19%3A30Z&sks=b&skv=2024-08-04&sig=amJklcbzKPtBf1xh50kjhh/4vSjJ3Lb5iNWL99lS54s%3D" 
+        width="50%" 
+        class="img-fluid mx-auto d-block rounded z-depth-1" 
+        avoid_scaling=true %}
+    </div>
+</div>
+<div class="caption">
+    Banana bread soda over ice. Photo generated by ChatGPT.
+</div>
+
+This banana bread syrup is a perfect addition as we enter the fall season, with its spicy notes from the ginger topped with cinnamon with a subtle fruity finish from the banana peel. I first discovered this recipe for use as a latte topping, but as someone with a ginger bug starter, my mind immediately jumped to banana bread soda. Although a strange combination, this recipe reminds me of a banana bread recipe where I added ginger bug discard. So in a way, this recipe is complementary to that one--using both banana and ginger in a recipe together.
+
+As a household that is constantly consuming bananas, there is no lack of banana peels. I'm a big fan of recipes that are able to use scraps that would otherwise be tossed away. What a perfect combination it would be, to have banana bread ginger soda with a slice of ginger banana bread made from blackened bananas.
+
+For a brief background on ginger bug fermentation, visit the main [Ginger Bug](https://joanne-nguy.github.io/blog/2025/ginger-bug) recipe page.

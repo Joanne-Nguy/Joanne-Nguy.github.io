@@ -2,7 +2,6 @@ TODO:
 - lavender bitters
 - lemon crinkle cookies
 - matcha butter cookies
-- overnight oats
 - ginger bug + flavors
 
 
