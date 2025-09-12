@@ -5,7 +5,7 @@ date: 2025-09-15
 description: a refreshing and fruity home-fermented soda
 tags: sweet, ferments
 categories: recipes
-thumbnail: ""
+thumbnail: "https://images.unsplash.com/photo-1544418749-94b09b11e93f?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 toc: 
   sidebar: left
 ---
@@ -59,11 +59,12 @@ A recipe for a beginner-friendly ginger bug soda flavored with ginger and honey.
 - In the fridge, the ginger bug will need to be fed 1 Tbsp of sugar weekly and 1 Tbsp of chopped ginger monthly for maintenance or both before each use.
 
 ##### Prepare Ginger Bug For Soda Making
-**Hands-on**: 5 mins | **Incubation**: 4h
+**Hands-on**: 5 mins | **Incubation**: 8-12h
 1. A day before using the ginger bug to make soda, take the ginger bug out of the refrigerator, feed 1 Tbsp sugar and 1 TBsp chopped ginger.
+2. Cover loosely and leave the jar in a warm, dark space for 8-12hh.
 - Ginger bug starter will become bubbly within the day and ready to use.
 
-##### Prepare Ginger Bug Soda
+##### Make Ginger Bug Soda
 **Hands-on**: 5 mins | **Incubation**: 3-5
 1. In a clean 32oz jar, add filtered water, honey and chopped ginger.
 2. Mix thoroughly until the honey is dissolved.
@@ -76,7 +77,7 @@ A recipe for a beginner-friendly ginger bug soda flavored with ginger and honey.
 8. Seal the bottle and place in a warm, dark area for 2-4 days.
 - In this time, carbon dioxide from the fermentation process will build up in the bottle and pressurize its contents.
 - The duration of the fermentation will be dependent on ambient temperature and targeted flavor profile.
-9. Serve over ice or store in the refrigerator!
+9. Serve over ice or chilled from the refrigerator!
 
 
 <table>
@@ -97,22 +98,22 @@ A recipe for a beginner-friendly ginger bug soda flavored with ginger and honey.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid 
         loading="lazy" 
-        path="" 
+        path="https://images.unsplash.com/photo-1544418749-94b09b11e93f?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
         width="50%" 
         class="img-fluid mx-auto d-block rounded z-depth-1" 
         avoid_scaling=true %}
     </div>
 </div>
 <div class="caption">
-    Caption. Photo from Unsplash.
+    Fizzy ginger bug soda over ice. Photo from Unsplash.
 </div>
 
 This simple honey ginger soda is a refreshing entry into the world of fermented beverages. Using the naturally occurring yeasts on organic ginger skins to ferment the sugars in the granulated sugar and honey produce carbon dioxide gases, which carbonate the drink similar to soda. The result may not be as bubbly and sweet, but is nonetheless enjoyable cold. Initially, fermented sodas were a healthier way to drink bubbly sodas, but have since evolved into "could I make this into soda??"
 
 ##### Ginger Bug Flavorings
-The easiest way to start experimenting with ginger bug soda flavors is to use syrups, jams and juices. What's common between these ingredients is the high sugar content which will be used as food for the ginger bug. And the best part is that there's already flavorings that will develop in the soda. 
+The easiest way to start experimenting with ginger bug soda flavors is to use readily-available syrups, jams and juices. The main component to look out for is the high sugar content--your soda won't carbonate if artificial sweeteners are used instead. The sugar is food for the ginger bug to produce carbonation. And the best part is that there's already flavorings that will develop in the soda. 
 
-In a previous batch of ginger bug soda, I started with strawberry jam and that created a fruity soda with a pastel pink hue that was as pretty to look at as it was fun to drink. For a more homemade flavor, I made a banana bread syrup that was essentially a banana peel cheong with cinnamon sprinkled on top. The result was a spiced drink that was reminiscent of a warm loaf of banana bread. I was quite inspired by the banana bread syrup recipe since it's a scrappy recipe that uses food waste that would normally be tossed in the trash.
+In a previous batch of ginger bug soda, I started with strawberry jam which resulted in a fruity soda with a pastel pink hue that was as pretty to look at as it was fun to drink. For a more homemade flavor, I made a [banana bread syrup](https://joanne-nguy.github.io/blog/2025/banana-bread-ginger-bug) that was essentially a banana peel and brown sugar cheong with cinnamon sprinkled on top. The result was a spiced drink that was reminiscent of a warm loaf of banana bread. I was quite inspired by the banana bread syrup recipe since it's a scrappy recipe that uses food waste that would normally be tossed in the trash.
 
 ##### Ginger Bug Fermentation
 With my specific ginger bug, ambient temperature and filtered water, in my experience, the soda will develop slowly and will have a different flavor profile as times goes on. On the first couple days of fermentation, the sugar content has not been completely digested by the yeasts, and so, will taste rather sweet. By around day 4-5, the flavor profile will taste dryer and any initial flavorings will become much less pronounced. It is then in my preference to refrigerate the sodas after a total fermentation time of 3 days. The refrigeration step will put a "pause" on the fermentation, as the yeasts slow down and consume less sugar.
