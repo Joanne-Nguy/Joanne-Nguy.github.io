@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-banana-bread-ginger-soda",
+        },{id: "post-taro-39-s-growth",
+      
+        title: "Taro&#39;s growth",
+      
+      description: "an analysis on kitten weight gain through a year",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Taro-growth/";
+        
+      },
+    },{id: "post-banana-bread-ginger-soda",
       
         title: "banana bread ginger soda",
       
