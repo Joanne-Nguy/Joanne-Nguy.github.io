@@ -12,7 +12,7 @@ toc:
 
 #### Abstract
 
-An analysis on kitten weight gain from 4 months to 1 year old and caloric intake
+An analysis on kitten weight gain from 4 months to 1 year old and caloric intake over the same time scale
 
 #### Materials
 
@@ -164,7 +164,7 @@ An analysis on kitten weight gain from 4 months to 1 year old and caloric intake
         },
         {
         x: 205,
-        y: 9.00000000000001
+        y: 9
         },
         {
         x: 228,
@@ -172,19 +172,19 @@ An analysis on kitten weight gain from 4 months to 1 year old and caloric intake
         },
         {
         x: 236,
-        y: 9.19999999999999
+        y: 9.2
         },
         {
         x: 241,
-        y: 9.60000000000001
+        y: 9.6
         },
         {
         x: 245,
-        y: 9.59999999999999
+        y: 9.6
         },
         {
         x: 250,
-        y: 9.40000000000001
+        y: 9.4
         },
         {
         x: 256,
