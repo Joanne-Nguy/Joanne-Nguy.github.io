@@ -5,7 +5,7 @@ date: 2025-09-17
 description: a soda reminiscent of fresh banana bread
 tags: sweet, ferments
 categories: recipes
-thumbnail: "https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-94b8-622f-a873-4a1b0d75a3ec/raw?se=2025-09-11T22%3A14%3A53Z&sp=r&sv=2024-08-04&sr=b&scid=a60cc69c-07b4-5d21-b132-cbdca99125ec&skoid=a3412ad4-1a13-47ce-91a5-c07730964f35&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-10T22%3A19%3A30Z&ske=2025-09-11T22%3A19%3A30Z&sks=b&skv=2024-08-04&sig=amJklcbzKPtBf1xh50kjhh/4vSjJ3Lb5iNWL99lS54s%3D"
+thumbnail: "/assets/img/banana_bread.png"
 toc: 
   sidebar: left
 ---
@@ -108,7 +108,7 @@ A recipe for a homemade banana bread syrup for a spiced ginger bug soda.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid 
         loading="lazy" 
-        path="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-94b8-622f-a873-4a1b0d75a3ec/raw?se=2025-09-11T22%3A14%3A53Z&sp=r&sv=2024-08-04&sr=b&scid=a60cc69c-07b4-5d21-b132-cbdca99125ec&skoid=a3412ad4-1a13-47ce-91a5-c07730964f35&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-10T22%3A19%3A30Z&ske=2025-09-11T22%3A19%3A30Z&sks=b&skv=2024-08-04&sig=amJklcbzKPtBf1xh50kjhh/4vSjJ3Lb5iNWL99lS54s%3D" 
+        path="/assets/img/banana_bread.png" 
         width="50%" 
         class="img-fluid mx-auto d-block rounded z-depth-1" 
         avoid_scaling=true %}
