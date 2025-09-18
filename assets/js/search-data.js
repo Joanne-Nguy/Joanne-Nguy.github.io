@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-gochujang-toffee-cookies",
+        },{id: "post-banana-bread-ginger-soda",
+      
+        title: "banana bread ginger soda",
+      
+      description: "a soda reminiscent of fresh banana bread",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/banana-bread-ginger-bug/";
+        
+      },
+    },{id: "post-honey-ginger-soda",
+      
+        title: "honey ginger soda",
+      
+      description: "a refreshing and fruity home-fermented soda",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/ginger-bug/";
+        
+      },
+    },{id: "post-gochujang-toffee-cookies",
       
         title: "gochujang toffee cookies",
       
