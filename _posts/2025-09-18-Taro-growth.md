@@ -194,6 +194,9 @@ document.addEventListener("DOMContentLoaded", function () {
           scaleLabel: {
             display: true,
             labelString: "Age (Days)"
+          },
+          ticks: {
+            max: 450
           }
         }],
         yAxes: [{
