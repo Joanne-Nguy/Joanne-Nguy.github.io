@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Taro's growth
-date: 2025-09-18
+date: 2025-09-19
 description: an analysis on kitten weight gain through a year
-tags: data
-categories: recipes
+tags: 
+categories: data
 thumbnail: "/assets/img/Taro_old.jpg"
 toc: 
   sidebar: left
@@ -12,7 +12,7 @@ toc:
 
 #### Abstract
 
-An analysis on kitten weight gain from 4 months to over 1 years old and caloric intake over the same time scale.
+An analysis on kitten weight gain from 2 months to over 1 years old and caloric intake over the same time scale.
 
 #### Materials
 
@@ -20,6 +20,7 @@ An analysis on kitten weight gain from 4 months to over 1 years old and caloric 
 
 #### Procedure
 **Hands-on**: 5 mins/week
+
 Approximately once a week:
 1. Record date of measurement.
 2. Place the kitten on the scale and record the weight in lbs when the scale stabilizes.
@@ -39,9 +40,18 @@ Approximately once a week:
     Taro as a kitten (left) and as a cat (right). Photo from Joanne.
 </div>
 
+Kittens are fast growing, showing near exponential growth when young, as observed in the first 4 weeks of **Fig 1**, where he recovered from a bad case of fleas (which will feed on his blood, depriving him of much-needed nutrients for survival and growth) and thrived. The small kitten that started weighing a light 2.8 lbs grew to be a consistent 11±5% lbs. Funny enough, with his observed growth pattern, the veterinarian estimated his healthy adult weight to be a hefty 13 lbs, which he was never able to achieve.
+
+For the first 6 months of his growth journey, Taro's weight was measured in approximately 1 week intervals (with a small break during Christmas), where we can observe not only the consistently increasing weight but also the changes in weight on a weekly basis due to measuring weight before/after meals or before/after using the litter box. However, a kitten's schedule is free-spirited, so the only constant is measurement in the mornings. As he approached his first birthday, the measurements slowed, as did his growth.
+
 <canvas id="taroWeightChart"></canvas>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
+  const regressionLineData = [];
+  for (let x = 50; x <= 450; x++) {
+    const y = -0.737 + 0.0564*x + -2.1E-05*x**2 + -1.99E-07*x**3 + 2E-10*x**4;
+    regressionLineData.push({ x: x, y: y });
+  }
   var ctx = document.getElementById("taroWeightChart").getContext("2d");
   new Chart(ctx, {
     type: "scatter",
@@ -97,13 +107,22 @@ document.addEventListener("DOMContentLoaded", function () {
             {x: 400, y: 11.2},
             {x: 418, y: 10.6}
           ]
+        },
+        {
+            label: 'Trendline: -0.737 + 0.0564x + -2.1E-05x^2 + -1.99E-07x^3 + 2E-10x^4; R^2 = 0.991',
+            data: regressionLineData,
+            borderColor: 'rgba(191, 97, 106, 0.8)',
+            borderWidth: 2,
+            pointRadius: 0,
+            showLine: true,
+            fill: false
         }
       ]
     },
     options: {
       title: {
         display: true,
-        text: "Weight measurement over time"
+        text: "Fig 1. Weight measurement over time"
       },
       scales: {
         xAxes: [{
@@ -124,16 +143,29 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+A different visualization of his growth pattern uses % Weight Difference as shown in **Fig 2**, which is calculated as the following:
+
+$$
+\% Weight Difference = \frac{weight_{new} - weight_{old} }{weight_{old}} \times 100\%\\
+$$
+
+This equation can be used to visualize the rate of change over time. We can observe that his growth indeed was faster when younger and slowed down over time. The extrapolated trendline should eventually reach 0 with more data points collected, as weight will fluctuate, but stay constant around a metabolic set point. Correlation of the data was not very strong, as the R<sup>2</sup> was less than 0.9, as indicated by the cloud of data points rather than a neat line. This is natural, as growth is sporadic and unpredictable -- even with a controlled diet.
+
 <canvas id="taroDeltaChart"></canvas>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
+  const regressionLineData = [];
+  for (let x = 50; x <= 450; x++) {
+    const y = 272 * x ** -0.799;
+    regressionLineData.push({ x: x, y: y });
+  }
   var ctx = document.getElementById("taroDeltaChart").getContext("2d");
   new Chart(ctx, {
     type: "scatter",
     data: {
       datasets: [
         {
-          label: "Weight (lbs)",
+          label: "% Weight Difference ([Current weight - Old Weight]/Old Weight) * 100%",
           backgroundColor: 'rgba(75,192,192,0.8)',
           data: [
             {x: 72, y: 17.86},
@@ -181,13 +213,22 @@ document.addEventListener("DOMContentLoaded", function () {
             {x: 366, y: 1.82},
             {x: 400, y: -5.36}
           ]
+        },
+        {
+            label: 'Trendline: 272x^-0.799; R^2 = 0.269',
+            data: regressionLineData,
+            borderColor: 'rgba(191, 97, 106, 0.8)',
+            borderWidth: 2,
+            pointRadius: 0,
+            showLine: true,
+            fill: false
         }
       ]
     },
     options: {
       title: {
         display: true,
-        text: "Difference in weight ([new weight-previous weight]/previous weight) over time"
+        text: "Fig 2. Difference in weight over time"
       },
       scales: {
         xAxes: [{
@@ -202,7 +243,7 @@ document.addEventListener("DOMContentLoaded", function () {
         yAxes: [{
           scaleLabel: {
             display: true,
-            labelString: "% Difference in Weight"
+            labelString: "% Weight Difference"
           }
         }]
       }
@@ -210,6 +251,17 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
+
+While Taro's weight was measured, the calories fed were also recorded. This gave us insight into how much he was eating and how that correlated with his growth, as shown in **Fig 3**. By calculating his optimal calorie intake by weight, Taro's feeding amount was adjusted whenever his weight increased and his food bowl was more frequently empty between meals. Optimal calorie intake was calculated as following:
+
+$$
+Optimal Calories_{Kittens} = Weight (lb) * 65 kcal/lb
+$$
+$$
+Optimal Calories_{Cats} = Weight (lb) * 30 kcal/lb
+$$
+
+From the beginning, Taro had an eating quirk where he would "save" some of his food for later. So it was plain to see when his calorie intake needed to be increased if his bowl was completely emptied between meals. Using this observation and adjustment cycle, Taro's caloric intake gradually increased through his quick growth spurts. At about 6 months old (~200 days), Taro's growth gradually left the exponential change curve and his caloric intake decreased. The calculated optimal calories droppped from 65 kcal/lb to 40 kcal/lb after 6 months and further still, to the recommended adult caloric intake of 30 kcal/day after 11 months.
 
 <canvas id="taroCalChart"></canvas>
 <script>
@@ -296,23 +348,23 @@ document.addEventListener("DOMContentLoaded", function () {
                 {x: 165, y: 481},
                 {x: 172, y: 481},
                 {x: 181, y: 520},
-                {x: 191, y: 410},
+                {x: 191, y: 410.},
                 {x: 198, y: 420},
                 {x: 205, y: 450},
                 {x: 228, y: 450},
                 {x: 236, y: 460},
-                {x: 241, y: 480.},
-                {x: 245, y: 480.},
-                {x: 250, y: 470.},
-                {x: 256, y: 500},
-                {x: 261, y: 510.},
-                {x: 267, y: 520},
-                {x: 275, y: 520},
-                {x: 281, y: 612},
-                {x: 288, y: 612},
-                {x: 298, y: 612},
-                {x: 304, y: 648},
-                {x: 310, y: 642},
+                {x: 241, y: 384},
+                {x: 245, y: 384},
+                {x: 250, y: 376},
+                {x: 256, y: 400},
+                {x: 261, y: 408},
+                {x: 267, y: 416},
+                {x: 275, y: 416},
+                {x: 281, y: 408},
+                {x: 288, y: 408},
+                {x: 298, y: 408},
+                {x: 304, y: 432.},
+                {x: 310, y: 428},
                 {x: 355, y: 318},
                 {x: 366, y: 330},
                 {x: 400, y: 336},
@@ -322,7 +374,7 @@ document.addEventListener("DOMContentLoaded", function () {
     options: {
       title: {
         display: true,
-        text: "Calories fed vs Calculated Optimal Calories Needed"
+        text: "Fig 3. Calories fed vs Calculated estimate of optimal calories needed"
       },
       scales: {
         xAxes: [{
@@ -344,4 +396,6 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+Overall, feeding a kitten using the recommended 65 kcal/lb of body weight resulted in a healthy growing kitten. It helped that Taro was not the type of cat to overfeed himself, so he was able to self-regulate his weight with some input from the feeding changes. It was surprising how early his feeding decreased, since his caloric intake was adjusted to 40 kcal/body weight at 6 months, when the vet recommended change closer to 1 year.
 
+It was a great learning experience to collate all the cat food labels to determine kcal/cup and translate that into small meals of wet- and dry-food for Taro throughout the day. For future kittens, feeding with the energy requirement for body weight will be used again, while observing feeding changes to adjust caloric intake.
