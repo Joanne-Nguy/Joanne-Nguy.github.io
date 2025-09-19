@@ -1,37 +1,329 @@
 <!DOCTYPE html> <html lang="en"> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title> Taro's growth | Joanne Nguyen </title> <meta name="author" content="Joanne Nguyen"> <meta name="description" content="an analysis on kitten weight gain through a year"> <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website"> <link rel="stylesheet" href="/assets/css/bootstrap.min.css?a4b3f509e79c54a512b890d73235ef04"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous"> <link defer rel="stylesheet" href="/assets/css/academicons.min.css?f0b7046b84e425c55f3463ac249818f5"> <link defer rel="stylesheet" href="/assets/css/scholar-icons.css?62b2ac103a88034e6882a5be5f3e2772"> <link defer rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&amp;display=swap"> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-github.css?591dab5a4e56573bf4ef7fd332894c99" media="" id="highlight_theme_light"> <link defer href="/assets/css/bootstrap-toc.min.css?321014b18ba3cc16b8796e611a2e1400" rel="stylesheet"> <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%F0%9F%A6%80&lt;/text&gt;&lt;/svg&gt;"> <link rel="stylesheet" href="/assets/css/main.css?d41d8cd98f00b204e9800998ecf8427e"> <link rel="canonical" href="https://joanne-nguy.github.io/blog/2025/Taro-growth/"> <script src="/assets/js/theme.js?9a0c749ec5240d9cda97bc72359a72c0"></script> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-native.css?5847e5ed4a4568527aa6cfab446049ca" media="none" id="highlight_theme_dark"> <script>
     initTheme();
-  </script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> <span class="font-weight-bold">Joanne</span> Nguyen </a> <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse text-right" id="navbarNav"> <ul class="navbar-nav ml-auto flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">about </a> </li> <li class="nav-item "> <a class="nav-link" href="/cv/">cv </a> </li> <li class="nav-item "> <a class="nav-link" href="/publications/">publications </a> </li> <li class="nav-item active"> <a class="nav-link" href="/blog/">blog </a> </li> <li class="nav-item"> <button id="search-toggle" title="Search" onclick="openSearchModal()"> <span class="nav-link">ctrl k <i class="ti ti-search"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" title="Change theme"> <i class="ti ti-sun-moon" id="light-toggle-system"></i> <i class="ti ti-moon-filled" id="light-toggle-dark"></i> <i class="ti ti-sun-filled" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="row"> <div class="col-sm-3"> <nav id="toc-sidebar" class="sticky-top"></nav> </div> <div class="col-sm-9"> <div class="post"> <header class="post-header"> <h1 class="post-title">Taro's growth</h1> <p class="post-meta"> Created on September 18, 2025 </p> <p class="post-tags"> <a href="/blog/2025"> <i class="fa-solid fa-calendar fa-sm"></i> 2025 </a>   ·   <a href="/blog/tag/data"> <i class="fa-solid fa-hashtag fa-sm"></i> data</a>   ·   <a href="/blog/category/recipes"> <i class="fa-solid fa-tag fa-sm"></i> recipes</a> </p> </header> <article class="post-content"> <div id="markdown-content"> <h4 id="abstract">Abstract</h4> <p>An analysis on kitten weight gain from 4 months to 1 year old and caloric intake over the same time scale.</p> <h4 id="materials">Materials</h4> <ul> <li>Scale</li> </ul> <h4 id="procedure">Procedure</h4> <p><strong>Hands-on</strong>: 5 mins/week Approximately once a week:</p> <ol> <li>Record date of measurement.</li> <li>Place the kitten on the scale and record the weight in lbs when the scale stabilizes.</li> <li>Record caloric content of dry food and wet food in kcal/cup.</li> </ol> <h4 id="discussion">Discussion</h4> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <img src="/assets/img/Taro.jpg" class="img-fluid mx-auto d-block rounded z-depth-1" width="50%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> </div> <div class="caption"> Taro the cat. Photo from Joanne. </div> <pre><code class="language-chartjs">{
-  "type": 'scatter',
-  "data": {
-    "datasets": [{
-      "label": 'Weight (lbs)',
-      "data": [
-        { x: 72, y: 2.8 },
-        { x: 77, y: 3.3 },
-        { x: 83, y: 3.8 }
-      ],
-      "backgroundColor": 'rgba(75,192,192,0.4)'
-    }]
-  },
-  "options": {
-    "scales": {
-      x: {
-        "type": 'linear',
-        "position": 'bottom',
-        "title": {
-          "display": true,
-          "text": 'Age (Days)'
+  </script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> <span class="font-weight-bold">Joanne</span> Nguyen </a> <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse text-right" id="navbarNav"> <ul class="navbar-nav ml-auto flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">about </a> </li> <li class="nav-item "> <a class="nav-link" href="/cv/">cv </a> </li> <li class="nav-item "> <a class="nav-link" href="/publications/">publications </a> </li> <li class="nav-item active"> <a class="nav-link" href="/blog/">blog </a> </li> <li class="nav-item"> <button id="search-toggle" title="Search" onclick="openSearchModal()"> <span class="nav-link">ctrl k <i class="ti ti-search"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" title="Change theme"> <i class="ti ti-sun-moon" id="light-toggle-system"></i> <i class="ti ti-moon-filled" id="light-toggle-dark"></i> <i class="ti ti-sun-filled" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="row"> <div class="col-sm-3"> <nav id="toc-sidebar" class="sticky-top"></nav> </div> <div class="col-sm-9"> <div class="post"> <header class="post-header"> <h1 class="post-title">Taro's growth</h1> <p class="post-meta"> Created on September 19, 2025 </p> <p class="post-tags"> <a href="/blog/2025"> <i class="fa-solid fa-calendar fa-sm"></i> 2025 </a>   ·   <a href="/blog/category/data"> <i class="fa-solid fa-tag fa-sm"></i> data</a> </p> </header> <article class="post-content"> <div id="markdown-content"> <h4 id="abstract">Abstract</h4> <p>An analysis on kitten weight gain from 2 months to over 1 years old and caloric intake over the same time scale.</p> <h4 id="materials">Materials</h4> <ul> <li>Scale</li> </ul> <h4 id="procedure">Procedure</h4> <p><strong>Hands-on</strong>: 5 mins/week</p> <p>Approximately once a week:</p> <ol> <li>Record date of measurement.</li> <li>Place the kitten on the scale and record the weight in lbs when the scale stabilizes.</li> <li>Record caloric content of dry food and wet food in kcal/cup.</li> </ol> <h4 id="discussion">Discussion</h4> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/Taro_young-480.webp 480w,/assets/img/Taro_young-800.webp 800w,/assets/img/Taro_young-1400.webp 1400w," type="image/webp" sizes="95vw"></source> <img src="/assets/img/Taro_young.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> <div class="col-sm mt-3 mt-md-0"> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/Taro_old-480.webp 480w,/assets/img/Taro_old-800.webp 800w,/assets/img/Taro_old-1400.webp 1400w," type="image/webp" sizes="95vw"></source> <img src="/assets/img/Taro_old.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"> </picture> </figure> </div> </div> <div class="caption"> Taro as a kitten (left) and as a cat (right). Photo from Joanne. </div> <p>Kittens are fast growing, showing near exponential growth when young, as observed in the first 4 weeks of <strong>Fig 1</strong>, where he recovered from a bad case of fleas (which will feed on his blood, depriving him of much-needed nutrients for survival and growth) and thrived. The small kitten that started weighing a light 2.8 lbs grew to be a consistent 11±5% lbs. Funny enough, with his observed growth pattern, the veterinarian estimated his healthy adult weight to be a hefty 13 lbs, which he was never able to achieve.</p> <p>For the first 6 months of his growth journey, Taro’s weight was measured in approximately 1 week intervals (with a small break during Christmas), where we can observe not only the consistently increasing weight but also the changes in weight on a weekly basis due to measuring weight before/after meals or before/after using the litter box. However, a kitten’s schedule is free-spirited, so the only constant is measurement in the mornings. As he approached his first birthday, the measurements slowed, as did his growth.</p> <canvas id="taroWeightChart"></canvas> <script>
+document.addEventListener("DOMContentLoaded", function () {
+  const regressionLineData = [];
+  for (let x = 50; x <= 450; x++) {
+    const y = -0.737 + 0.0564*x + -2.1E-05*x**2 + -1.99E-07*x**3 + 2E-10*x**4;
+    regressionLineData.push({ x: x, y: y });
+  }
+  var ctx = document.getElementById("taroWeightChart").getContext("2d");
+  new Chart(ctx, {
+    type: "scatter",
+    data: {
+      datasets: [
+        {
+          label: "Weight (lbs)",
+          backgroundColor: 'rgba(75,192,192,0.8)',
+          data: [
+            {x: 72, y: 2.8},
+            {x: 77, y: 3.3},
+            {x: 83, y: 3.8},
+            {x: 89, y: 4.1},
+            {x: 96, y: 4.5},
+            {x: 100, y: 4.7},
+            {x: 109, y: 5.2},
+            {x: 111, y: 5.2},
+            {x: 115, y: 5.4},
+            {x: 118, y: 5.4},
+            {x: 121, y: 5.5},
+            {x: 124, y: 5.6},
+            {x: 127, y: 5.8},
+            {x: 133, y: 5.6},
+            {x: 137, y: 6},
+            {x: 144, y: 6.4},
+            {x: 146, y: 6.2},
+            {x: 148, y: 5.8},
+            {x: 153, y: 6.8},
+            {x: 157, y: 7.2},
+            {x: 162, y: 7.2},
+            {x: 165, y: 7.4},
+            {x: 172, y: 7.4},
+            {x: 181, y: 8},
+            {x: 191, y: 8.2},
+            {x: 198, y: 8.4},
+            {x: 205, y: 9},
+            {x: 228, y: 9},
+            {x: 236, y: 9.2},
+            {x: 241, y: 9.6},
+            {x: 245, y: 9.6},
+            {x: 250, y: 9.4},
+            {x: 256, y: 10},
+            {x: 261, y: 10.2},
+            {x: 267, y: 10.4},
+            {x: 275, y: 10.4},
+            {x: 281, y: 10.2},
+            {x: 288, y: 10.2},
+            {x: 298, y: 10.2},
+            {x: 304, y: 10.8},
+            {x: 310, y: 10.7},
+            {x: 355, y: 10.6},
+            {x: 366, y: 11},
+            {x: 400, y: 11.2},
+            {x: 418, y: 10.6}
+          ]
+        },
+        {
+            label: 'Trendline: -0.737 + 0.0564x + -2.1E-05x^2 + -1.99E-07x^3 + 2E-10x^4; R^2 = 0.991',
+            data: regressionLineData,
+            borderColor: 'rgba(191, 97, 106, 0.8)',
+            borderWidth: 2,
+            pointRadius: 0,
+            showLine: true,
+            fill: false
         }
+      ]
+    },
+    options: {
+      title: {
+        display: true,
+        text: "Fig 1. Weight measurement over time"
       },
-      y: {
-        "title": {
-          "display": true,
-          "text": 'Weight (lbs)'
-        }
+      scales: {
+        xAxes: [{
+          scaleLabel: {
+            display: true,
+            labelString: "Age (Days)"
+          }
+        }],
+        yAxes: [{
+          scaleLabel: {
+            display: true,
+            labelString: "Weight (lbs)"
+          }
+        }]
       }
     }
+  });
+});
+</script> <p>A different visualization of his growth pattern uses % Weight Difference as shown in <strong>Fig 2</strong>, which is calculated as the following:</p> \[\% Weight Difference = \frac{weight_{new} - weight_{old} }{weight_{old}} \times 100\%\\\] <p>This equation can be used to visualize the rate of change over time. We can observe that his growth indeed was faster when younger and slowed down over time. The extrapolated trendline should eventually reach 0 with more data points collected, as weight will fluctuate, but stay constant around a metabolic set point. Correlation of the data was not very strong, as the R<sup>2</sup> was less than 0.9, as indicated by the cloud of data points rather than a neat line. This is natural, as growth is sporadic and unpredictable – even with a controlled diet.</p> <canvas id="taroDeltaChart"></canvas> <script>
+document.addEventListener("DOMContentLoaded", function () {
+  const regressionLineData = [];
+  for (let x = 50; x <= 450; x++) {
+    const y = 272 * x ** -0.799;
+    regressionLineData.push({ x: x, y: y });
   }
-};
-</code></pre> </div> </article> <br> <hr> <br> <ul class="list-disc pl-8"></ul> <h2 class="text-3xl font-semibold mb-4 mt-12">Enjoy Reading This Article?</h2> <p class="mb-2">Here are some more articles you might like to read next:</p> <li class="my-2"> <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2025/banana-bread-ginger-bug/">banana bread ginger soda</a> </li> <li class="my-2"> <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2025/ginger-bug/">honey ginger soda</a> </li> <li class="my-2"> <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2025/gochujang-toffee-cookies/">gochujang toffee cookies</a> </li> <li class="my-2"> <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2025/sundried-focaccia/">sun-dried tomato sourdough focaccia</a> </li> <li class="my-2"> <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2025/hot-honey/">habanero hot honey</a> </li> </div> </div> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2025 Joanne Nguyen. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> <script src="/assets/js/bootstrap.bundle.min.js"></script> <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script> <script defer src="/assets/js/masonry.js?a0db7e5d5c70cc3252b3138b0c91dcaf" type="text/javascript"></script> <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js" integrity="sha256-ZgMyDAIYDYGxbcpJcfUnYwNevG/xi9OHKaR/8GK+jWc=" crossorigin="anonymous"></script> <script defer src="/assets/js/zoom.js?85ddb88934d28b74e78031fd54cf8308"></script> <script defer src="/assets/js/bootstrap-toc.min.js?c82ff4de8b0955d6ff14f5b05eed7eb6"></script> <script src="/assets/js/no_defer.js?2781658a0a2b13ed609542042a859126"></script> <script defer src="/assets/js/common.js?e0514a05c5c95ac1a93a8dfd5249b92e"></script> <script defer src="/assets/js/copy_code.js?12775fdf7f95e901d7119054556e495f" type="text/javascript"></script> <script defer src="/assets/js/jupyter_new_tab.js?d9f17b6adc2311cbabd747f4538bb15f"></script> <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js" integrity="sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI=" crossorigin="anonymous"></script> <script src="/assets/js/mathjax-setup.js?a5bb4e6a542c546dd929b24b8b236dfd"></script> <script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6" crossorigin="anonymous"></script> <script defer src="/assets/js/progress-bar.js?2f30e0e6801ea8f5036fa66e1ab0a71a" type="text/javascript"></script> <script src="/assets/js/vanilla-back-to-top.min.js?2199f026ea0709e7c63718bccf15694b"></script> <script>
+  var ctx = document.getElementById("taroDeltaChart").getContext("2d");
+  new Chart(ctx, {
+    type: "scatter",
+    data: {
+      datasets: [
+        {
+          label: "% Weight Difference ([Current weight - Old Weight]/Old Weight) * 100%",
+          backgroundColor: 'rgba(75,192,192,0.8)',
+          data: [
+            {x: 72, y: 17.86},
+            {x: 77, y: 15.15},
+            {x: 83, y: 7.89},
+            {x: 89, y: 9.76},
+            {x: 96, y: 4.44},
+            {x: 100, y: 10.64},
+            {x: 109, y: 0},
+            {x: 111, y: 3.85},
+            {x: 115, y: 0},
+            {x: 118, y: 1.85},
+            {x: 121, y: 1.82},
+            {x: 124, y: 3.57},
+            {x: 127, y: -3.45},
+            {x: 133, y: 7.14},
+            {x: 137, y: 6.67},
+            {x: 144, y: -3.13},
+            {x: 146, y: -6.45},
+            {x: 148, y: 17.24},
+            {x: 153, y: 5.88},
+            {x: 157, y: 0},
+            {x: 162, y: 2.78},
+            {x: 165, y: 0},
+            {x: 172, y: 8.11},
+            {x: 181, y: 2.5},
+            {x: 191, y: 2.44},
+            {x: 198, y: 7.14},
+            {x: 205, y: 0},
+            {x: 228, y: 2.22},
+            {x: 236, y: 4.35},
+            {x: 241, y: 0},
+            {x: 245, y: -2.08},
+            {x: 250, y: 6.38},
+            {x: 256, y: 2},
+            {x: 261, y: 1.96},
+            {x: 267, y: 0},
+            {x: 275, y: -1.92},
+            {x: 281, y: 0},
+            {x: 288, y: 0},
+            {x: 298, y: 5.88},
+            {x: 304, y: -0.93},
+            {x: 310, y: -0.93},
+            {x: 355, y: 3.77},
+            {x: 366, y: 1.82},
+            {x: 400, y: -5.36}
+          ]
+        },
+        {
+            label: 'Trendline: 272x^-0.799; R^2 = 0.269',
+            data: regressionLineData,
+            borderColor: 'rgba(191, 97, 106, 0.8)',
+            borderWidth: 2,
+            pointRadius: 0,
+            showLine: true,
+            fill: false
+        }
+      ]
+    },
+    options: {
+      title: {
+        display: true,
+        text: "Fig 2. Difference in weight over time"
+      },
+      scales: {
+        xAxes: [{
+          scaleLabel: {
+            display: true,
+            labelString: "Age (Days)"
+          },
+          ticks: {
+            max: 450
+          }
+        }],
+        yAxes: [{
+          scaleLabel: {
+            display: true,
+            labelString: "% Weight Difference"
+          }
+        }]
+      }
+    }
+  });
+});
+</script> <p>While Taro’s weight was measured, the calories fed were also recorded. This gave us insight into how much he was eating and how that correlated with his growth, as shown in <strong>Fig 3</strong>. By calculating his optimal calorie intake by weight, Taro’s feeding amount was adjusted whenever his weight increased and his food bowl was more frequently empty between meals. Optimal calorie intake was calculated as following:</p> <p>\(Optimal Calories_{Kittens} = Weight (lb) * 65 kcal/lb\) \(Optimal Calories_{Cats} = Weight (lb) * 30 kcal/lb\)</p> <p>From the beginning, Taro had an eating quirk where he would “save” some of his food for later. So it was plain to see when his calorie intake needed to be increased if his bowl was completely emptied between meals. Using this observation and adjustment cycle, Taro’s caloric intake gradually increased through his quick growth spurts. At about 6 months old (~200 days), Taro’s growth gradually left the exponential change curve and his caloric intake decreased. The calculated optimal calories droppped from 65 kcal/lb to 40 kcal/lb after 6 months and further still, to the recommended adult caloric intake of 30 kcal/day after 11 months.</p> <canvas id="taroCalChart"></canvas> <script>
+document.addEventListener("DOMContentLoaded", function () {
+  var ctx = document.getElementById("taroCalChart").getContext("2d");
+  new Chart(ctx, {
+    data: {
+      datasets: [{
+          type: "scatter",
+          label: "Calories Fed (kcal)",
+          fill: false,
+          backgroundColor: 'rgba(75,192,192,0.8)',
+          data: [{x: 72, y: 233.5},
+                {x: 77, y: 233.5},
+                {x: 83, y: 287.5},
+                {x: 89, y: 287.5},
+                {x: 96, y: 357.375},
+                {x: 100, y: 357.375},
+                {x: 109, y: 357.375},
+                {x: 111, y: 357.375},
+                {x: 115, y: 357.375},
+                {x: 118, y: 357.375},
+                {x: 121, y: 357.375},
+                {x: 124, y: 357.375},
+                {x: 127, y: 357.375},
+                {x: 133, y: 378.1875},
+                {x: 137, y: 378.1875},
+                {x: 144, y: 444.96875},
+                {x: 146, y: 444.96875},
+                {x: 148, y: 444.96875},
+                {x: 153, y: 511.75},
+                {x: 157, y: 511.75},
+                {x: 162, y: 511.75},
+                {x: 165, y: 578.53125},
+                {x: 172, y: 578.53125},
+                {x: 181, y: 444.96875},
+                {x: 191, y: 368.90625},
+                {x: 198, y: 444.96875},
+                {x: 205, y: 378.1875},
+                {x: 228, y: 444.96875},
+                {x: 236, y: 398},
+                {x: 241, y: 341.75},
+                {x: 245, y: 392.875},
+                {x: 250, y: 398},
+                {x: 256, y: 398},
+                {x: 261, y: 398},
+                {x: 267, y: 398},
+                {x: 275, y: 398},
+                {x: 281, y: 398},
+                {x: 288, y: 398},
+                {x: 298, y: 398},
+                {x: 304, y: 398},
+                {x: 310, y: 398},
+                {x: 355, y: 336.875},
+                {x: 366, y: 342.125},
+                {x: 400, y: 342.125},
+                {x: 418, y: 342.125}]
+        },{
+          type: "scatter",
+          label: "Estimated Optimal Calories (kcal)",
+          fill: false,
+          backgroundColor: 'rgba(191, 97, 106, 0.8)',
+          data: [{x: 72, y: 182},
+                {x: 77, y: 214.5},
+                {x: 83, y: 247},
+                {x: 89, y: 266.5},
+                {x: 96, y: 292.5},
+                {x: 100, y: 305.5},
+                {x: 109, y: 338},
+                {x: 111, y: 338},
+                {x: 115, y: 351},
+                {x: 118, y: 351},
+                {x: 121, y: 357.5},
+                {x: 124, y: 364},
+                {x: 127, y: 377},
+                {x: 133, y: 364},
+                {x: 137, y: 390},
+                {x: 144, y: 416},
+                {x: 146, y: 403},
+                {x: 148, y: 377},
+                {x: 153, y: 442},
+                {x: 157, y: 468},
+                {x: 162, y: 468},
+                {x: 165, y: 481},
+                {x: 172, y: 481},
+                {x: 181, y: 520},
+                {x: 191, y: 410.},
+                {x: 198, y: 420},
+                {x: 205, y: 450},
+                {x: 228, y: 450},
+                {x: 236, y: 460},
+                {x: 241, y: 384},
+                {x: 245, y: 384},
+                {x: 250, y: 376},
+                {x: 256, y: 400},
+                {x: 261, y: 408},
+                {x: 267, y: 416},
+                {x: 275, y: 416},
+                {x: 281, y: 408},
+                {x: 288, y: 408},
+                {x: 298, y: 408},
+                {x: 304, y: 432.},
+                {x: 310, y: 428},
+                {x: 355, y: 318},
+                {x: 366, y: 330},
+                {x: 400, y: 336},
+                {x: 418, y: 318}]
+        }]
+    },
+    options: {
+      title: {
+        display: true,
+        text: "Fig 3. Calories fed vs Calculated estimate of optimal calories needed"
+      },
+      scales: {
+        xAxes: [{
+          type: 'linear',
+          scaleLabel: {
+            display: true,
+            labelString: "Age (Days)"
+          }
+        }],
+        yAxes: [{
+          scaleLabel: {
+            display: true,
+            labelString: "Calories (kcal)"
+          }
+        }]
+      }
+    }
+  });
+});
+</script> <p>Overall, feeding a kitten using the recommended 65 kcal/lb of body weight resulted in a healthy growing kitten. It helped that Taro was not the type of cat to overfeed himself, so he was able to self-regulate his weight with some input from the feeding changes. It was surprising how early his feeding decreased, since his caloric intake was adjusted to 40 kcal/body weight at 6 months, when the vet recommended change closer to 1 year.</p> <p>It was a great learning experience to collate all the cat food labels to determine kcal/cup and translate that into small meals of wet- and dry-food for Taro throughout the day. For future kittens, feeding with the energy requirement for body weight will be used again, while observing feeding changes to adjust caloric intake.</p> </div> </article> <br> <hr> <br> <ul class="list-disc pl-8"></ul> <h2 class="text-3xl font-semibold mb-4 mt-12">Enjoy Reading This Article?</h2> <p class="mb-2">Here are some more articles you might like to read next:</p> <li class="my-2"> <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2025/banana-bread-ginger-bug/">banana bread ginger soda</a> </li> <li class="my-2"> <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2025/ginger-bug/">honey ginger soda</a> </li> <li class="my-2"> <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2025/gochujang-toffee-cookies/">gochujang toffee cookies</a> </li> <li class="my-2"> <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2025/sundried-focaccia/">sun-dried tomato sourdough focaccia</a> </li> <li class="my-2"> <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2025/hot-honey/">habanero hot honey</a> </li> </div> </div> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2025 Joanne Nguyen. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>. </div> </footer> <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> <script src="/assets/js/bootstrap.bundle.min.js"></script> <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script> <script defer src="/assets/js/masonry.js?a0db7e5d5c70cc3252b3138b0c91dcaf" type="text/javascript"></script> <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js" integrity="sha256-ZgMyDAIYDYGxbcpJcfUnYwNevG/xi9OHKaR/8GK+jWc=" crossorigin="anonymous"></script> <script defer src="/assets/js/zoom.js?85ddb88934d28b74e78031fd54cf8308"></script> <script defer src="/assets/js/bootstrap-toc.min.js?c82ff4de8b0955d6ff14f5b05eed7eb6"></script> <script src="/assets/js/no_defer.js?2781658a0a2b13ed609542042a859126"></script> <script defer src="/assets/js/common.js?e0514a05c5c95ac1a93a8dfd5249b92e"></script> <script defer src="/assets/js/copy_code.js?12775fdf7f95e901d7119054556e495f" type="text/javascript"></script> <script defer src="/assets/js/jupyter_new_tab.js?d9f17b6adc2311cbabd747f4538bb15f"></script> <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js" integrity="sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI=" crossorigin="anonymous"></script> <script src="/assets/js/mathjax-setup.js?a5bb4e6a542c546dd929b24b8b236dfd"></script> <script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6" crossorigin="anonymous"></script> <script defer src="/assets/js/progress-bar.js?2f30e0e6801ea8f5036fa66e1ab0a71a" type="text/javascript"></script> <script src="/assets/js/vanilla-back-to-top.min.js?2199f026ea0709e7c63718bccf15694b"></script> <script>
     addBackToTop();
   </script> <script type="module" src="/assets/js/search/ninja-keys.min.js?a3446f084dcaecc5f75aa1757d087dcf"></script> <ninja-keys hidebreadcrumbs noautoloadmdicons placeholder="Type to start searching"></ninja-keys> <script src="/assets/js/search-setup.js?6c304f7b1992d4b60f7a07956e52f04a"></script> <script src="/assets/js/search-data.js"></script> <script src="/assets/js/shortcut-key.js?6f508d74becd347268a7f822bca7309d"></script> </body> </html>
