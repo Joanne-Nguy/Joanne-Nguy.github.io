@@ -12,7 +12,7 @@ toc:
 
 #### Abstract
 
-An analysis on kitten weight gain from 2 months to over 1 years old and caloric intake over the same time scale.
+An analysis on kitten weight gain and caloric intake from 2 months to over 1 years old.
 
 #### Materials
 
@@ -40,7 +40,7 @@ Approximately once a week:
     Taro as a kitten (left) and as a cat (right). Photo from Joanne.
 </div>
 
-Kittens are fast growing, showing near exponential growth when young, as observed in the first 4 weeks of **Fig 1**, where Taro recovered from a bad case of fleas (which will feed on his blood, depriving him of much-needed nutrients for survival and growth). The small kitten that started weighing a light 2.8 lbs grew to be a consistent 11±5% lbs. Funny enough, with his observed growth pattern, the veterinarian estimated his healthy adult weight to be a hefty 13 lbs, which he was never able to achieve.
+Kittens are fast growing, showing near exponential growth when young, as observed in the first 4 weeks of **Fig 1**, where Taro recovered from a bad case of fleas (which fed on his blood, depriving him of much-needed nutrients for survival and growth). The small kitten that started weighing a light 2.8 lbs grew to be a consistent 11±5% lbs. Funny enough, with his observed growth pattern, the veterinarian estimated his healthy adult weight to be a hefty 13 lbs, which he was never able to achieve.
 
 For the first 6 months of his growth journey, Taro's weight was measured in approximately 1 week intervals (with a small break during Christmas). It was observed that his weight consistently increased with some variability on a weekly basis due to measuring weight before/after meals or before/after using the litter box. However, a kitten's schedule is free-spirited, so the only constant is taking the measurement in the mornings. As he approached his first birthday, the measurements slowed, as did his growth.
 
