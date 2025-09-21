@@ -34,7 +34,7 @@ ninja.data = [{
       
         title: "Taro&#39;s growth",
       
-      description: "an analysis on kitten weight gain through a year",
+      description: "an analysis on kitten weight gain and caloric intake over a year",
       section: "Posts",
       handler: () => {
         
