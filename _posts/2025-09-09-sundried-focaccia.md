@@ -12,7 +12,7 @@ toc:
 
 #### Abstract
 
-A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
+A recipe for a simple no-knead sourdough focaccia with toppings reminiscent of pizza.
 
 #### Materials
 
@@ -40,7 +40,7 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
-|<input type="checkbox">|Sourdough starter|100g|Fed and doubled in size|
+|<input type="checkbox">|Sourdough starter|100g|Fed and doubled in size from previous step|
 |<input type="checkbox">|Water|428g|Filtered or bottled|
 |<input type="checkbox">|All-purpose Flour|512g|None|
 |<input type="checkbox">|Kosher salt|10g|None|
@@ -82,8 +82,8 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 8. Place the covered bowl in the fridge for an overnight cold fermentation.
 - The dough can be fermented for as little as 8h or as much as 48h to develop more of the sourdough tang. Cold fermentation past 72h will cause the dough to loose elasticity.
 
-##### Prepare Dough for Bulk Fermentation
-**Hands-on**: 10 mins | **Incubation**: 4-6h
+##### Prepare Dough for Bulk Fermentation and Baking
+**Hands-on**: 10 mins | **Incubation**: 4-6h and 45-50 mins
 1. Coat the baking pan evenly with olive oil.
 2. Remove the covered bowl with your dough from the refrigerator and gently pour contents into the oiled baking pan. The dough should pour cleanly, if not, scrape the sides of the bowl.
 3. Gently stretch the corners of the dough to fill in the bottom of the pan.
@@ -97,8 +97,8 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 8. Bake at 425<sup>o</sup>F for 35-40 mins or until the crust is browned.
 9. Remove pan from heat and let rest for 10 mins in the pan.
 10. Transfer focaccia to a wire rack to cool.
-11. Optionally, top with flaky sea salt to taste.
-
+11. Serve warm or double baked!
+- Optionally, top with flaky sea salt to taste.
 
 <table>
   <tr>
@@ -114,7 +114,7 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
     <td>Soak bread with tap water. Using the roast option on an air fryer, bake at 375<sup>o</sup>F for ~4 mins.</td>
   </tr>
   <tr>
-    <th>Update</th>
+    <th>Updates</th>
     <td><ul>
       <li>(09/26/2025) The fermentolysis step was changed from 30 mins to 1h. This allows the bulk fermentation step to be shortened (in my experience, from 6h to 4h).</li>
       <li>(09/26/2025) Bake time increased from 30-35 mins to 35-40 mins as longer time produced more consistently well-baked loaves, erring on the crispier side rather than under-baked.</li>
@@ -157,7 +157,7 @@ Some topping combinations I've tried or want to try:
 - Pizza sauce, mozzarella, sliced mushroom, sliced green pepper, oregano
   - **Note**: add the mozzarella in the last 10 mins of baking
 - [Garlic confit](https://joanne-nguy.github.io/blog/2025/garlic-confit/), rosemary
-- Peanuts in chili oil, sesame oil, furikake
+- Peanuts in Sichuan chili oil, sesame oil, furikake
 - Onions, olives, dill
 - Everything bagel seasoning
 - Mashed potatoes, oregano

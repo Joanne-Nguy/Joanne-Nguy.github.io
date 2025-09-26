@@ -11,20 +11,20 @@
   {% endif %}
 {% endcapture %}
 
-{% if site.footer_fixed %}
-  <footer class="fixed-bottom" role="contentinfo">
-    <div class="container mt-0">
-      {{ footer_contents }}
-    </div>
-  </footer>
-{% else %}
-  <footer class="sticky-bottom mt-5" role="contentinfo">
-    {% if site.newsletter.enabled %}
-      {% include newsletter.liquid %}
-    {% endif %}
+<!-- Floating footer for larger screens -->
+<footer class="fixed-bottom mt-5 d-none d-md-block" role="contentinfo">
+  <div class="container mt-0">
+    {{ footer_contents }}
+  </div>
+</footer>
 
-    <div class="container">
-      {{ footer_contents }}
-    </div>
-  </footer>
-{% endif %}
+<!-- Fixed footer for smaller screens -->
+<footer class="sticky-bottom d-block d-md-none" role="contentinfo">
+  {% if site.newsletter.enabled %}
+    {% include newsletter.liquid %}
+  {% endif %}
+
+  <div class="container">
+    {{ footer_contents }}
+  </div>
+</footer>
