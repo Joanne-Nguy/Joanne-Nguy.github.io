@@ -12,7 +12,7 @@ toc:
 
 #### Abstract
 
-A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
+A recipe for a simple no-knead sourdough focaccia with toppings reminiscent of pizza.
 
 #### Materials
 
@@ -24,6 +24,7 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 - Whisk or fork
 - Cheesecloth or Plastic wrap
 - 9x13" Baking pan
+- Wire rack
 
 #### Reagents
 
@@ -39,7 +40,7 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 
 ||Ingredient|Amount|Preparation|
 |:---|:---|:---|:---|
-|<input type="checkbox">|Sourdough starter|100g|Fed and doubled in size|
+|<input type="checkbox">|Sourdough starter|100g|Fed and doubled in size from previous step|
 |<input type="checkbox">|Water|428g|Filtered or bottled|
 |<input type="checkbox">|All-purpose Flour|512g|None|
 |<input type="checkbox">|Kosher salt|10g|None|
@@ -48,7 +49,7 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 |<input type="checkbox">|Oregano|2 Tsp|None|
 |<input type="checkbox">|Chili flakes|2 Tsp|None|
 |<input type="checkbox">|Garlic powder|2 Tsp|None|
-|<input type="checkbox">|Flaky sea salt|1 Tsp|None|
+|<input type="checkbox">|**Optional**: Flaky sea salt|1 Tsp|None|
 
 
 <br>
@@ -56,7 +57,7 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 #### Procedure
 
 ##### Prepare Active Sourdough Starter
-**Hands-on**: 5 mins| **Incubation**: 8-12h (For a 1:2:2 feeding)
+**Hands-on**: 5 mins | **Incubation**: 8-12h (For a 1:2:2 feeding)
 1. In a straight-walled jar, add 30g of refrigerated or fresh sourdough starter and 60g of water.
 2. Close the lid and shake jar contents until thoroughly mixed.
 3. Add 60g of flour and mix with a spatula until there are no more streaks of flour.
@@ -66,13 +67,13 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 - Depending on the incubation time that works best for your schedule, the sourdough can be fed at a 1:1:1 ratio for 4-6h until doubled or 1:5:5 for 12-16h until doubled.
 
 ##### Prepare Dough for Cold Fermentation
-**Hands-on**: 10 mins| **Incubation**: 30 mins and 12h
+**Hands-on**: 10 mins | **Incubation**: 30 mins and 12h
 1. From the active starter prepared above, add 100g to a medium mixing bowl.
 2. Add filtered water and salt.
 3. Whisk until there are no chunks of starter at the bottom of the bowl.
-4. Pour in the flour and mix with the spatula to ensure no streaks of flour in the dough.
-4. Let the dough rest for 30mins.
-- This step is autolysis, which allows the flour to hydrate and easier to work with.
+4. Pour in the flour and mix with the spatula to ensure no dry streaks of flour in the dough.
+4. Let the dough rest for 1 hour.
+- This step is fermentolysis with salt, which allows the flour to hydrate and makes it easier to work with.
 5. Perform one set of 8-10 stretch and folds, pulling each "corner" of the dough before the tearing point and stretching it across the top of the dough.
 5. Shape the dough into a dome shape, scraping down the sides of the bowl.
 6. Using your hands, pour 2 Tbsp of olive oil onto the top of the dough and coat evenly.
@@ -81,8 +82,8 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 8. Place the covered bowl in the fridge for an overnight cold fermentation.
 - The dough can be fermented for as little as 8h or as much as 48h to develop more of the sourdough tang. Cold fermentation past 72h will cause the dough to loose elasticity.
 
-##### Prepare Dough for Bulk Fermentation
-**Hands-on**: 10 mins| **Incubation**: 4-6h
+##### Prepare Dough for Bulk Fermentation and Baking
+**Hands-on**: 10 mins | **Incubation**: 4-6h and 45-50 mins
 1. Coat the baking pan evenly with olive oil.
 2. Remove the covered bowl with your dough from the refrigerator and gently pour contents into the oiled baking pan. The dough should pour cleanly, if not, scrape the sides of the bowl.
 3. Gently stretch the corners of the dough to fill in the bottom of the pan.
@@ -90,11 +91,14 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 - The duration of bulk fermentation depends on the ambient temperature.
 - The dough is ready after bulk fermentation if the dough rises ~50% or when a thumbprint is poked into the dough and it springs back slowly.
 5. Pre-heat the oven to 425<sup>o</sup>F
-6. Evenly add sun-dried tomatoes with the olive oil marinade, oregano, chili flakes, garlic powder and flaky sea salt. 
+6. Evenly add sun-dried tomatoes with the olive oil marinade, oregano, chili flakes and garlic powder. 
 7. Using all ten fingers, dimple the dough all the way down to the pan. 
 - This will help air bubbles migrate to the top of the bread without popping them.
-8. Bake at 425<sup>o</sup>F for 30-35 mins or until the crust is browned.
-
+8. Bake at 425<sup>o</sup>F for 35-40 mins or until the crust is browned.
+9. Remove pan from heat and let rest for 10 mins in the pan.
+10. Transfer focaccia to a wire rack to cool.
+11. Serve warm or double baked!
+- Optionally, top with flaky sea salt to taste.
 
 <table>
   <tr>
@@ -107,7 +111,15 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
   </tr>
   <tr>
     <th>Reheating</th>
-    <td>Soak bread with tap water. Using the roast option on an air fryer, bake at 375<sup>o</sup>F for 4 mins.</td>
+    <td>Soak bread with tap water. Using the roast option on an air fryer, bake at 375<sup>o</sup>F for ~4 mins.</td>
+  </tr>
+  <tr>
+    <th>Updates</th>
+    <td><ul>
+      <li>(09/26/2025) The fermentolysis step was changed from 30 mins to 1h. This allows the bulk fermentation step to be shortened (in my experience, from 6h to 4h).</li>
+      <li>(09/26/2025) Bake time increased from 30-35 mins to 35-40 mins as longer time produced more consistently well-baked loaves, erring on the crispier side rather than under-baked.</li>
+      <li>(09/26/2025) Added cooling step after baking.</li>
+    </ul></td>
   </tr>
 </table><br>
 
@@ -130,10 +142,31 @@ A recipe for a simple sourdough focaccia with toppings reminiscent of pizza.
 
 After recently coming into the possession of a sourdough starter, I've been making the basic rosemary focaccia recipe and wanted to change it up with a pizza-inspired focaccia with acidic sun-dried tomatoes as the star ingredient, with support from dried oregano, garlic powder and chili flakes. I was instantly transported to my favorite corner pizza shop. With a flour hydration of 78%, this recipe produces a focaccia that has a lovely airy and open crumb that seems to melt in your mouth following the satisfying crunch of an olive oil-toasted crust.
 
-Focaccia is a forgiving recipe that will continue to give you consistent results even with inconsistent preparations. Since starting this journey, I have been experimenting with getting to know how my starter behaves in my specific kitchen conditions. Not everyone will have the same ambient environment and that can wildly affect how a recipe will behave in your kitchen. This focaccia was made in a kitchen that is around 72-75<sup>o</sup>F with humidity consistently 60%+. Since my kitchen is on the cooler side, I have been placing my starter and dough in the warm cabinet under my sink for the autolysis step and on trivets rather than the cold counters for the bulk fermentation. Even humidity in the air will affect how the dough will hydrate--although I have been using the standard hydration percentage just fine, I will cold ferment the dough covered only by a cheesecloth, which allows moisture to be wicked from the top of the dough.
+Focaccia is a forgiving recipe that will continue to give you consistent results even with inconsistent preparations. Since starting this journey, I have been experimenting with getting to know how my starter behaves in my specific kitchen conditions. Not everyone will have the same ambient environment and that can wildly affect how a recipe will behave in your kitchen. This focaccia was made in a kitchen that is around 72-75<sup>o</sup>F with humidity consistently 60%+. Since my kitchen is on the cooler side, I have been placing my starter and dough in the warm cabinet under my sink for the fermentolysis step and on trivets rather than the cold counters for the bulk fermentation. Even humidity in the air will affect how the dough will hydrate--although I have been using the standard hydration percentage just fine, I will cold ferment the dough covered only by a cheesecloth, which allows moisture to be wicked from the top of the dough.
 
 ##### Topping Substitutions
 
 For this recipe, I wanted to recreate how eating a pizza feels but without the mess of the sauce--plus I had sun-dried tomatoes sitting in my pantry for who knows how long, that were itching to be used. I've procured some fresh mozzarella and will be using that in my next batch of focaccia for a creamier, stretchy cheesiness that this recipe was frankly missing. The toppings as is are sufficient, but the addition of mozzarella should elevate it from pizza-inspired to to pizza-competitor.
 
 The toppings chosen for a focaccia recipe can vary greatly, starting from anything readily-available in your herb garden or pantry, to more gourmet grocery store offerings. Since focaccia is a light tasting bread with tanginess from the sourdough and earthy, fruitiness of the olive oil, toppings that offer a bit of saltiness or umami wil greatly pair with it.
+
+Some topping combinations I've tried or want to try:
+<br/>Savory:
+- Sundried tomatoes, oregano, chili flakes, garlic powder, Maldon salt
+- Rosemary, Maldon salt, paprika
+- Pizza sauce, mozzarella, sliced mushroom, sliced green pepper, oregano
+  - **Note**: add the mozzarella in the last 10 mins of baking
+- [Garlic confit](https://joanne-nguy.github.io/blog/2025/garlic-confit/), rosemary
+- Peanuts in Sichuan chili oil, sesame oil, furikake
+- Onions, olives, dill
+- Everything bagel seasoning
+- Mashed potatoes, oregano
+- "Pho-caccia", hoisin sauce, fish sauce, onion slices, topped with cilantro and Thai basil
+  - Substitute water in dough with pho broth
+- Pork floss, butter, scallion
+- Shiitake mushroom, garlic, hoisin
+
+<br/>Sweet:
+- Fig, [hot honey](https://joanne-nguy.github.io/blog/2025/hot-honey/), feta
+- Cinnamon, butter, topped with cream cheese frosting
+- Pineapple, shredded coconut
